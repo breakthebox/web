@@ -1,0 +1,269 @@
+.navbar-default, .navbar-brand{
+    padding: 0px;
+}
+.navbar-nav a{
+    text-transform: uppercase;
+}
+.navbar{
+    border:0px;
+}
+
+
+.navbar hr{
+    color: #f5eed6;
+    margin:0px;
+    opacity:0;
+    transition: opacity 1s ease-in-out;
+}
+
+.navbar-scrolled hr{
+    opacity: 1;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:active, .navbar-default .navbar-nav>li>a:visited {
+    color: #f5eed6;
+}
+
+.navbar-brand img{
+    height:100%;
+}
+.navbar-brand{
+    padding:10px;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+.navbar-scrolled .navbar-brand{
+    opacity: 1;
+}
+
+
+body{
+    font-family: "LatoLatinWeb";
+}
+body, .dark-bgr{
+    background-color: #262626;
+    color: #f5eed6;
+}
+
+.light-bgr{
+    color: #262626;
+    background-color: #f5eed5;
+}
+
+.blue-bgr{
+    background-color: #527a98;
+    color: #f5eed6;
+}
+
+.mainlogo, .statement{
+    text-align:center;
+}
+.mainlogo img{
+    max-height: 50vh;
+    max-width: 70%;
+    margin-bottom: 2em;
+    margin-top:2em;
+}
+
+.statement{
+    font-size:2.5em;
+    font-weight: bold;
+}
+
+.substatement{
+    font-size:0.8em;
+    font-weight: normal;
+}
+
+.container{
+    position:relative;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    min-height: 16em;
+    padding-right: 4em;
+    padding-left: 4em;
+}
+
+.row {
+    text-align: justify;
+}
+
+.featurette .col-md-2{
+    text-align:center;
+}
+
+
+.watermark
+{
+    text-align:right;
+    width:1em;
+    white-space: nowrap;
+    position:absolute;
+    display:inline-block;
+    font-size: 2.5em;
+    transform: rotate(270deg);
+    top: 5em;
+    right:0em;
+    transform-origin: center center 0;
+    opacity:0.2;
+    text-transform: uppercase;
+}
+
+.bubbleContent{
+    font-size: 1.5em;
+    padding: 10px;
+    overflow:hidden;
+}
+
+.bubble
+{
+    display: inline-block;
+    margin-bottom: 1em;
+    position: relative;
+    width: 45%;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.bubbleLeft:after{
+    content: '';
+    position: absolute;
+    border-style: solid;
+    border-width: 12px 18px 12px 0;
+    border-color: transparent #f5eed5;
+    display: block;
+    width: 0;
+    z-index: 1;
+    left: -18px;
+    top: 15px;
+}
+
+.cvBubble .bubbleLeft:after{
+    border-color: transparent #527a98;
+    top:16.5em;
+}
+
+.bubbleLeft{
+    color: #262626;
+    background: #f5eed5;
+}
+
+.cvBubble .bubbleLeft{
+    color: #f5eed5;
+    background: #527a98;
+}
+
+
+.bubbleRight{
+    background-color: #262626;
+    color: #f5eed6;
+    right:0px;
+}
+
+.bubbleRight:after
+{
+    content: '';
+    position: absolute;
+    border-style: solid;
+    border-color: transparent #262626;
+    display: block;
+    width: 0;
+    z-index: 1;
+    right: -18px;
+    top: 15px;
+    border-width: 12px 0 12px 18px;
+}
+
+.cvBubble .bubbleRight:after{
+    top: 4em;
+}
+@media (max-width: 768px) {
+    .bubble {
+        width: 80%;
+    }
+}
+
+.overview div{
+    text-align: center;
+}
+.overview p{
+    text-align:justify;
+}
+
+.cvBubble .bubbleRight{
+    position:relative;
+}
+
+.cvProfilePictures img{
+    margin-bottom: 4em;
+    height:10em;
+    width:10em;
+}
+
+.cvLeft img{
+    position:absolute;
+    height: 10em;
+    width:10em;
+    right:-5em;
+}
+
+.cvLeft{
+    padding-right: 7em;
+}
+
+.cvRight{
+    padding-left: 7em;
+}
+
+.cvLeft .bubble{
+    width:100%;
+}
+
+.cvRight .bubble{
+    width:100%;
+}
+
+
+.cvRight img{
+    position:absolute;
+    height: 10em;
+    width:10em;
+    left:-5em;
+    top: 12em;
+}
+
+.cvBubble .bubbleContent{
+    font-size:1.2em;
+
+}
+
+.right{
+    text-align:right;
+}
+
+.anchor{
+    top:-2em;
+}
+
+.refpictureWrap{
+    height:20em;
+
+    text-align: center;
+    background-color:white;
+
+    overflow:hidden;
+}
+.refpicture {
+    display: table-cell;
+    vertical-align: middle;
+    width:100%;
+    height:20em;
+    background-color:white;
+}
+
+
+.refpicture img{
+    width:100%;
+}
