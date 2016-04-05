@@ -48,7 +48,7 @@ body, .dark-bgr{
 
 .light-bgr{
     color: #262626;
-    background-color: #f5eed5;
+    background-color: #f5eed5; 
 }
 
 .blue-bgr{
@@ -125,6 +125,7 @@ body, .dark-bgr{
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
+    box-shadow: 2px 2px;
 }
 
 .bubbleLeft:after{
