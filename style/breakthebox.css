@@ -21,7 +21,7 @@
 }
 
 .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:active, .navbar-default .navbar-nav>li>a:visited {
-    color: #f5eed6;
+    color: #fff;
 }
 
 .navbar-brand img{
@@ -43,17 +43,39 @@ body{
 }
 body, .dark-bgr{
     background-color: #262626;
-    color: #f5eed6;
+    color: #fff;
+}
+
+.csvlist {
+    text-align: left !important;
+
+}
+.csvlist a {
+    margin: .5em;
+    color: white;
+    white-space: nowrap;
+}
+
+.csvlist a:hover {
+    font-size: 1.2em;
+    -webkit-transition: font 0.3s ease;
+-moz-transition: font 0.3s ease;
+-o-transition: font 0.3s ease;
+-ms-transition: font 0.3s ease;
+}
+
+.highlight:hover {
+    color: #D9AC32;
 }
 
 .light-bgr,  .modal-content{
     color: #262626;
-    background-color: #f5eed5;
+    background-color: #f5eed5; 
 }
 
 .blue-bgr{
     background-color: #527a98;
-    color: #f5eed6;
+    color: #fff;
 }
 
 .mainlogo, .statement{
@@ -93,6 +115,10 @@ body, .dark-bgr{
     text-align:center;
 }
 
+.what, .why {
+    margin: 1em 0;
+}
+
 
 .watermark
 {
@@ -101,10 +127,11 @@ body, .dark-bgr{
     white-space: nowrap;
     position:absolute;
     display:inline-block;
-    font-size: 2.5em;
-    transform: rotate(270deg);
-    top: 5em;
-    right:0em;
+    font-size: 8em;
+    transform: rotate(90deg);
+    font-weight: bold;
+    top: 0em;
+    right:-1em;
     transform-origin: center center 0;
     opacity:0.2;
     text-transform: uppercase;
@@ -132,7 +159,7 @@ body, .dark-bgr{
     position: absolute;
     border-style: solid;
     border-width: 12px 18px 12px 0;
-    border-color: transparent #f5eed5;
+    border-color: transparent #fff;
     display: block;
     width: 0;
     z-index: 1;
@@ -147,18 +174,18 @@ body, .dark-bgr{
 
 .bubbleLeft{
     color: #262626;
-    background: #f5eed5;
+    background: #fff;
 }
 
 .cvBubble .bubbleLeft{
-    color: #f5eed5;
+    color: #fff;
     background: #527a98;
 }
 
 
 .bubbleRight{
     background-color: #262626;
-    color: #f5eed6;
+    color: #fff;
     right:0px;
 }
 
