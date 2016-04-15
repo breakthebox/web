@@ -46,7 +46,7 @@ body, .dark-bgr{
     color: #f5eed6;
 }
 
-.light-bgr{
+.light-bgr,  .modal-content{
     color: #262626;
     background-color: #f5eed5;
 }
@@ -80,7 +80,7 @@ body, .dark-bgr{
     position:relative;
     padding-top: 3em;
     padding-bottom: 3em;
-    min-height: 16em;
+    min-height: 25em;
     padding-right: 4em;
     padding-left: 4em;
 }
@@ -111,7 +111,7 @@ body, .dark-bgr{
 }
 
 .bubbleContent{
-    font-size: 1.5em;
+    font-size: 1.2em;
     padding: 10px;
     overflow:hidden;
 }
@@ -137,7 +137,7 @@ body, .dark-bgr{
     width: 0;
     z-index: 1;
     left: -18px;
-    top: 15px;
+    top: 8px;
 }
 
 .cvBubble .bubbleLeft:after{
@@ -172,17 +172,22 @@ body, .dark-bgr{
     width: 0;
     z-index: 1;
     right: -18px;
-    top: 15px;
+    top: 8px;
     border-width: 12px 0 12px 18px;
 }
 
 .cvBubble .bubbleRight:after{
     top: 4em;
 }
-@media (max-width: 768px) {
-    .bubble {
-        width: 80%;
-    }
+
+h1{
+    font-size: 2.5em;
+}
+h2{
+    font-size: 2em;
+}
+h3{
+    font-size: 1.5em;
 }
 
 .overview div{
@@ -266,4 +271,84 @@ body, .dark-bgr{
 
 .refpicture img{
     width:100%;
+}
+
+.col-md-4{
+    margin-bottom: 2em;
+}
+
+@media (max-width: 768px) {
+    .cvLeft img{
+        width: 5em;
+        height:5em;
+        right:0em;
+    }
+    .cvRight img{
+        width: 5em;
+        height:5em;
+        left:0em;
+    }
+
+    .cvBubble .bubbleLeft:after{
+        top: 13.5em;
+    }
+    .cvBubble .bubbleRight:after{
+        top:1.5em;
+    }
+}
+
+
+@media (max-width: 500px) {
+    .bubble {
+        width: 80%;
+    }
+    .statement{
+        font-size:4.7vw;
+    }
+    .substatement{
+        font-size:4vw;
+    }
+    body{
+        font-size: 3.2vw;
+    }
+    /*.cvLeft{*/
+        /*padding-right:0;*/
+    /*}*/
+    /*.cvRight{*/
+        /*padding-left:0;*/
+    /*}*/
+
+    .cvBubble .bubbleLeft:after{
+        top: 13.5em;
+    }
+    .cvBubble .bubbleRight:after{
+        top:1.5em;
+    }
+
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+}
+.navbar-default .navbar-toggle, .navbar-default .navbar-toggle .icon-bar{
+    border-color: #f5eed6;
+}
+.navbar-default .navbar-toggle .icon-bar{
+    background-color: #f5eed6;
+}
+.navbar-collapse.collapse.in{
+    border-bottom: 1px solid #f5eed6;
+}
+
+.btn-default, .btn-default:hover,  .btn-default:active, .btn-default:visited{
+    color: #262626;
+    background-color: #f5eed6;
+}
+
+.carousel-control.right{
+
+}
+.carousel-control.right, .carousel-control.left{
+    background: transparent;
+    width: 2em;
 }
