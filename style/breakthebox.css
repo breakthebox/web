@@ -46,6 +46,28 @@ body, .dark-bgr{
     color: #fff;
 }
 
+.csvlist {
+    text-align: left !important;
+
+}
+.csvlist a {
+    margin: .5em;
+    color: white;
+    white-space: nowrap;
+}
+
+.csvlist a:hover {
+    font-size: 1.2em;
+    -webkit-transition: font 0.3s ease;
+-moz-transition: font 0.3s ease;
+-o-transition: font 0.3s ease;
+-ms-transition: font 0.3s ease;
+}
+
+.highlight:hover {
+    color: #D9AC32;
+}
+
 .light-bgr{
     color: #262626;
     background-color: #f5eed5; 
