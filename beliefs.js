@@ -46,7 +46,7 @@ var beliefs = [
 
 var r = Math.floor(Math.random() * beliefs.length);
 var getDynamicWriteLength = function(){
-    var writespeed = 1000;
+    var writespeed = 750;
     return (Math.random()+1)*writespeed;
 };
 
@@ -56,22 +56,21 @@ var conversation = function() {
         clearTimeout(timers[i]);
     }
     timers = [];
-    $("#belief").text("...");
-    $("#avatar_belief").hide();
-    $("#avatar_reason").hide();
-    $("#reasonBubble").hide();
-    $("#beliefBubble").hide();
+    $("#avatarBelief").hide();
+    $("#avatarReason").hide();
+    $("#bubbleReason").hide();
+    $("#bubbleBelief").hide();
     timers.push(window.setTimeout(function () {
-        $("#avatar_belief").attr('src', beliefs[r].avatar_belief);
+        $("#avatarBelief").attr('src', beliefs[r].avatar_belief);
+        $("#avatarBelief").show();
+        $("#bubbleBelief").show();
         $("#belief").text("...");
-        $("#beliefBubble").show();
-        $("#avatar_belief").show();
         timers.push(window.setTimeout(function () {
             $("#belief").text(beliefs[r].belief);
             timers.push(window.setTimeout(function () {
-                $("#avatar_reason").attr('src', beliefs[r].avatar_reason);
-                $("#avatar_reason").show();
-                $("#reasonBubble").show();
+                $("#avatarReason").attr('src', beliefs[r].avatar_reason);
+                $("#avatarReason").show();
+                $("#bubbleReason").show();
                 $("#reason").text("...");
                 timers.push(window.setTimeout(function () {
                     $("#reason").text(beliefs[r].reason);
@@ -81,7 +80,7 @@ var conversation = function() {
                 }, getDynamicWriteLength()));
             }, getDynamicWriteLength()))
         }, getDynamicWriteLength()));
-    }, getDynamicWriteLength()*0.5));
+    }, getDynamicWriteLength()));
 };
 
 var nextBelief = function(){
