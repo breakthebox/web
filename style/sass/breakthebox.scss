@@ -187,7 +187,7 @@ body {
  	padding: 0;
  	.navbar-nav > li > a {
  		a, a:hover, a:visited, a:active {
- 			color: $fg-light;
+ 			color: white;
  		}
  	}
  }
@@ -490,9 +490,36 @@ body {
 /**
  * --- FOOTER
  */
-.footer {
-	font-size: 0.8em;
-}
+ .footer {
+ }
+
+ .footer-socialmedia {
+ 	display: flex;
+ 	justify-content: space-between;
+ 	margin: 1em;
+ 	color: $fg-light;
+
+ 	a {
+ 		text-decoration: none;
+ 	}
+
+ 	a:hover {
+ 		color: $link-hover;
+ 	}
+ }
+
+ .disclaimer {
+ 	text-align: center;
+ 	font-size: 0.8em;
+ }
+
+ @media (min-width: $screen-md-min) {
+ 	.phone {
+ 		text-align: right;
+ 	}
+ }
+
+
 
 
 

@@ -411,7 +411,22 @@ h3 {
 /**
  * --- FOOTER
  */
-.footer {
+.footer-socialmedia {
+  display: flex;
+  justify-content: space-between;
+  margin: 1em;
+  color: white; }
+  .footer-socialmedia a {
+    text-decoration: none; }
+  .footer-socialmedia a:hover {
+    color: #527a98; }
+
+.disclaimer {
+  text-align: center;
   font-size: 0.8em; }
+
+@media (min-width: 992px) {
+  .phone {
+    text-align: right; } }
 
 /*# sourceMappingURL=breakthebox.css.map */
