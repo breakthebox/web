@@ -100,7 +100,13 @@ body {
  .container {
  	position: relative;
  	padding: 3em 4em;
- 	min-height: 25em;
+ 	min-height: 35em;
+ }
+
+@media(min-width: $screen-sm-min) {
+ 	.container {
+ 		min-height: 20em;
+ 	}
  }
 
  .row {
@@ -241,37 +247,45 @@ body {
  }
 
  .chat-avatar {
- 	width: 40px;
- 	height: 40px;
+ 	width: 12vw;
+ 	height: 12vw;
+ 	max-height: 6em;
+ 	max-width: 6em;
+ }
+
+ .chat-avatar-left {
+	position: absolute;
+	right: 10px;
+ }
+
+ .chat-avatar-right {
+	position: absolute;
+	left: 10px;
  }
 
  @media (min-width: $screen-sm-min) {
  	.chat-avatar {
- 		width: 60px;
- 		height: 60px;
- 		margin-top: -10px;
+ 		margin-top: -15px;
  	}
  }
 
  @media (min-width: $screen-md-min) {
  	.chat-avatar {
- 		width: 80px;
- 		height: 80px;
  		margin-top: -20px;
  	}
  }
 
  .chat-bubble-left {
- 	@include bubble(100%, $bg-dark, $fg-light, 18px, 0, 8px);
+ 	@include bubble(100%, $bg-dark, $fg-light, 10px, 0, 8px);
  	:after {
- 		left: -18px;
+ 		left: -10px;
  	}
  }
 
  .chat-bubble-right {
- 	@include bubble(100%, white, $fg-dark, 0, 18px, 8px);
+ 	@include bubble(100%, white, $fg-dark, 0, 10px, 8px);
  	:after {
- 		right: -18px;
+ 		right: -10px;
  	}
  }
 
@@ -388,8 +402,8 @@ body {
 
 
   .cv-avatar-left {
-  	height: 10vw;
-  	width: 10vw;
+  	height: 15vw;
+  	width: 15vw;
   	max-height: 10em;
   	max-width: 10em;
   	position: absolute;
@@ -397,8 +411,8 @@ body {
   }
 
   .cv-avatar-right {
-  	height: 10vw;
-  	width: 10vw;
+  	height: 15vw;
+  	width: 15vw;
   	max-height: 10em;
   	max-width: 10em;
   	position: absolute;
@@ -417,13 +431,28 @@ body {
   	}
 
   	.cv-avatar-right {
-  		height: 10vw;
-  		width: 10vw;
-  		max-height: 10em;
-  		max-width: 10em;
-  		position: absolute;
-  		left: -3vw;
-  		top: 13.5em;
+  		top: 14em;
+  		max-height: 7em;
+  		max-width: 7em;
+  	}
+  	.cv-avatar-left {
+  		max-height: 7em;
+  		max-width: 7em;
+  	}
+
+  }
+
+  @media(min-width: $screen-lg-min) {
+  	.cv-avatar-right {
+  		max-height: 9em;
+  		max-width: 9em;
+  		left: -3em;
+
+  	}
+  	.cv-avatar-left {
+  		max-height: 9em;
+  		max-width: 9em;
+  		right: -3em;
   	}
 
   }
