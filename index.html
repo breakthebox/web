@@ -40,10 +40,10 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#weoffer">we offer</a></li>
-                <li><a href="#youget">you get</a></li>
-                <li><a href="#weare">we are</a></li>
-                <li><a href="#wedo">we do</a></li>
+                <li><a href="#weoffer" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">we offer</a></li>
+                <li><a href="#youget" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">you get</a></li>
+                <li><a href="#weare" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">we are</a></li>
+                <li><a href="#wedo" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">we do</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
@@ -65,24 +65,24 @@
 <div class="bg-light">
     <div class="container chat">
         <div class="row">
-            <div class="col-md-2 col-sm-2 col-xs-2">
+            <div class="col-md-2 col-sm-2 col-xs-1">
                 <img id="avatarBelief" class="img-circle chat-avatar chat-avatar-left"/>
             </div>
-            <div class="col-md-5 col-sm-7 col-xs-6">
+            <div class="col-md-5 col-sm-7 col-xs-10">
                 <div id="bubbleBelief" class="chat-bubble-left">
                     <div id="belief" class="bubble-content"/>
                 </div>
             </div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-5 col-md-offset-5 col-sm-7 col-sm-offset-3 col-xs-6 col-xs-offset-3">
+    <div class="row clear" style="margin-top:1em;">
+        <div class="col-md-5 col-md-offset-5 col-sm-7 col-sm-offset-3 col-xs-10 ">
             <div id="bubbleReason" class="chat-bubble-right">
                 <div id="reason" class="bubble-content"/>
             </div>
         </div>
     </div>
-    <div class="col-md-2 col-sm-2 col-xs-2">
+    <div class="col-md-2 col-sm-2 col-xs-1">
         <img id="avatarReason" class="img-circle chat-avatar chat-avatar-right"/>
     </div>
 </div>
@@ -122,7 +122,7 @@
 
                 <p>
                     Wir ...
-                <ul class="weoffer-list">
+                <ul class="weoffer-list enumeration">
                     <li>... kritzeln <label>Sketches</label> von Ideen</li>
                     <li>... zeichnen <label>Graphic Recordings</label> von Meetings, Speeches, Workshops etc.</li>
                     <li>... erstellen <label>VideoScribes</label> von Projekten, Produkten, Stories und Konzepten</li>
@@ -150,7 +150,7 @@
                 <p>Wir...</p>
 
                 <p>
-                <ul class="weoffer-list">
+                <ul class="weoffer-list enumeration">
                     <li>... analysieren Ihre <label>Prozesse</label></li>
                     <li>... ermitteln, validieren, dokumentieren und verwalten Ihre <label>Anforderungen</label></li>
                     <li>... führen <label>Bedarfsanalysen</label> durch</li>
@@ -178,7 +178,7 @@
 
                 <p>
                     Wir...
-                <ul class="weoffer-list">
+                <ul class="weoffer-list enumeration">
                     <li>... eruieren Potential für <label>Prozessoptimierungen</label> mit modernen Mitteln in Ihrem
                         Betrieb
                     </li>
@@ -206,9 +206,10 @@
                 <h2 class="featurette-heading">Prototyping</h2>
 
                 <p>Wir...
-                <ul class="weoffer-list">
+                <ul class="weoffer-list enumeration">
                     <li>... stellen <label>Papierprototypen</label> von Produktideen her</li>
-                    <li>... implementieren<label>interaktive Prototypen</label> von ausgereiften Software Konzepten</li>
+                    <li>... implementieren <label>interaktive Prototypen</label> von ausgereiften Software Konzepten
+                    </li>
                     <li>... führen <label>Benutzertests</label> von analogen und digitalen Prototypen mit potentiellen
                         internen und externen Endbenutzern durch
                     </li>
@@ -259,7 +260,7 @@
                     als:</p>
 
                 <p>
-                <ul class="youget-csvlist">
+                <ul class="youget-csvlist enumeration">
                     <li><label>Scrum Master</label></li>
                     <li><label>Scrum Product Owner</label></li>
                     <li><label>Software Architect</label></li>
@@ -290,7 +291,7 @@
                     Rahmen von:</p>
 
                 <p>
-                <ul class="youget-csvlist">
+                <ul class="youget-csvlist enumeration">
                     <li><label>Workshops</label></li>
                     <li><label>Schulungen (Technisch oder Methodisch)</label></li>
                     <li><label>Vorträgen</label></li>
@@ -313,7 +314,7 @@
 
                 <p>Sie benötigen Hilfe bei der Lösung eines konkreten Problems? Gerne erstellen wir für Sie:</p>
                 <p>
-                <ul class="youget-csvlist">
+                <ul class="youget-csvlist enumeration">
                     <li><label>Visualisierungen</label></li>
                     <li><label>Mockups</label></li>
                     <li><label>Konzepte</label></li>
@@ -349,13 +350,9 @@
         <div class="row overview">
 
             <!-- bubble left -->
-            <div class="col-md-6">
+            <div class="cv-bubble-container">
 
-                <img class="img-circle cv-avatar-left"
-                     src="https://s.gravatar.com/avatar/aa705336ad39eb523f22e883ebee1dc8?s=140"
-                     alt="Brigitte Hulliger">
-
-                <div class="cv-bubble-right">
+                <div class="col-xs-12 col-sm-9 col-md-10 cv-bubble-right ">
                     <div class="bubble-content" itemprop="founder" itemscope itemtype="http://schema.org/Person">
 
                         <h2 itemprop="name">Brigitte Hulliger</h2>
@@ -406,7 +403,7 @@
                                                type="application/x-shockwave-flash"
                                                pluginspage="http://www.adobe.com/go/getflashplayer_en"/>
                                         <img alt="CV" src="media/eh5v.files/html5video/CV.jpg"
-                                             style="position:absolute;left:0;" width="100%"
+                                             style="position:absolute;left:0; width:100%;" width="100%"
                                              title="Video playback is not supported by your browser"/>
                                     </object>
                                 </video>
@@ -434,16 +431,19 @@
 
                     </div>
                 </div>
+                <img class="col-xs-6 col-sm-3 col-md-2 cv-avatar img-circle"
+                     src="https://s.gravatar.com/avatar/aa705336ad39eb523f22e883ebee1dc8?s=140"
+                     alt="Brigitte Hulliger">
             </div>
 
             <!-- bubble right -->
-            <div class="col-md-6">
+            <div class="cv-bubble-container clear">
 
-                <img class="img-circle cv-avatar-right"
+                <img class="col-xs-6 col-sm-3 col-md-2 img-circle cv-avatar"
                      src="https://s.gravatar.com/avatar/7d69ac318121023d70962f81f266e7e2?s=80"
                      alt="Oliver Schmid">
 
-                <div class="cv-bubble-left">
+                <div class="col-xs-12 col-sm-9 col-md-10 cv-bubble-left">
                     <div class="bubble-content" itemprop="founder" itemscope itemtype="http://schema.org/Person">
                         <h2 itemprop="name">Oliver Schmid</h2>
                         <p>
@@ -467,14 +467,16 @@
                             unterschiedliche Branchen.
                         </p>
                         <p>
-                            Interdisziplinarität ist mir ein grosses Anliegen &ndash; so habe ich 2013 mein <b>Doktoratsstudium
-                            der Informatik</b> (Dr. sc. inf.) an der Universität Fribourg im Bereich <a
+                            Interdisziplinarität ist mir ein grosses Anliegen &ndash; so habe ich 2013 mein
+                            Doktoratsstudium
+                            der <b>Informatik</b> (Dr. sc. inf.) an der Universität Fribourg im Bereich <a
                                 href="http://twice.olinux.ch">kollaborativer, spontaner Echtzeit-Webapplikationen
                             (TWICE)</a> abgeschlossen, welches ich neben meiner Teilzeit-Anstellung absolvierte. 2009
-                            schloss ich mein Studium zum <a href="http://studies.unifr.ch/de/master/eco/infosystems"><b>Master
-                            of Arts in Wirtschaftsinformatik</b></a> ab und erlangte 2006 das Diplom zum <a
-                                href="http://studies.unifr.ch/de/bachelor/pedpsy/educationalsciences"><b>Bachelor of
-                            Science in Erziehungswissenschaften</b></a> (Pädagogik und Pädagogische Psychologie). Auch
+                            schloss ich mein Studium zum <a href="http://studies.unifr.ch/de/master/eco/infosystems">Master
+                            of Arts in <b>Wirtschaftsinformatik</b></a> ab und erlangte 2006 das Diplom zum <a
+                                href="http://studies.unifr.ch/de/bachelor/pedpsy/educationalsciences">Bachelor of
+                            Science in <b>Erziehungswissenschaften</b></a> (Pädagogik und Pädagogische Psychologie).
+                            Auch
                             die kontinuierliche Weiterbildung, z.B. als <a
                                 href="https://www.scrumalliance.org/certifications/practitioners/cspo-certification">Certified
                             Scrum Product Owner</a> oder im Bereich <a
@@ -513,100 +515,140 @@
 
         <div class="row">
             <h1>Ein Auszug aus unseren Projekten...</h1>
+            <p>Einige Projekte sind noch vor Break the Box im Rahmen von Anstellungsverhältnissen bei früheren
+                Arbeitgebern entstanden. Diese sind mit einem @ und dem zugehörigen Entstehungsort gekennzeichnet.</p>
         </div>
 
         <div class="watermark">
             we do
         </div>
-        <div class="row">
+        <div class="row wedo-projects">
+                <div class="wedo-project" id="agile_hackday">
+                    <div class="projectImage">
+                        <img src="img/agile_hackday.png"/>
+                    </div>
+                    <h3>Agile Hackday @ <img class="atWorkplace" src="img/bls.gif"/></h3>
+                    <p>Ein 1.5 stündiger Workshop zum Thema "Agilität" mit theoretischem und praktischem (Lego-Scrum) Teil.</p>
+                </div>
 
-            <div class="col-xs-6 col-sm-4 col-md-3 wedo-project" id="codola">
+                <div class="wedo-project" id="tagcloud">
+                    <div class="projectImage">
+                        <img src="img/tagcloud.png"/>
+                    </div>
+                    <h3>Ring Tagcloud</h3>
+                    <p>
+                        Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo,
+                        tortor
+                        mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
+                        magna
+                        mollis euismod. Donec sed odio dui.
+                    </p>
+                </div>
 
-                <img src="img/codola.png" class="spacing"/>
-                <h3>CoDoLa</h3>
-                <p>Ein Projekt für eine unternehmensweite, kollaborative, kontinuierliche und versionierte
-                    Dokumentationsläsung mithilfe von LaTeX und GIT.
-                </p>
-            </div>
+                <div class="wedo-project" id="bls_gurten">
+                    <div class="projectImage">
+                        <img src="img/bls_gurten.jpg"/>
+                    </div>
+                    <h3>Usertesting Gurten @ <img class="atWorkplace" src="img/bls.gif"/></h3>
+                    <p>Die Erstellung eines "Minimal Viable Products" einer Freizeit-Applikation inkl. User-Testing mit knapp 100 Teilnehmer.
+                    </p>
+                </div>
 
-            <div class="col-xs-6 col-sm-4 col-md-3 wedo-project" id="robot">
-                <img src="img/robot.png" class="spacing"/>
-                <h3>Robot</h3>
-                <p>
-                    Ein auf einem Lego Mindstorms NXT, Raspberry Pi und Android-Smartphone basierenden Roboter zur
-                    Auseinandersetzung mit den Themen Robotik, Sensorik, Computer Vision, Mensch-Maschine-Interaktion
-                    und Machine Learning.
-                </p>
-            </div>
+                <div class="wedo-project" id="cv">
+                    <div class="projectImage">
+                        <img src="img/cv.png"/>
+                    </div>
+                    <h3>Curriculum Vitae</h3>
+                    <p>
+                        Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo,
+                        tortor
+                        mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
+                        magna
+                        mollis euismod. Donec sed odio dui.
+                    </p>
+                </div>
+                <div class="wedo-project" id="twice">
+                    <div class="projectImage">
+                        <img src="img/twice.png"/>
+                    </div>
+                    <h3>TWICE</h3>
+                    <p>
+                        Das "Toolkit for Web-based Interactive Collaborative Environments" ist ein
+                        Entwicklungs-Framework zur Erstellung von webbasierter Kollaborationssoftware.
+                    </p>
+                </div>
 
-            <div class="col-xs-6 col-sm-4 col-md-3 wedo-project" id="twice">
-                <img src="img/twice.png"/>
-                <h3>TWICE</h3>
-                <p>
-                    Das "Toolkit for Web-based Interactive Collaborative Environments" ist ein Entwicklungs-Framework,
-                    welches
-                    die Erstellung von webbasierter Software zur Unterstützung von synchroner, spontaner Kollaboration
-                    ermöglicht.
-                </p>
-            </div>
+                <div class="wedo-project" id="doclet">
+                    <div class="projectImage">
+                        <img src="img/@doclet.png"/>
+                    </div>
+                    <h3>@-doclet</h3>
+                    <p>
+                        Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo,
+                        tortor
+                        mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada
+                        magna
+                        mollis euismod. Donec sed odio dui.
+                    </p>
+                </div>
 
-            <div class="col-xs-6 col-sm-4 col-md-3 wedo-project" id="professionalMinds">
-                <h3>Professional Minds</h3>
-                <p>
-                    Eine in der Anstellung am Departement für Erziehungswissenschaften an der Universität Fribourg
-                    entwickelte, medienbasierte Diagnosesoftware für das Forschungsprojekt "Professional Minds".
-                    <!--Links
-                    http://www.sgab-srfp.ch/de/node/168
-                    http://www.amazon.de/Lernenden-f%C3%B6rdernd-Feedback-geben-Bauder/dp/3039057553/ref=asap_bc?ie=UTF8 -->
-                </p>
-            </div>
+                <div class="wedo-project" id="codola">
+                    <div class="projectImage">
+                        <img src="img/codola.png"/>
+                    </div>
+                    <h3>CoDoLa</h3>
+                    <p>Eine unternehmensweite, kollaborative, kontinuierliche und versionierte Dokumentationslösung mithilfe von LaTeX und GIT.
+                    </p>
+                </div>
 
-            <div class="col-xs-6 col-sm-4 col-md-3 wedo-project" id="linca">
-                <h3>LINCA</h3>
-                <p>
-                    Eine in der Anstellung an der Universität Zürich entwickelte, medienbasierte Diagnosesoftware für
-                    das Forschungsprojekt "LINCA".
-                    <!--Links
-                     http://www.linca.uzh.ch/project.html-->
-                </p>
-            </div>
+                <div class="wedo-project" id="robot">
+                    <div class="projectImage">
+                        <img src="img/robot.jpg"/>
+                    </div>
+                    <h3>Robot</h3>
+                    <p>
+                        Ein Roboter als Übungsprojekt für Sensorik, Computer Vision,
+                        Mensch-Maschine-Interaktion
+                        und Machine Learning.
+                    </p>
+                </div>
 
-            <div class="col-xs-6 col-sm-4 col-md-3 wedo-project" id="doclet">
-                <img src="img/@doclet.png" class="spacing"/>
-                <h3>@-doclet</h3>
-                <p>
-                    Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor
-                    mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna
-                    mollis euismod. Donec sed odio dui.
-                </p>
-            </div>
 
-            <div class="col-xs-6 col-sm-4 col-md-3 wedo-project" id="cv">
-                <img src="img/cv.png" class="spacing"/>
-                <h3>Curriculum Vitae</h3>
-                <p>
-                    Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor
-                    mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna
-                    mollis euismod. Donec sed odio dui.
-                </p>
-            </div>
+                <div class="wedo-project" id="linca">
+                    <div class="projectImage">
+                        <img src="img/linca.png"/>
+                    </div>
+                    <h3>LINCA @ <img class="atWorkplace" src="img/uzh.png"/></h3>
+                    <p>
+                        Eine medienbasierte Erhebungssoftware für das Forschungsprojekt "LINCA" an der Universität Zürich.
+                        <!--Links
+                         http://www.linca.uzh.ch/project.html-->
+                    </p>
+                </div>
 
-            <div class="col-xs-6 col-sm-4 col-md-3 wedo-project" id="tagcloud">
-                <img src="img/tagcloud.png"/>
-                <h3>Ring Tagcloud</h3>
-                <p>
-                    Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor
-                    mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna
-                    mollis euismod. Donec sed odio dui.
-                </p>
-            </div>
+                <div class="wedo-project" id="professionalMinds">
+                    <div class="projectImage">
+                        <img src="img/profminds.png"/>
+                    </div>
+                    <h3>Professional Minds @ <img class="atWorkplace" src="img/unifr.png"/></h3>
+                    <p>
+                        Eine medienbasierte Diagnosesoftware für das Forschungsprojekt "Professional Minds" an der Universität Fribourg.
+                        <!--Links
+                        http://www.sgab-srfp.ch/de/node/168in der Anstellung am Departement für Erziehungswissenschaften an der Universität Fribourg
+                        entwickelte, medienbasierte Diagnosesoftware
+                        http://www.amazon.de/Lernenden-f%C3%B6rdernd-Feedback-geben-Bauder/dp/3039057553/ref=asap_bc?ie=UTF8 -->
+                    </p>
+                </div>
+
+
+
         </div>
     </div>
 </div>
 
 <footer class="footer bg-dark">
     <div class="container">
-        <div class="row" >
+        <div class="row">
             <h2 itemprop="name">Break the Box GmbH</h2>
         </div>
         <div class="row">
