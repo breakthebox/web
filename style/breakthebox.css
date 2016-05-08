@@ -13,6 +13,13 @@ body {
     background-color: #527a98;
     color: white; }
 
+.blackfill {
+  position: absolute;
+  top: 0;
+  height: 100vh;
+  width: 100%;
+  z-index: -1; }
+
 /**
  * --- typography
  */
@@ -367,6 +374,18 @@ label {
 
   .cv-bubble-container .bubble-content {
     padding-top: 6em; } }
+.detailImage {
+  float: right; }
+
+.detailImage img {
+  border-radius: 10px;
+  width: 100%;
+  margin-bottom: 2em;
+  margin-top: 2em; }
+
+.bg-blue a {
+  color: white; }
+
 /**
 * --- we do
 */
