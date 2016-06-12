@@ -4,6 +4,7 @@ $font-stack: "LatoLatinWeb", sans-serif;
 $bg-dark: #262626;
 $bg-light: #f5eed5;
 $bg-medium: #527a98;
+$bg-orange: #E8AF30;
 
 $fg-dark: #262626;
 $fg-light: white;
@@ -54,6 +55,51 @@ $screen-lg-min: 1200px;
   z-index: 1;
   top: $top;
   border-width: 12px $left 12px $right;
+}
+
+@mixin card($bgHeader, $bgContent, $fgContent, $imgShadow) {
+  box-shadow: 0 0 .1em #888;
+  margin: 2em .5em;
+  
+
+  .heading, .footer {
+    padding: .5em;
+    background-color: $bgHeader;
+
+    .price {
+      font-size: 1.5em;
+    }
+    .mwst {
+      font-size: .8em;
+      font-weight: normal;
+    }
+  }
+
+  .content {
+    padding: .5em;
+    min-height: 10em;
+    background-color: $bgContent;
+    color: $fgContent;
+    text-align: left;
+    border-top: 1px solid $fg-light;
+    border-bottom: 1px solid $fg-light;
+
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+  }
+
+  img {
+    position: absolute;
+    top: 1.2em;
+    right: 0.5em;
+    width: 3.5em;
+    height: 3.5em;
+    box-shadow: 0 0 5px $imgShadow;
+  }
+
+  
 }
 
 body {
@@ -404,6 +450,24 @@ label {
   }
 }
 
+div.youget-card:hover {
+  
+    box-shadow: 0 0 1em #888;
+  
+}
+
+.card-knowhow {
+  @include card($bg-medium, $bg-light, $fg-dark, $bg-dark);
+}
+
+.card-auftrag {
+  @include card($bg-orange, $bg-light, $fg-dark, $bg-dark);
+}
+
+.card-mandat {
+  @include card($bg-dark, $bg-light, $fg-dark, $bg-dark);
+}
+
 /**
  * --- we are
  */
@@ -497,37 +561,6 @@ label {
   color: white;
 }
 
-//@media(min-width: $screen-md-min) {
-//  .cv-bubble-left {
-//    @include bubble(80%, white, $fg-dark);
-//  }
-//
-//  .cv-avatar-right {
-//    top: 14em;
-//    max-height: 7em;
-//    max-width: 7em;
-//  }
-//  .cv-avatar-left {
-//    max-height: 7em;
-//    max-width: 7em;
-//  }
-//
-//}
-//
-//@media(min-width: $screen-lg-min) {
-//  .cv-avatar-right {
-//    max-height: 9em;
-//    max-width: 9em;
-//    left: -3em;
-//
-//  }
-//  .cv-avatar-left {
-//    max-height: 9em;
-//    max-width: 9em;
-//    right: -3em;
-//  }
-//
-//}
 
 /**
 * --- we do
