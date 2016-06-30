@@ -5,9 +5,9 @@
   <url> 
     <loc>http://www.breakthebox.ch/index.html</loc> 
     <image:image>
-       <image:loc>http://www.breakthebox.ch/img/logo.png</image:loc>
-       <image:caption>Break the Box Logo</image:caption>
-    </image:image>
+     <image:loc>http://www.breakthebox.ch/img/logo.png</image:loc>
+     <image:caption>Break the Box Logo</image:caption>
+   </image:image>
     <image:image>
         <image:loc>http://www.breakthebox.ch/img/visual%20facilitation.png</image:loc>
         <image:caption>Visual Facilitation</image:caption>
@@ -36,9 +36,33 @@
         <image:loc>http://www.breakthebox.ch/img/deliverable.png</image:loc>
         <image:caption>Auftragsarbeiten</image:caption>
       </image:image>
+      <image:image>
+        <image:loc>http://www.breakthebox.ch/img/OliverSchmid-down.jpg</image:loc>
+        <image:caption>Oliver Schmid</image:caption>
+      </image:image>
+      <image:image>
+        <image:loc>http://www.breakthebox.ch/img/OliverSchmid-up.jpg</image:loc>
+        <image:caption>Oliver Schmid</image:caption>
+      </image:image>
+      <image:image>
+        <image:loc>http://www.breakthebox.ch/img/BrigitteHulliger-bw.jpg</image:loc>
+        <image:caption>Brigitte Hulliger</image:caption>
+      </image:image>
+      <image:image>
+        <image:loc>http://www.breakthebox.ch/img/Brigitte%20Hulliger.jpg</image:loc>
+        <image:caption>Brigitte Hulliger</image:caption>
+      </image:image>
+      <image:image>
+        <image:loc>http://www.breakthebox.ch/img/BrigitteHulliger-up.jpg</image:loc>
+        <image:caption>Brigitte Hulliger</image:caption>
+      </image:image>
+      <image:image>
+        <image:loc>http://www.breakthebox.ch/img/BrigitteHulliger-down.jpg</image:loc>
+        <image:caption>Brigitte Hulliger</image:caption>
+      </image:image>
     <video:video>
       <video:content_loc>
-        https://youtu.be/BPxvdJoHwoE
+        https://www.youtube.com/embed/BPxvdJoHwoE?rel=0
       </video:content_loc>
       <video:title>Curriculum Vitae Brigitte Hulliger</video:title>  
       <video:description>
