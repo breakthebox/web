@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url> 
+    <loc>http://www.breakthebox.ch/portfolio.html</loc> 
+    <video:video>
+    	<video:content_loc>
+    		https://youtu.be/9qH4YkZzRhY
+    	</video:content_loc>
+    	<video:title>Erklärvideo Break the Box</video:title>  
+    	<video:description>
+    		Dienstleistungsportfolio von Break the Box als Erklärvideo
+    	</video:description>
+    </video:video>
+  </url>
+</urlset>

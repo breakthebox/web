@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url> 
+    <loc>http://www.breakthebox.ch/cv.html</loc> 
+
+    <video:video>
+      <video:content_loc>
+        https://www.youtube.com/embed/BPxvdJoHwoE?rel=0
+      </video:content_loc>
+      <video:title>Curriculum Vitae Brigitte Hulliger</video:title>  
+      <video:description>
+        CV Brigitte Hulliger als VideoScribe.
+      </video:description>
+    </video:video>
+
+    <image:image>
+     <image:loc>http://www.breakthebox.ch/img/cv_complete.png</image:loc>
+     <image:caption>CV Brigitte Hulliger</image:caption>
+   </image:image>
+   
+ </url>
+</urlset>
