@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url> 
+    <loc>http://www.breakthebox.ch/index.html</loc> 
+    <image:image>
+       <image:loc>http://www.breakthebox.ch/img/logo.png</image:loc>
+       <image:caption>Break the Box Logo</image:caption>
+    </image:image>
+    <image:image>
+        <image:loc>http://www.breakthebox.ch/img/visual%20facilitation.png</image:loc>
+        <image:caption>Visual Facilitation</image:caption>
+      </image:image>
+      <image:image>
+        <image:loc>http://www.breakthebox.ch/img/requirements%20engineering.png</image:loc>
+        <image:caption>Requirements Engineering</image:caption>
+      </image:image>
+      <image:image>
+        <image:loc>http://www.breakthebox.ch/img/digital%20transformation.png</image:loc>
+        <image:caption>Digital Transformation</image:caption>
+      </image:image>
+      <image:image>
+        <image:loc>http://www.breakthebox.ch/img/prototyping.png</image:loc>
+        <image:caption>Prototyping</image:caption>
+      </image:image>
+      <image:image>
+        <image:loc>http://www.breakthebox.ch/img/gears.png</image:loc>
+        <image:caption>Mandate</image:caption>
+      </image:image>
+      <image:image>
+        <image:loc>http://www.breakthebox.ch/img/brain.png</image:loc>
+        <image:caption>Knowhow</image:caption>
+      </image:image>
+      <image:image>
+        <image:loc>http://www.breakthebox.ch/img/deliverable.png</image:loc>
+        <image:caption>Auftragsarbeiten</image:caption>
+      </image:image>
+    <video:video>
+      <video:content_loc>
+        https://youtu.be/BPxvdJoHwoE
+      </video:content_loc>
+      <video:title>Curriculum Vitae Brigitte Hulliger</video:title>  
+      <video:description>
+        Curriculum Vitae Brigitte Hulliger als VideoScribe
+      </video:description>
+    </video:video>
+  </url>
+</urlset>
