@@ -516,8 +516,9 @@ div.youget-card:hover {
 }
 
 .cv-avatar {
-  max-height: 8em;
-  max-width: 8em;
+  max-height: 12em;
+  max-width: 12em;
+  width:100%;
 }
 
 .clear {
@@ -533,15 +534,26 @@ div.youget-card:hover {
   .cv-bubble-right::after, .cv-bubble-left::after {
     display: none;
   }
-
-  .cv-avatar {
+  .cv-avatar-container{
+    height:180px;
     position: absolute;
-    top: 1em;
-    left: 1em;
+    top: 1.5em;
+    left: 0em;
+    text-align:center;
     z-index: 2;
   }
+
+  .cv-avatar {
+    max-width: 180px;
+    max-height: 180px;
+    width:180px;
+    height:180px;
+    padding-left:0px;
+    padding-right:0px;
+
+  }
   .cv-bubble-container .bubble-content {
-    padding-top: 6em;
+    padding-top: 200px;
   }
 
 }
@@ -560,7 +572,6 @@ div.youget-card:hover {
 .bg-blue a{
   color: white;
 }
-
 
 /**
 * --- we do
