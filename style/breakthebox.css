@@ -287,6 +287,99 @@ label {
     -ms-transition: font 0.3s ease;
     text-decoration: none; }
 
+div.youget-card:hover {
+  box-shadow: 0 0 1em #888; }
+
+.card-knowhow {
+  box-shadow: 0 0 .1em #888;
+  margin: 2em .5em; }
+  .card-knowhow .heading, .card-knowhow .footer {
+    padding: .5em;
+    background-color: #527a98; }
+    .card-knowhow .heading .price, .card-knowhow .footer .price {
+      font-size: 1.5em; }
+    .card-knowhow .heading .mwst, .card-knowhow .footer .mwst {
+      font-size: .8em;
+      font-weight: normal; }
+  .card-knowhow .content {
+    padding: .5em;
+    min-height: 10em;
+    background-color: #f5eed5;
+    color: #262626;
+    text-align: left;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white; }
+    .card-knowhow .content ul {
+      list-style: none;
+      padding-left: 0; }
+  .card-knowhow img {
+    position: absolute;
+    top: 1.2em;
+    right: 0.5em;
+    width: 3.5em;
+    height: 3.5em;
+    box-shadow: 0 0 5px #262626; }
+
+.card-auftrag {
+  box-shadow: 0 0 .1em #888;
+  margin: 2em .5em; }
+  .card-auftrag .heading, .card-auftrag .footer {
+    padding: .5em;
+    background-color: #E8AF30; }
+    .card-auftrag .heading .price, .card-auftrag .footer .price {
+      font-size: 1.5em; }
+    .card-auftrag .heading .mwst, .card-auftrag .footer .mwst {
+      font-size: .8em;
+      font-weight: normal; }
+  .card-auftrag .content {
+    padding: .5em;
+    min-height: 10em;
+    background-color: #f5eed5;
+    color: #262626;
+    text-align: left;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white; }
+    .card-auftrag .content ul {
+      list-style: none;
+      padding-left: 0; }
+  .card-auftrag img {
+    position: absolute;
+    top: 1.2em;
+    right: 0.5em;
+    width: 3.5em;
+    height: 3.5em;
+    box-shadow: 0 0 5px #262626; }
+
+.card-mandat {
+  box-shadow: 0 0 .1em #888;
+  margin: 2em .5em; }
+  .card-mandat .heading, .card-mandat .footer {
+    padding: .5em;
+    background-color: #262626; }
+    .card-mandat .heading .price, .card-mandat .footer .price {
+      font-size: 1.5em; }
+    .card-mandat .heading .mwst, .card-mandat .footer .mwst {
+      font-size: .8em;
+      font-weight: normal; }
+  .card-mandat .content {
+    padding: .5em;
+    min-height: 10em;
+    background-color: #f5eed5;
+    color: #262626;
+    text-align: left;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white; }
+    .card-mandat .content ul {
+      list-style: none;
+      padding-left: 0; }
+  .card-mandat img {
+    position: absolute;
+    top: 1.2em;
+    right: 0.5em;
+    width: 3.5em;
+    height: 3.5em;
+    box-shadow: 0 0 5px #262626; }
+
 /**
  * --- we are
  */
@@ -353,8 +446,9 @@ label {
   right: -18px; }
 
 .cv-avatar {
-  max-height: 8em;
-  max-width: 8em; }
+  max-height: 12em;
+  max-width: 12em;
+  width: 100%; }
 
 .clear {
   clear: both; }
@@ -366,14 +460,24 @@ label {
   .cv-bubble-right::after, .cv-bubble-left::after {
     display: none; }
 
-  .cv-avatar {
+  .cv-avatar-container {
+    height: 180px;
     position: absolute;
-    top: 1em;
-    left: 1em;
+    top: 1.5em;
+    left: 0em;
+    text-align: center;
     z-index: 2; }
 
+  .cv-avatar {
+    max-width: 180px;
+    max-height: 180px;
+    width: 180px;
+    height: 180px;
+    padding-left: 0px;
+    padding-right: 0px; }
+
   .cv-bubble-container .bubble-content {
-    padding-top: 6em; } }
+    padding-top: 200px; } }
 .detailImage {
   float: right; }
 
