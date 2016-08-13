@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Break the Box - Roboter Prototyp</title>
+    <!--#include virtual="/snippets/header.html" -->
+</head>
+<body itemscope itemtype="http://schema.org/Organization">
+<!--#include virtual="/snippets/subsitenav.html" -->
+<div class="bg-blue">
+    <div class="container">
+        <h1 style="margin-top: 2em;">Roboter</h1>
+        <p>
+            <b>Thema:</b> Roboterbau mit diversen Hardwarekomponenten<br/>
+            <b>Ziel:</b> Erarbeitung von Kompetenzen in den Bereichen Sensorik, Computer Vision,
+            Mensch-Maschine-Interaktion
+            und Machine Learning.<br/>
+        </p>
+        <div class="row">
+
+            <div class="col-xs-12 col-sm-4 detailImage"><img src="img/robot.jpg"></div>
+            <div class="col-xs-12 col-sm-8">
+
+                <b>Inhalt</b><br/>
+                <p>
+                    Der Roboter &ndash; bestehend aus einem Lego Mindstorms NXT-Bausatz, einem Raspberry Pi und einem
+                    Android Phone &ndash; dient dem Zweck Technologien und Konzepte auszuprobieren, sowie Kompetenzen in
+                    verschiedenen Themenbereichen zu erarbeiten.
+                    Vorrangiges Ziel des Roboters ist dabei die selbständige Orientierung und Kartographierung der
+                    Umgebung, sowie der Wissensaufbau über die Umwelt mithilfe von Objekterkennung,
+                    Mensch-Maschinen-Interaktion sowie durch aggregierte Informationen von Dritten aus dem Internet.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<!--#include virtual="/snippets/footer.html" -->
+<!--#include virtual="/snippets/analytics.html" -->
+</body>
+</html>

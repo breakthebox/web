@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Break the Box - Impressum</title>
+    <!--#include virtual="/snippets/header.html" -->
+</head>
+<body itemscope itemtype="http://schema.org/Organization">
+<!--#include virtual="/snippets/subsitenav.html" -->
+<div class="bg-dark">
+    <div class="container">
+        <h1 style="margin-top: 2em;">Impressum</h1>
+        <h2 itemprop="name" style="margin-top:2em;">Break the Box GmbH</h2>
+
+        <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <span itemprop="streetAddress">Bernstrasse 68</span><br/>
+            <span itemprop="postalCode">3053</span><span itemprop="addressLocality"> Münchenbuchsee</span>
+        </p>
+        <p itemprop="email"><a href="mailto:info@breakthebox.ch">info@breakthebox.ch</a></p>
+        <p>
+            <b>Geschäftsführer:</b><br/>
+            Brigitte Hulliger <span itemprop="telephone">+41 76 309 20 88</span><br/>
+            Oliver Schmid <span itemprop="telephone">+41 79 481 00 84</span>
+        </p>
+
+
+    </div>
+</div>
+
+<!--#include virtual="/snippets/footer.html" -->
+<!--#include virtual="/snippets/analytics.html" -->
+</body>
+</html>

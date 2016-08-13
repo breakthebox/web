@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Break the Box - BtB-Time</title>
+    <!--#include virtual="/snippets/header.html" -->
+</head>
+<body itemscope itemtype="http://schema.org/Organization">
+
+<!--#include virtual="/snippets/subsitenav.html" -->
+<div class="bg-light">
+    <div class="container">
+        <h1 style="margin-top: 2em;">BtB-Time</h1>
+        <p>
+            <b>Tags:</b> Prototyping, Produktinnovation, Zeiterfassung<br/>
+        </p>
+        <div class="row">
+
+            <div class="col-xs-12 col-sm-4 detailImage"><img src="img/btbtime.jpg"></div>
+            <div class="col-xs-12 col-sm-8">
+
+                <b>Inhalt</b><br/>
+                <p>
+                    Zeiterfassung ist ein notwendiges Übel: Einerseits ist sie wesentlich um eine aufwandgerechte
+                    Entlöhnung zu ermöglichen und einen Beleg für geleistete Dienste zu erhalten. Andererseits ist die
+                    korrekte Verbuchung und exakte Zeitnahme aufwändig und wird oft als unangenehmen Overhead zu der
+                    produktiven Tätigkeit angesehen. </p>
+
+
+                <p><img src="img/btbtime_screen.jpg" style=" float:left; height: 18em; margin-right: 1em;">BtB-Time soll
+                    die Verbuchung der geleisteten Arbeit möglichst stark vereinfachen:
+                    Anstelle des manuellen Verbuchens der geleisteten Zeiten wird die native Android App zur modernen
+                    Stempeluhr: In unserem Fall ist BtB-Time vollständig mit unserer Zeiterfassungs- und
+                    Buchhaltungsplattform <a href="http://www.bexio.ch">Bexio</a> verknüpft.
+                    Ein NFC-Tag (z.B. in einer Visitenkarte) pro Projekt erlaubt das einfache Ein- und Ausstempeln durch
+                    den physischen Kontakt des Tags mit dem Smartphone (z.B. durch Einklemmen in eine Schutzhülle).
+                    Die so erfassten Arbeitszeiten werden automatisch im Zeitverbuchungssystem eingetragen.
+                    Beschreibungstexte und die Definition der Tätigkeitsart können ebenso hinterlegt werden, wie ob eine
+                    Aufgabe verrechenbar ist oder nicht. So,
+                    dass alle erforderlichen Angaben ins Erfassungssystem übertragen werden können und jederzeit
+                    Arbeitsrapporte und Abrechnungen über die herkömmlichen Oberflächen des Abrechnungssystems erstellt
+                    werden können.
+
+                </p>
+                <p>Im Vergleich zu konventionellen Zeitstempel-Apps hat die Nutzung von NFC diverse Vorteile: Einerseits
+                    wird der Benutzer (solange das Tag sichtbar ist) bei jeder Reaktivierung des Gerätes an die laufende
+                    Erfassung erinnert und
+                    andererseits stellte sich insbesondere die physische Präsenz des NFC-Tags, welche bei jedem "in die
+                    Hand nehmen" des Smartphones spürbar ist, als eine hervorragende Erinnerungsfunktion heraus, was den
+                    Aufwand für die Korrektur von
+                    Zeiterfassungen aufgrund vergessener Checkouts erheblich reduziert. <br/>
+                    Dadurch, dass auch für Aussenstehende transparent ersichtlich ist, ob sich das NFC-Tag auf dem
+                    Smartphone befindet, kann zusätzlich Vertrauen bezüglich Einhaltung von vertraglichen Vereinbarungen
+                    (z.B. bei nicht verrechenbaren Arbeitspausen) geschaffen werden.
+                </p>
+                <b>Kontext</b><br/>
+                <p>
+                    BtB-Time ist eine Eigeninitiative von Break the Box und wird neben Kundenprojekten auch für die
+                    interne Zeiterfassung verwendet. Der geringe Zusatzaufwand für die präzise Zeiterfassung erlaubt es,
+                    auch interne Aufwände realistisch einschätzen zu können und dient somit als Steuerungsinstrument.
+                </p>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+<!--#include virtual="/snippets/footer.html" -->
+<!--#include virtual="/snippets/analytics.html" -->
+</body>
+</html>
