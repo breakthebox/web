@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Break the Box GmbH - Datenschutz</title>
+    <!--#include virtual="/snippets/header.html" -->
+</head>
+<body itemscope itemtype="http://schema.org/Organization">
+<!--#include virtual="/snippets/subsitenav.html" -->
+<div class="bg-dark">
+    <div class="container">
+        <h1 style="margin-top: 2em;">Datenschutz</h1>
+
+        <h3>Datenschutz Google Analytics Erklärung</h3>
+
+        „Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics
+        verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der
+        Benutzung der Website durch Sie ermöglicht. Die durch den Cookie erzeugten Informationen über Ihre Benutzung
+        diese Website (einschliesslich Ihrer IP-Adresse) wird an einen Server von Google in den USA übertragen und dort
+        gespeichert. Google wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über
+        die Websiteaktivitäten für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der
+        Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an
+        Dritte übertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google
+        verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten der Google in Verbindung bringen. Sie
+        können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir
+        weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website
+        voll umfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über
+        Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck
+        einverstanden.“
+    </div>
+</div>
+
+<!--#include virtual="/snippets/footer.html" -->
+<!--#include virtual="/snippets/analytics.html" -->
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Break the Box - Ring Tagcloud</title>
+    <!--#include virtual="/snippets/header.html" -->
+</head>
+<body itemscope itemtype="http://schema.org/Organization">
+<!--#include virtual="/snippets/subsitenav.html" -->
+<div class="bg-blue">
+    <div class="container">
+        <h1 style="margin-top: 2em;">Ring Tagcloud</h1>
+        <p>
+            <b>Tags:</b> Mobile App<br/>
+            <b>Dauer:</b> in Arbeit<br/>
+        </p>
+        <div class="row">
+
+            <div class="col-xs-12 col-sm-4 detailImage"><img src="img/tagcloud.jpg">
+
+            </div>
+            <div class="col-xs-12 col-sm-8">
+
+                <b>Beschreibung</b><br/>
+
+                In Zusammenarbeit mit der Goldschmiedin Corinne Hulliger von <a href="www.creative-c">Creative-C</a>
+                erstellen wir eine mobile Applikation zur Gestaltung und Bestellung von personalisierten Fingerringen.
+
+                Der Endbenutzer kann in der Applikation seine Fingerringgrösse eintragen, die gewünschte Ringbreite und
+                das gewünschte Material auswählen. Anschliessend hat er die Möglichkeit Wörter für eine Tagcloud
+                (zwischen 30 und 50 Wörter) zu erfassen und daraus eine Tagcloud zu generieren. Diese Tagcloud kann der
+                Benutzer neu generieren lassen, bis die Darstellung seinen Wünschen entspricht.
+
+                Im Anschluss hat er die Möglichkeit, diesen Ring direkt über die App zu bestellen und zu bezahlen.
+                Das generierte Bild wird per Email an Creative-C übermittelt und der Ring herstellt und dem Kunden per
+                Post zugestellt.
+
+                <p>
+                    <br/>
+                    <b>Kontext</b><br/>
+                    Diese App wird in Zusammenarbeit mit <a href="http://www.creative-c.ch">www.creative-c.ch</a>
+                    erarbeitet.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--#include virtual="/snippets/footer.html" -->
+<!--#include virtual="/snippets/analytics.html" -->
+</body>
+</html>

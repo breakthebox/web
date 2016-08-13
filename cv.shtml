@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Break the Box - CV VideoScribe</title>
+    <!--#include virtual="/snippets/header.html" -->
+</head>
+<body itemscope itemtype="http://schema.org/Organization">
+<!--#include virtual="/snippets/subsitenav.html" -->
+<div class="bg-blue">
+    <div class="container">
+        <h1 style="margin-top: 2em;">VideoScribe CV Brigitte Hulliger</h1>
+        <p>
+            <b>Tags:</b> Visual Facilitation, VideoScribes<br/>
+            <b>Autor:</b> Brigitte Hulliger<br/>
+            <b>Dauer:</b> ~3 Monate<br/>
+            <b>Material:</b> iPad Air mit 53-Pencil, Inkpad, VideoScribe Anywhere
+        </p>
+        <div class="row">
+
+            <div class="col-xs-12 col-sm-4 detailImage"><img src="img/cv_complete.png">
+            </div>
+
+            <div class="col-xs-12 col-sm-8">
+
+                <div class="row weare-video">
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/BPxvdJoHwoE?rel=0"
+                            frameborder="0" allowfullscreen></iframe>
+                </div>
+                <p>
+                    <a href="img/CV_BrigitteHulliger.pdf">Als Bild herunterladen</a>
+                </p>
+
+
+                <b>Umsetzung</b><br/>
+                Grundlage für ein VideoScribe ist immer eine Geschichte. Für dieses Video habe ich mich für meinen
+                Lebenslauf entschieden. Wichtig für ein VideoScribe ist, dass sich der Inhalt als Geschichte mit einem
+                roten Faden erzählen lässt.
+                <br/>
+                Für die Umsetzung habe ich als erstes eine Skizze auf Papier erstellt und diese anschliessend Schritt
+                für Schritt auf dem iPad in der App <a href="https://github.com/sprang/Inkpad">Inkpad</a> mit meinem 53
+                Pencil gezeichnet. Nebst dem Inhalt der einzelnen Bilder habe ich dabei insbesondere auf folgende Punkte
+                geachtet:<br/><br/>
+                <ul>
+                    <li>Die Reihenfolge der Pfade und deren Orientierung muss dem gewünschten Endresultat im Video
+                        entsprechen
+                    </li>
+                    <li>Die einzelnen Vektoren (Pfade) sollten nicht unnötige Punkte beinhalten um die Zeichnung im
+                        Video flüssig zu halten
+                    </li>
+                    <li>Beim Zeichnen der Bilder habe ich mir immer überlegt, wie die Kameraeinstellung im Video sein
+                        soll, und die Bilder habe ich entsprechend so angeordnet
+                    </li>
+                    <li>Die einzlenen Bilder habe ich auf unterschiedliche Layer gezeichnet</li>
+                </ul>
+
+                Das Zeichnen der Bilder ist mit Abstand der grösste Aufwand für das Video.
+
+                <br/>
+                Mit Abschluss der Zeichnungen, habe ich alle Bilder einzeln als SVG Grafiken exportiert und in der App
+                <a href="">VideoScribe</a> importiert und angeordnet und die Kameraeinstellung entsprechend eingestellt.
+                Zusätzlich kann nun für jedes Bild separat konfiguriert werden, wie viel Zeit für das Zeichnen
+                investiert werden soll. Es empfiehlt sich, die Zeichnungen nicht in "Realtime" zu erstellen.
+                <br/>
+                Zu guter Letzt kann eine Audiodatei hinterlegt werden.
+
+                <br/><br/>
+                Und nun zu der Frage aller Fragen: Nein - die Hand im Video ist nicht meine Hand :-). Es ist aber
+                möglich, die eigene Hand dafür zu hinterlegen.
+
+                <p>
+                    <br/>
+                    <b>Kontext</b><br/>
+
+                    Das VideoScribe von meinem Lebenslauf habe ich in meiner Freizeit als Referenzprojekt für Break the
+                    Box GmbH erstellt.
+                </p>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+
+<!--#include virtual="/snippets/footer.html" -->
+<!--#include virtual="/snippets/analytics.html" -->
+
+</body>
+</html>

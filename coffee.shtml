@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Break the Box - Erklärvideo How to brew coffee</title>
+    <!--#include virtual="/snippets/header.html" -->
+</head>
+<body itemscope itemtype="http://schema.org/Organization">
+<!--#include virtual="/snippets/subsitenav.html" -->
+<div class="bg-blue">
+    <div class="container">
+        <h1 style="margin-top: 2em;">Erklärvideo How to brew coffee</h1>
+        <p>
+            <b>Tags:</b> Visual Facilitation, Erklärvideo<br/>
+            <b>Autor:</b> Brigitte Hulliger<br/>
+            <b>Dauer:</b> ~10h<br/>
+            <b>Material:</b> iPad Air mit 53-Pencil, Inkpad, VideoScribe Anywhere
+        </p>
+        <div class="row">
+            <div class="col-xs-12 col-sm-8">
+
+
+                <div class="row weare-video">
+                    <iframe width="100%" height="360" src="https://www.youtube.com/embed/_Y7kKG-PbJE?rel=0"
+                            frameborder="0"
+                            allowfullscreen></iframe>
+                </div>
+
+                <h4>Inhalt</h4>
+                <p>
+                    Das Erklärvideo "How to brew coffee" dient als Beispiel für ein Erklärvideo, wie sie innert relativ
+                    kurzer Zeit von Break the Box erstellt werden können.
+                </p>
+
+                <h4>Umsetzung</h4>
+                <p>
+                    Zu Beginn wurden alle Objekte auf dem iPad Pro mit dem 53-Pencil gezeichnet und als SVG Grafiken
+                    exportiert.
+                    Anschliessend wurden die einzelnen Objekte in die Software VideoScribe importiert und animiert
+                    (gezeichnet, verschoben etc).
+                    Für jede Kameraeinstellung kann dabei eingestellt werden, wie lange die Sequenz brauchen soll für
+                    die
+                    Animation.
+                    Die Reihenfolge der Zeichenstriche entspricht dabei der Reihenfolge, wie sie auf dem iPad gezeichnet
+                    wurden.
+
+                    Zum Schluss konnten wir das gesamte Video exportieren und publizieren.
+                </p>
+                <h4>Kontext</h4>
+                <p>
+                    Das Erklärvideo wurde zu Illustrationszwecken erstellt.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--#include virtual="/snippets/footer.html" -->
+<!--#include virtual="/snippets/analytics.html" -->
+</body>
+</html>
