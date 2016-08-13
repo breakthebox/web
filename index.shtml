@@ -54,35 +54,32 @@
             </div>
             <div class="col-md-5 col-sm-7 col-xs-10">
                 <div id="bubbleBelief" class="chat-bubble-left">
-                    <div id="belief" class="bubble-content"/>
+                    <div id="belief" class="bubble-content"></div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row clear" style="margin-top:1em;">
-        <div class="col-md-5 col-md-offset-5 col-sm-7 col-sm-offset-3 col-xs-10 ">
-            <div id="bubbleReason" class="chat-bubble-right">
-                <div id="reason" class="bubble-content"/>
+        <div class="row clear" style="margin-top:1em;">
+            <div class="col-md-5 col-md-offset-5 col-sm-7 col-sm-offset-3 col-xs-10 ">
+                <div id="bubbleReason" class="chat-bubble-right">
+                    <div id="reason" class="bubble-content"></div>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-2 col-xs-1">
+                <img id="avatarReason" class="img-circle chat-avatar chat-avatar-right"/>
             </div>
         </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" onclick="previousBelief()" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" onclick="nextBelief()" role="button">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+
     </div>
-    <div class="col-md-2 col-sm-2 col-xs-1">
-        <img id="avatarReason" class="img-circle chat-avatar chat-avatar-right"/>
-    </div>
-</div>
-
-
-<!-- Left and right controls -->
-<a class="left carousel-control" onclick="previousBelief()" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-</a>
-<a class="right carousel-control" onclick="nextBelief()" role="button">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-</a>
-
-</div>
 </div>
 
 <!-- WE OFFER -->
@@ -104,14 +101,12 @@
             <div class="col-md-9">
                 <h2 class="featurette-heading">Visual Facilitation</h2>
 
-                <p>
-                    Wir ...
+                Wir ...
                 <ul class="weoffer-list enumeration">
                     <li>... skizzieren <label>Sketches</label> von Ideen</li>
                     <li>... zeichnen <label>Graphic Recordings</label> von Meetings, Speeches, Workshops etc.</li>
                     <li>... erstellen <label>Erklärvideos</label> von Projekten, Produkten, Stories und Konzepten</li>
                 </ul>
-                </p>
 
                 <p>
                     ... weil eine einfache, visuelle Darstellung das Fokussieren auf die eigentlichen Herausforderungen
@@ -133,13 +128,11 @@
 
                 <p>Wir...</p>
 
-                <p>
                 <ul class="weoffer-list enumeration">
                     <li>... führen <label>Bedarfsanalysen</label> durch</li>
                     <li>... ermitteln, validieren, dokumentieren und verwalten Ihre <label>Anforderungen</label></li>
                     <li>... erstellen für Sie eine <label>Stakeholderanalyse</label></li>
                 </ul>
-                </p>
 
                 <p>... weil eine unvoreingenommene Sicht hilft, die wahren Bedürfnisse strukturiert und effizient zu
                     erfassen.</p>
@@ -158,15 +151,13 @@
             <div class="col-md-9">
                 <h2 class="featurette-heading">Digitale Transformation</h2>
 
-                <p>
-                    Wir...
+                Wir...
                 <ul class="weoffer-list enumeration">
                     <li>... unterstützen Sie beim <label>kulturellen Wandel</label></li>
                     <li>... beraten Sie bei einer nachhaltigen <label>Produktentwicklung</label></li>
                     <li>... unterstützten Sie bei der Entwicklung und Validierung <label>neuer Geschäftsideen</label>
                     </li>
                 </ul>
-                </p>
 
                 <p>... weil agile und innovative Strukturen in einer digitalen Welt unerlässlich sind.</p>
 
@@ -183,16 +174,15 @@
             </div>
             <div class="col-md-9">
                 <h2 class="featurette-heading">Prototyping</h2>
-
-                <p>Wir...
+                Wir...
                 <ul class="weoffer-list enumeration">
                     <li>... stellen <label>Papierprototypen</label> von Produktideen her</li>
                     <li>... implementieren <label>interaktive Prototypen</label> von ausgereiften Softwarekonzepten
                     </li>
-                    <li>... führen <label>Benutzertests</label> von analogen und digitalen Prototypen mit potentiellen internen und externen Endbenutzern durch
+                    <li>... führen <label>Benutzertests</label> von analogen und digitalen Prototypen mit potentiellen
+                        internen und externen Endbenutzern durch
                     </li>
                 </ul>
-                </p>
 
                 <p>... weil eine frühzeitige Validierung kostengünstige und benutzerfreundliche Produkte ermöglicht.</p>
             </div>
@@ -231,18 +221,17 @@
 
                 <h2>Mandate</h2>
 
-                <p>Benötigen Sie unsere <a href="#weoffer">Dienstleistungen</a> in Ihrer Unternehmung vor Ort? Mandatieren
+                <p>Benötigen Sie unsere <a href="#weoffer">Dienstleistungen</a> in Ihrer Unternehmung vor Ort?
+                    Mandatieren
                     Sie uns
                     als:</p>
 
-                <p>
                 <ul class="youget-csvlist enumeration">
                     <li><label>Visual Facilitator</label></li>
                     <li><label>Digitaler Transformator</label></li>
                     <li><label>Requirements Engineer</label></li>
                     <li><label>Scrum Product Owner</label></li>
                 </ul>
-                </p>
 
                 <p><a href="mailto:info@breakthebox.ch">Kontaktieren Sie uns</a> für konkrete Anfragen.</p>
 
@@ -261,13 +250,11 @@
                 <p>Möchten Sie von unserem Wissen und unseren Erfahrungen profitieren? Gerne vermitteln wir diese im
                     Rahmen von:</p>
 
-                <p>
                 <ul class="youget-csvlist enumeration">
                     <li><label>Workshops</label></li>
                     <li><label>Schulungen (technisch oder methodisch)</label></li>
                     <li><label>Events (Vorträge, Hackdays, Podiumsdiskussionen, ...)</label></li>
                 </ul>
-                </p>
 
                 <p><a href="mailto:info@breakthebox.ch">Kontaktieren</a>
                     Sie uns für massgeschneiderte Angebote auf Ihre Bedürfnisse.</p>
@@ -283,14 +270,13 @@
                 <h2>Auftragsarbeiten</h2>
 
                 <p>Sie benötigen Hilfe bei der Lösung eines konkreten Problems? Gerne erstellen wir für Sie:</p>
-                <p>
+
                 <ul class="youget-csvlist enumeration">
                     <li><label>Visualisierungen &amp; Erklärvideos</label></li>
                     <li><label>Bedürfnisanalysen</label></li>
                     <li><label>Prototypen inkl. Testing</label></li>
                     und vieles mehr.
                 </ul>
-                </p>
 
                 <p><a href="mailto:info@breakthebox.ch">Kontaktieren</a> Sie uns für ein Angebot.</p>
 
@@ -325,59 +311,80 @@
                         <h2 itemprop="name">Brigitte Hulliger</h2>
 
                         <p>
-                            Ich bin der <b>kreative und visuelle Kopf</b> von Break the Box. Neue Ideen starten bei mir oft mit <b>Bleistift und Papier</b> als <b>Sketches</b> und werden zu <b>Videos</b> oder <b>Graphic Notes</b>. Visuelle Elemente sind nicht nur eine Leidenschaft, sondern auch ein <b>Weg der Kommunikation</b>.
+                            Ich bin der <b>kreative und visuelle Kopf</b> von Break the Box. Neue Ideen starten bei mir
+                            oft mit <b>Bleistift und Papier</b> als <b>Sketches</b> und werden zu <b>Videos</b> oder <b>Graphic
+                            Notes</b>. Visuelle Elemente sind nicht nur eine Leidenschaft, sondern auch ein <b>Weg der
+                            Kommunikation</b>.
                         </p>
 
                         <p>
-                            Nebst Visualisierung stehen für mich <b>Endbenutzer</b> von neuen Produktinnovationen im Vordergrund. Die <b>Erarbeitung von Anforderungen</b> zusammen mit dem Kunden - zum Beispiel im Rahmen von <b>Workshops</b> -  sowie die anschliessende Durchführung von <b>Benutzertests anhand von erstellten Prototypen</b> sind für mich wichtige Faktoren für ein erfolgreiches Produktdesign und nachhaltige Lösungen.
+                            Nebst Visualisierung stehen für mich <b>Endbenutzer</b> von neuen Produktinnovationen im
+                            Vordergrund. Die <b>Erarbeitung von Anforderungen</b> zusammen mit dem Kunden - zum Beispiel
+                            im Rahmen von <b>Workshops</b> - sowie die anschliessende Durchführung von <b>Benutzertests
+                            anhand von erstellten Prototypen</b> sind für mich wichtige Faktoren für ein erfolgreiches
+                            Produktdesign und nachhaltige Lösungen.
                         </p>
 
                         <p>
-                            Bis zur Gründung unserer Firma <b>Break the Box GmbH</b> war ich in verschiedenen Unternehmungen als <b>Software Engineer</b>, <b>Software Architekt</b>, <b>Requirements Engineer</b>, <b>Scrum Master</b>, <b>Projektleiterin</b> und <b>Consultant</b> tätig.
+                            Bis zur Gründung unserer Firma <b>Break the Box GmbH</b> war ich in verschiedenen
+                            Unternehmungen als <b>Software Engineer</b>, <b>Software Architekt</b>, <b>Requirements
+                            Engineer</b>, <b>Scrum Master</b>, <b>Projektleiterin</b> und <b>Consultant</b> tätig.
                         </p>
 
                         <p>
-                            Mein berufsbegleitendes Studium der <b>Informatik</b> habe ich 2009 als <a href="http://www.ti.bfh.ch/bachelor/informatik/studierende/vertiefungen/computer_perception_virtual_reality.html">BSc Computer Science</a> mit Spezialisierung in Computer Perception and Virtual Reality abgeschlossen.
-                            Später habe ich mich im Rahmen verschiedener Weiterbildungen als <a href="https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm">Certified Scrum Master</a>, <a href="https://www.scrumalliance.org/certifications/practitioners/cspo-certification">Certified Scrum Product Owner</a> und <a href="https://www.ireb.org/en/cpre/foundation">IREB FL Certified Requirements Engineer</a> zertifizieren lassen.
-                            2012 erlangte ich mein <a href="http://www.ti.bfh.ch/cas-re">Certificate of Advanced Studies in <b>Requirements Engineering</b></a>.
+                            Mein berufsbegleitendes Studium der <b>Informatik</b> habe ich 2009 als <a
+                                href="http://www.ti.bfh.ch/bachelor/informatik/studierende/vertiefungen/computer_perception_virtual_reality.html">BSc
+                            Computer Science</a> mit Spezialisierung in Computer Perception and Virtual Reality
+                            abgeschlossen.
+                            Später habe ich mich im Rahmen verschiedener Weiterbildungen als <a
+                                href="https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm">Certified
+                            Scrum Master</a>, <a
+                                href="https://www.scrumalliance.org/certifications/practitioners/cspo-certification">Certified
+                            Scrum Product Owner</a> und <a href="https://www.ireb.org/en/cpre/foundation">IREB FL
+                            Certified Requirements Engineer</a> zertifizieren lassen.
+                            2012 erlangte ich mein <a href="http://www.ti.bfh.ch/cas-re">Certificate of Advanced Studies
+                            in <b>Requirements Engineering</b></a>.
                         </p>
 
                         <p>
-                            Detaillierte Informationen über meine Tätigkeiten und Ausbildungen finden Sie auf meinem <a href="https://ch.linkedin.com/in/bhulliger" target="_blank">LinkedIn</a>-Profil oder nachfolgend in meinem Lebenslauf als VideoScribe.
+                            Detaillierte Informationen über meine Tätigkeiten und Ausbildungen finden Sie auf meinem <a
+                                href="https://ch.linkedin.com/in/bhulliger" target="_blank">LinkedIn</a>-Profil oder
+                            nachfolgend in meinem Lebenslauf als VideoScribe.
                         </p>
 
                         <div class="row weare-video">
-                             <iframe width="100%" height="360" src="https://www.youtube.com/embed/BPxvdJoHwoE?rel=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="100%" height="360" src="https://www.youtube.com/embed/BPxvdJoHwoE?rel=0"
+                                    frameborder="0" allowfullscreen></iframe>
 
-                         </div>
-
-                         <a href="cv.html">» Details zum Video</a>
-                     </div>
-
-                        <div class="weare-socialmedia light">
-                            <a href="http://github.com/bhulliger" target="_blank"><i class="fa fa-github fa-2x"
-                                                                                     aria-hidden="true"></i></a>
-                            <a href="https://twitter.com/bhulliger" target="_blank"><i class="fa fa-twitter fa-2x"
-                                                                                       aria-hidden="true"></i></a>
-                            <a href="https://www.instagram.com/bhulliger/" target="_blank"><i class="fa fa-instagram fa-2x"
-                                                                              aria-hidden="true"></i></a>
-                            <a href="mailto:brigitte@breakthebox.ch"><i class="fa fa-envelope fa-2x"
-                                                                        aria-hidden="true"></i></a>
-                            <a href="https://ch.linkedin.com/in/bhulliger" target="_blank"><i class="fa fa-linkedin fa-2x"
-                                                                              aria-hidden="true"></i></a>
                         </div>
 
-
+                        <a href="cv.html">» Details zum Video</a>
                     </div>
 
-                <div class="col-xs-12 col-sm-4 col-md-3 cv-avatar-container"><img class="img-circle cv-avatar"
-                     src="https://s.gravatar.com/avatar/aa705336ad39eb523f22e883ebee1dc8?s=180"
-                     alt="Brigitte Hulliger">
+                    <div class="weare-socialmedia light">
+                        <a href="http://github.com/bhulliger" target="_blank"><i class="fa fa-github fa-2x"
+                                                                                 aria-hidden="true"></i></a>
+                        <a href="https://twitter.com/bhulliger" target="_blank"><i class="fa fa-twitter fa-2x"
+                                                                                   aria-hidden="true"></i></a>
+                        <a href="https://www.instagram.com/bhulliger/" target="_blank"><i class="fa fa-instagram fa-2x"
+                                                                                          aria-hidden="true"></i></a>
+                        <a href="mailto:brigitte@breakthebox.ch"><i class="fa fa-envelope fa-2x"
+                                                                    aria-hidden="true"></i></a>
+                        <a href="https://ch.linkedin.com/in/bhulliger" target="_blank"><i class="fa fa-linkedin fa-2x"
+                                                                                          aria-hidden="true"></i></a>
                     </div>
+
 
                 </div>
 
+                <div class="col-xs-12 col-sm-4 col-md-3 cv-avatar-container"><img class="img-circle cv-avatar"
+                                                                                  src="https://s.gravatar.com/avatar/aa705336ad39eb523f22e883ebee1dc8?s=180"
+                                                                                  alt="Brigitte Hulliger">
+                </div>
+
             </div>
+
+        </div>
 
 
         <!-- Profil Oli -->
@@ -394,7 +401,8 @@
                     <div class="bubble-content" itemprop="founder" itemscope itemtype="http://schema.org/Person">
                         <h2 itemprop="name">Oliver Schmid</h2>
                         <p>
-                            Ich bin der <b>&laquo;Techie&raquo;</b> von Break the Box: Mit Freude probiere ich immer wieder neue
+                            Ich bin der <b>&laquo;Techie&raquo;</b> von Break the Box: Mit Freude probiere ich immer
+                            wieder neue
                             Technologien und Methoden aus. Ich bin mit Herzblut bei der <b>Entwicklung und Gestaltung
                             von
                             Ideen und Verbesserungen</b> dank neuer technischer Möglichkeiten dabei.
@@ -448,10 +456,8 @@
 
                     </div>
                 </div>
-                <div style="clear:both"/>
+                <div style="clear:both"></div>
             </div>
-
-
         </div>
     </div>
 </div>
@@ -460,7 +466,7 @@
 <div class="bg-blue">
     <a name="wedo"></a>
 
-    <div class="container">
+    <div class="container" style="min-height: 45em;">
 
         <div class="row">
             <h1>Ein Auszug aus unseren Projekten...</h1>
@@ -497,7 +503,8 @@
                 </div>
                 <h3>Ring Tagcloud</h3>
                 <p>
-                    Mobile App für die Herstellung von personalisierten Fingerringen mit einer Tagcloud aus eigens definierten Wörtern.
+                    Mobile App für die Herstellung von personalisierten Fingerringen mit einer Tagcloud aus eigens
+                    definierten Wörtern.
                 </p>
             </div>
 
@@ -539,11 +546,12 @@
                     <img src="img/whiteboard.jpg" style="height: 80%; width: 80%; "/>
                 </div>
                 <h3>e(xtended)-Whiteboard</h3>
-                <p>Eine Erweiterung für herkömmliche Whiteboards zur Sicherung von Zeichnungen und erweiterten Kollaboration.
+                <p>Eine Erweiterung für herkömmliche Whiteboards zur Sicherung von Zeichnungen und erweiterten
+                    Kollaboration.
                 </p>
             </div>
 
-         <!-- Prototyping Robot -->
+            <!-- Prototyping Robot -->
             <div class="wedo-project wedo-project-linked" id="robot">
                 <div class="projectImage">
                     <img src="img/robot.jpg"/>
@@ -559,7 +567,6 @@
     </div>
 </div>
 <!--#include virtual="/snippets/footer.html" -->
-</div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -575,7 +582,7 @@
         } else {
             nav.removeClass("navbar-scrolled");
         }
-    }
+    };
 
     var nav = $("nav");
     $(window).scroll(showHeader);
