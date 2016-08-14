@@ -20,47 +20,34 @@
 
                 <b>Problemstellung</b><br/>
                 <p>Die Kollaboration an einem Whiteboard ist ein gängiges und bewährtes Mittel, um ein gemeinsames
-                    Vorgehen zu planen, Verständnis zu schaffen und Ideen zu erarbeiten. Dabei ist das analoge
-                    Whiteboard seinen digitalen Pendents nicht nur aufgrund der geringerer Kosten auch weiterhin noch
-                    überlegen:
-                    Der äusserst spontane Einsatz dieses Arbeitsinstrumentes erlaubt keine Initialisierungsphase eines
-                    interaktiven Systems: Wenn z.B. etwas im Rahmen einer laufenden Erklärung aufgezeigt
-                    werden soll, ist das Verbinden eines Notebooks, das Starten einer Applikation, das Aufwärmen eines
-                    Beamers oder andere Initialisierungstätigkeiten eine zu grosse Hürde, welche den natürlichen
-                    Gesprächs- und Kollaborationsverlauf unterbricht. Erschwerend hinzu kommt die tiefe Toleranz der
-                    Benutzer gegenüber Verzögerungen bei der Reaktion des Systems oder bei bereits kleinsten
-                    Positionsimpräzisionen beim Zeichnen.
-                    Diese technischen Herausforderungen lassen das Arbeiten sofort als unnatürlich und somit als dem
-                    analogen Whiteboard unterlegen erscheinen.</p>
-                <p>Doch auch analoge Whiteboards haben Nachteile: Erarbeitete Ergebnisse können nur
-                    schlecht gesichert, an die Teilnehmer verteilt oder gar zu einem späteren Zeitpunkt weiterbearbeitet
-                    werden. Die gängige Lösung dafür kennen wir alle aus der Praxis: Am Ende einer Whiteboard-Session
-                    machen sich alle
-                    Teilnehmer ein Foto der erarbeiteten Ergebnisse, welches aufgrund der meistens schlechten
+                    Vorgehen zu planen, Verständnis zu schaffen und Ideen zu erarbeiten. Obwohl auch heute bereits digitale Whiteboards
+                    erhältlich sind, gibt es - neben deren tieferer Kosten - weiterhin Vorteile der analogen Boards:
+                    Der spontane Einsatz dieses Arbeitsinstrumentes macht es nötig, sofort mit der Anwendung starten zu können. Wenn z.B. jemand etwas im Rahmen einer laufenden Erklärung aufzeigen möchte, ist das Verbinden eines Notebooks, das Starten einer Applikation, das Aufwärmen eines
+                    Beamers etc. eine zu grosse Hürde, welche den natürlichen Gesprächs- und Kollaborationsverlauf unterbricht.
+                    Ausserdem fallen Verzögerungen, oder auch nur leichte Mängel bei der Präzision beim Zeichnen, sofort störend auf und lassen das Arbeiten mit digitalen Whiteboards als unnatürlich wirken. </p>
+                <p>Doch auch herkömmliche Whiteboards haben Nachteile: Erarbeitete Ergebnisse können schlecht gesichert, an die Teilnehmer verteilt oder gar zu einem späteren
+                    Zeitpunkt weiterbearbeitet werden. Die gängige Lösung dafür kennen wir alle aus der Praxis: Am Ende einer Whiteboard-Session
+                    machen sich alle Teilnehmer ein Foto der erarbeiteten Ergebnisse, welches aufgrund der meistens schlechten
                     Lichtverhältnissen und nicht optimalem Autofokus der Smartphones nur noch knapp lesbar ist und so
                     lediglich Dokumentationszwecken dienen kann.</p>
 
-                <p><b>Die Idee</b><br/>
-                    Anstelle interaktive Whiteboards so weit zu optimieren, dass sie dem natürlichen Whiteboard
-                    möglichst nahe kommen, versuchen wir primär die Nachteile des analogen Whiteboards zu eliminieren:
-                    <br/> Mit einer fest installierten und auf das Whiteboard gerichteten Kamera soll die
-                    kontinuierliche Sicherung der gezeichneten Ergebnisse sichergestellt werden. Erreicht wird dies,
-                    indem kontinuierlich Fotos gemacht werden und Differenzen
-                    zwischen den erfassten Bildern errechnet werden und allfällige blinde Flecke (z.B. durch Personen,
-                    welche Teile des Whiteboards verdecken) nachberechnet werden, sobald die Sicht auf den
+                <p><b>Das Projekt</b><br/>
+                    Wir versuchen die Nachteile des analogen Whiteboards mit einfachsten Mitteln zu eliminieren:
+                    <br/> Mit einer auf das Whiteboard gerichteten Kamera werden in regelmässigen Abständen Fotos gemacht und kombiniert,
+                    so dass allfällige blinde Flecke (z.B. durch Personen, welche Teile des Whiteboards verdecken) nachberechnet werden, sobald die Sicht auf den
                     entsprechenden Bereich nicht mehr blockiert ist. <br/>
-                    Diese Sicherung ermöglicht - neben Dokumentationszwecken - auch die Weiterverarbeitung der
-                    Ergebnisse: Ist eine Projektion auf das Whiteboard möglich (idealerweise ist das Whiteboard ein
-                    grosser
-                    Bildschirm, oder es kann mittels Beamer auf das Whiteboard projiziert werden),
+                    So kann die Entstehung einer Zeichnung dokumentiert und zwischen den Teilnehmern geteilt werden.
+                    Ist eine Projektion auf das Whiteboard möglich (idealerweise ist das Whiteboard ein
+                    grosser Bildschirm, oder es kann mittels Beamer auf das Whiteboard projiziert werden),
                     so können die vorgängig gemachten Aufnahmen wieder auf dem Board dargestellt und an den vorherigen
-                    Skizzen weitergezeichnet werden. Die digitalen Ergebnisse können selbstverständlich
-                    auch über das Netzwerk verteilt werden und so an entfernten Standorten parallel bearbeitet werden.
-
+                    Skizzen weitergezeichnet werden.
                         <iframe width="100%" height="360" src="https://www.youtube.com/embed/SgBvSLM6abw?hl=en&cc_lang_pref=en&cc_load_policy=1" frameborder="0"
-                                allowfullscreen></iframe>
-
-
+                                allowfullscreen></iframe></p>
+                <p><b>Aktueller Stand und Ausblick</b><br/>
+                    Wir befinden uns aktuell in einer technischen Validierungsphase. Angedacht sind zusätzliche Erweiterungen, bei welchen das System beispielsweise aufgrund
+                    Gesten / Zeichnungsmustern Aktionen ausführt - so könnte z.B. durch das Zeichnen eines Kreises um einen bestimmten Bereich dieser automatisch digital dargestellt werden oder
+                    es könnten zusätzliche digitale Inhalte wie z.B. Bilder o.ä. auf das Whiteboard projiziert werden. Das aktuelle Projekt dient somit als Basis für weitere Experimente
+                    und Ideen im Bereich der kollaborativen Zusammenarbeit.
                 </p>
                 <p>
                     <b>Kontext</b><br/>
