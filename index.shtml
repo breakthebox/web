@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
     <title>Break the Box</title>
-    <!--#include virtual="/snippets/header.html" -->
+    <!--#include virtual="/snippets/header.shtml" -->
 </head>
 <body itemscope itemtype="http://schema.org/Organization">
 <div class="blackfill bg-dark"></div>
@@ -566,7 +566,7 @@
         </div>
     </div>
 </div>
-<!--#include virtual="/snippets/footer.html" -->
+<!--#include virtual="/snippets/footer.shtml" -->
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -591,6 +591,6 @@
         window.location.href = $(this).attr('id') + '.html';
     })
 </script>
-<!--#include virtual="/snippets/analytics.html" -->
+<!--#include virtual="/snippets/analytics.shtml" -->
 </body>
 </html>
