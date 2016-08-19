@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <title>Break the Box - Ring Tagcloud</title>
-    <!--#include virtual="/snippets/header.html" -->
+    <!--#include virtual="/snippets/header.shtml" -->
 </head>
 <body itemscope itemtype="http://schema.org/Organization">
-<!--#include virtual="/snippets/subsitenav.html" -->
+<!--#include virtual="/snippets/subsitenav.shtml" -->
 <div class="bg-blue">
     <div class="container">
         <h1 style="margin-top: 2em;">Ring Tagcloud</h1>
@@ -45,7 +45,7 @@
     </div>
 </div>
 
-<!--#include virtual="/snippets/footer.html" -->
-<!--#include virtual="/snippets/analytics.html" -->
+<!--#include virtual="/snippets/footer.shtml" -->
+<!--#include virtual="/snippets/analytics.shtml" -->
 </body>
 </html>

@@ -1,5 +1,2 @@
 User-agent: *
-Disallow: /font
-Disallow: /style
 Disallow: /snippets
-Disallow: /shtmltest
