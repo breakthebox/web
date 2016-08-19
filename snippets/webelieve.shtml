@@ -1,0 +1,33 @@
+<div class="container chat" id="beliefs">
+    <div class="row">
+        <div class="col-md-2 col-sm-2 col-xs-1">
+            <img id="avatarBelief" class="img-circle chat-avatar chat-avatar-left"/>
+        </div>
+        <div class="col-md-5 col-sm-7 col-xs-10">
+            <div id="bubbleBelief" class="chat-bubble-left">
+                <div id="belief" class="bubble-content"></div>
+            </div>
+        </div>
+    </div>
+    <div class="row clear" style="margin-top:1em;">
+        <div class="col-md-5 col-md-offset-5 col-sm-7 col-sm-offset-3 col-xs-10 ">
+            <div id="bubbleReason" class="chat-bubble-right">
+                <div id="reason" class="bubble-content"></div>
+            </div>
+        </div>
+        <div class="col-md-2 col-sm-2 col-xs-1">
+            <img id="avatarReason" class="img-circle chat-avatar chat-avatar-right"/>
+        </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" onclick="previousBelief()" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" onclick="nextBelief()" role="button">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+
+</div>

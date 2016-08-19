@@ -1,0 +1,85 @@
+<a name="youget"></a>
+
+<div class="container">
+    <div class="watermark">
+        you get
+    </div>
+    <div class="row">
+        <h1>Sie erhalten von uns...</h1>
+
+        <h3>... Dienstleistungen in verschiedenen Formen, damit Sie unsere Expertise gezielt dort einsetzen
+            können,
+            wo Ihre Unternehmung Unterstützung braucht.</h3>
+    </div>
+
+    <!-- Three columns of text below the carousel -->
+    <div class="row youget-overview">
+        <div class="col-md-4 youget-element">
+            <img class="img-circle youget-img"
+                 src="img/gears.png"
+                 alt="Mandate">
+
+            <h2>Mandate</h2>
+
+            <p>Benötigen Sie unsere <a href="#weoffer">Dienstleistungen</a> in Ihrer Unternehmung vor Ort?
+                Mandatieren
+                Sie uns
+                als:</p>
+
+            <ul class="youget-csvlist enumeration">
+                <li><label>Visual Facilitator</label></li>
+                <li><label>Digitaler Transformator</label></li>
+                <li><label>Requirements Engineer</label></li>
+                <li><label>Scrum Product Owner</label></li>
+            </ul>
+
+            <p><a href="mailto:info@breakthebox.ch">Kontaktieren Sie uns</a> für konkrete Anfragen.</p>
+
+
+        </div>
+
+        <hr class="featurette-divider hidden-md hidden-lg">
+
+        <div class="col-md-4">
+            <img class="img-circle youget-img"
+                 src="img/brain.png"
+                 alt="Knowhow">
+
+            <h2>Knowhow</h2>
+
+            <p>Möchten Sie von unserem Wissen und unseren Erfahrungen profitieren? Gerne vermitteln wir diese im
+                Rahmen von:</p>
+
+            <ul class="youget-csvlist enumeration">
+                <li><label>Workshops</label></li>
+                <li><label>Schulungen (technisch oder methodisch)</label></li>
+                <li><label>Events (Vorträge, Hackdays, Podiumsdiskussionen, ...)</label></li>
+            </ul>
+
+            <p><a href="mailto:info@breakthebox.ch">Kontaktieren</a>
+                Sie uns für massgeschneiderte Angebote auf Ihre Bedürfnisse.</p>
+        </div>
+
+        <hr class="featurette-divider hidden-md hidden-lg">
+
+        <div class="col-md-4">
+            <img class="img-circle youget-img"
+                 src="img/deliverable.png"
+                 alt="Auftragsarbeiten">
+
+            <h2>Auftragsarbeiten</h2>
+
+            <p>Sie benötigen Hilfe bei der Lösung eines konkreten Problems? Gerne erstellen wir für Sie:</p>
+
+            <ul class="youget-csvlist enumeration">
+                <li><label>Visualisierungen &amp; Erklärvideos</label></li>
+                <li><label>Bedürfnisanalysen</label></li>
+                <li><label>Prototypen inkl. Testing</label></li>
+                und vieles mehr.
+            </ul>
+
+            <p><a href="mailto:info@breakthebox.ch">Kontaktieren</a> Sie uns für ein Angebot.</p>
+
+        </div>
+    </div>
+</div>

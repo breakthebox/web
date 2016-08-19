@@ -1,0 +1,25 @@
+<a name="events"></a>
+
+<div class="container" style="min-height: 45em;">
+
+    <div class="row">
+        <h1>Events</h1>
+    </div>
+
+    <div class="watermark">
+        events
+    </div>
+    <div class="row wedo-projects">
+
+        <a href="./agile_hackday.html">
+            <div class="wedo-project event" id="agile_hackday">
+                <div class="projectImage">
+                    <img src="img/agile_hackday.jpg"/>
+                </div>
+                <h3>Agile Hackday</h3>
+                <p>Ein 1.5 stündiger Workshop zum Thema "Agilität" mit theoretischem und praktischem (Lego-Scrum)
+                    Teil.</p>
+            </div>
+        </a>
+    </div>
+</div>

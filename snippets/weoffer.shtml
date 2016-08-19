@@ -1,0 +1,85 @@
+<a name="weoffer"></a>
+
+<div class="container">
+    <div class="watermark">we offer</div>
+    <div class="row">
+        <h1>Wir bieten Ihnen...</h1>
+    </div>
+    <div class="portfolioCircle">
+
+        <div class="portfolioFirstRow">
+            <div id="arrowPT2RE" class="portfolioArrow"><img
+                    src="img/pt2re.png"></div>
+            <div id="discipline0" class="portfolioDiscipline active"><img class="img-circle weoffer-img"
+                                                                          src="img/requirements engineering.png"
+                                                                          alt="Requirements Engineering" onclick="setOffering(0);"></div>
+            <div id="arrowRE2VF" class="portfolioArrow"><img
+                    src="img/re2vf.png"></div>
+
+        </div>
+        <div class="portfolioSecondRow">
+            <div id="discipline2" class="portfolioDiscipline"><img class="img-circle weoffer-img"
+                                                                   src="img/prototyping.png"
+                                                                   alt="Prototyping" onclick="setOffering(2);"></div>
+            <div id="arrowVF2PT" class="portfolioArrow"><img
+                    src="img/vf2pt.png"></div>
+
+            <div id="discipline1" class="portfolioDiscipline"><img class="img-circle weoffer-img"
+                                                                   src="img/visual facilitation.png"
+                                                                   alt="Visual Facilitation" onclick="setOffering(1);"></div>
+        </div>
+        <div id="description" class="portfolioDescription">
+            <div class="portfolioDescriptionContent">
+                <div id="portfolioTexts">
+                    <div class="active">
+                        <h2>Requirements Engineering</h2>
+                        <p>Die Anforderungsanalyse steht zu Beginn jedes Vorhabens und ist absolut kritisch für dessen Erfolg.</p>
+
+                        <p>Manchmal ist es aber gar nicht so leicht auszudrücken, was man erwartet und die Ideen sind zu Beginn eines Projekts häufig noch nicht konkret genug um Anforderungen strukturiert erfassen zu können. </p>
+
+                        <p>Deshalb bieten wir neben der klassischen Anforderungsanalyse zusätzliche Hilfestellungen um ihr Vorhaben zu konkretisieren...</p>
+
+                    </div>
+                    <div>
+                        <h2>Visual Facilitation</h2>
+                        <p>Mithilfe der Visualisierung von Ideen können diese einfacher erfasst und kommuniziert werden.</p>
+                        <p>Die zusammen mit Ihnen erarbeiteten Sketches, Graphic Recordings und/oder Erklärvideos dienen dem Schaffen eines gemeinsamen und tiefgehenderen Verständnisses der Problemstellung und
+                            helfen sowohl bei der internen als auch externen Kommunikation um Interesse und Begeisterung für Ihr Vorhaben zu wecken.
+                        </p>
+
+                        <p><a>Erfahren Sie mehr über unser Visualisierungsangebot und lassen Sie sich inspirieren!</a>
+                        </p>
+                    </div>
+                    <div>
+                        <h2>Prototyping</h2>
+                        <p>Ist die Problemstellung klarer geworden, ist es wichtig, schnell herauszufinden, ob eine Umsetzung machbar ist und ob eine Lösung bei den Benutzern akzeptiert wird.</p>
+                        <p>Dazu stellen wir für Sie &ndash; je nach Aufgabenstellung &ndash; Prototypen unterschiedlichster Art (aus Papier, als interaktive Applikationen, usw.) her und führen Benutzertests durch.</p>
+                        <p>Nicht selten entstehen aufgrund des Feedbacks zu den Prototypen neue Ideen, welche zu einem besser auf Ihre Benutzer zugeschnittenen Produkt führen können.</p>
+
+
+                        <p><a>Erfahren Sie mehr über unser Prototyping-Angebot und lassen Sie sich inspirieren!</a>
+                        </p>
+                    </div>
+                    <div>
+                        <h2 >Digitale Transformation</h2>
+                        <p>Den mit der digitalen Transformation einhergehenden kulturellen Herausforderungen kann nur durch den engen Miteinbezug Ihrer MitarbeiterInnen erfolgreich entgegnet werden.</p>
+                        <p>Durch unsere Dienstleistungen unterstützen wir Sie dabei, Ihre MitarbeiterInnen bei der Erarbeitung / Visualisierung von Ideen und der aktiven Teilnahme beim Testing von Prototypen miteinzubeziehen.
+                            So kann das vorhandene, umfangreiche Knowhow eingebracht und die mit der digitalen Transformation verbundenen Bedenken durch aktive Mitgestaltung überwunden werden.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" onclick="previousOffering()" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" onclick="nextOffering()"  role="button">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+
+
+</div>
