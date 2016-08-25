@@ -31,20 +31,30 @@
                     Anstelle des manuellen Verbuchens der geleisteten Zeiten wird die mobile App zur modernen
                     Stempeluhr. In unserem Fall ist BtB-Time vollständig mit unserer Zeiterfassungs- und
                     Buchhaltungsplattform <a href="http://www.bexio.ch">Bexio</a> verknüpft.<br/>
-                    <img src="img/btbtime_screen.jpg" style=" float:left; width: 18em; max-width: 100%; margin-right: 1em;">Neben der Möglichkeit, die Zeiterfassung manuell mittels Start-/Stop-Knopfdruck zu erfassen, ermöglicht
-                    der Einsatz von <a href="https://de.wikipedia.org/wiki/Near_Field_Communication">NFC-Tags</a> &ndash; welche beispielsweise
-                    in einer Visitenkarte enthalten sein können &ndash; das einfache Ein- und Ausstempeln mittels physischem Kontakt
-                    mit kompatiblen Smartphones: Durch das Auflegen eines Tags/Visitenkarte auf das Smartphone (oder das Einklemmen in einer Schutzhülle)
-                    wird die Zeiterfassung für das auf dem Chip hinterlegte Projekt gestartet. Wird das Tag wieder vom Smartphone entfernt, stoppt die Zeiterfassung
+                    <img src="img/btbtime_screen.jpg"
+                         style=" float:left; width: 18em; max-width: 100%; margin-right: 1em;">Neben der Möglichkeit,
+                    die Zeiterfassung manuell mittels Start-/Stop-Knopfdruck zu erfassen, ermöglicht
+                    der Einsatz von <a
+                            href="https://de.wikipedia.org/wiki/Near_Field_Communication">NFC-Tags</a> &ndash; welche
+                    beispielsweise
+                    in einer Visitenkarte enthalten sein können &ndash; das einfache Ein- und Ausstempeln mittels
+                    physischem Kontakt
+                    mit kompatiblen Smartphones: Durch das Auflegen eines Tags/Visitenkarte auf das Smartphone (oder das
+                    Einklemmen in einer Schutzhülle)
+                    wird die Zeiterfassung für das auf dem Chip hinterlegte Projekt gestartet. Wird das Tag wieder vom
+                    Smartphone entfernt, stoppt die Zeiterfassung
                     und die geleistete Arbeit wird in das Erfassungssystem übertragen.
                     <br/>
-                    Zusätzlich können Beschreibungstexte und die Definition der Tätigkeitsart hinterlegt werden, sowie ob eine
-                    Aufgabe verrechenbar ist oder nicht. So, dass alle erforderlichen Angaben ins Erfassungssystem übertragen werden können und jederzeit
+                    Zusätzlich können Beschreibungstexte und die Definition der Tätigkeitsart hinterlegt werden, sowie
+                    ob eine
+                    Aufgabe verrechenbar ist oder nicht. So, dass alle erforderlichen Angaben ins Erfassungssystem
+                    übertragen werden können und jederzeit
                     Arbeitsrapporte und Abrechnungen über die herkömmlichen Oberflächen des Abrechnungssystems erstellt
                     werden können.
                 </p>
                 <p>Im Vergleich zu konventionellen Zeitstempel-Apps hat die Nutzung von NFC diverse Vorteile: Einerseits
-                    wird der Benutzer (solange das Tag mit dem Smartphone in Kontakt ist) bei jeder Reaktivierung des Gerätes an die laufende
+                    wird der Benutzer (solange das Tag mit dem Smartphone in Kontakt ist) bei jeder Reaktivierung des
+                    Gerätes an die laufende
                     Erfassung erinnert und
                     andererseits stellte sich insbesondere die physische Präsenz des NFC-Tags, welche bei jedem "in die
                     Hand nehmen" des Smartphones spürbar ist, als eine hervorragende Erinnerungsfunktion heraus, was den
@@ -59,6 +69,24 @@
                     BtB-Time ist eine Eigeninitiative von Break the Box und wird neben Kundenprojekten auch für die
                     interne Zeiterfassung verwendet. Der geringe Zusatzaufwand für die präzise Zeiterfassung erlaubt es,
                     auch interne Aufwände realistisch einschätzen zu können und dient somit als Steuerungsinstrument.
+                </p>
+                <b>Inspiriert?</b><br/>
+                <p>
+                    Du hast ebenfalls Ideen für die Nutzung von #nfc oder nutzt diese sogar bereits? Twittere uns deine
+                    Ideen oder Vorschläge wie dein Alltag vereinfacht werden könnte @breakthebox_ch!
+                <div class="twitter">
+                    <a class="twitter-timeline" href="https://twitter.com/search?q=breakthebox_ch%20%23nfc"
+                       data-widget-id="768722767432810496">Tweets über breakthebox_ch #nfc </a>
+                    <script>!function (d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                        if (!d.getElementById(id)) {
+                            js = d.createElement(s);
+                            js.id = id;
+                            js.src = p + "://platform.twitter.com/widgets.js";
+                            fjs.parentNode.insertBefore(js, fjs);
+                        }
+                    }(document, "script", "twitter-wjs");</script>
+                </div>
                 </p>
             </div>
         </div>
