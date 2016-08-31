@@ -579,9 +579,40 @@ div.youget-card:hover {
 @media (min-width: 992px) {
   .phone {
     text-align: right; } }
-.easyhtml5video img {
-  width: 100%; }
+/** portfolio */
+.portfolio {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  border: 1px dashed #262626; }
+  .portfolio .discipline {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 10em;
+    height: 10em;
+    margin: -5em;
+    opacity: .8; }
+    .portfolio .discipline .weoffer-img {
+      width: 10em;
+      height: 10em; }
+  .portfolio .arrow {
+    width: 15%; }
+  .portfolio .discipline.active {
+    opacity: 1;
+    margin: -6em; }
+    .portfolio .discipline.active .weoffer-img {
+      width: 12em;
+      height: 12em; }
+  .portfolio #discipline0 {
+    transform: translate(0, -100%); }
+  .portfolio #discipline1 {
+    transform: rotate(45deg) translate(20vw) rotate(-45deg); }
+  .portfolio #discipline2 {
+    transform: rotate(-45deg) translate(-20vw) rotate(45deg); }
 
+/** portfolio oli */
 .portfolioCircle {
   position: relative; }
 
