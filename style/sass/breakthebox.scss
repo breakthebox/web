@@ -134,7 +134,7 @@ body {
 /**
  * --- typography
  */
-.right {
+ .right {
   text-align: right;
 }
 
@@ -158,7 +158,7 @@ label {
 /**
  * --- Common Elements
  */
-.container {
+ .container {
   position: relative;
   padding: 3em 9em;
 
@@ -228,7 +228,7 @@ label {
 /**
  * --- Navbar
  */
-.navbar {
+ .navbar {
   border: 0;
 
   hr {
@@ -277,7 +277,7 @@ label {
 /**
  * --- Intro
  */
-.statement {
+ .statement {
   font-size: 2.5em;
   font-weight: bold;
   text-align: center;
@@ -310,7 +310,7 @@ label {
 /**
  * --- We Believe in
  */
-.carousel-control.right, .carousel-control.left {
+ .carousel-control.right, .carousel-control.left {
   background: transparent;
   width: 2em;
 }
@@ -391,7 +391,7 @@ label {
 /**
  * --- We Offer
  */
-.weoffer-list {
+ .weoffer-list {
 
   li {
     a {
@@ -467,7 +467,7 @@ div.youget-card:hover {
 /**
  * --- we are
  */
-.weare-socialmedia {
+ .weare-socialmedia {
   display: flex;
   justify-content: space-between;
   margin: 1em;
@@ -667,10 +667,10 @@ div.youget-card:hover {
 /**
  * --- FOOTER
  */
-.footer {
-}
+ .footer {
+ }
 
-.footer-socialmedia {
+ .footer-socialmedia {
   display: flex;
   justify-content: space-between;
   margin: 1em;
@@ -696,9 +696,61 @@ div.youget-card:hover {
   }
 }
 
-.easyhtml5video img {
+/** portfolio */
+.portfolio {
+  position: relative;
   width: 100%;
+  height: 100vh;
+
+  border: 1px dashed $bg-dark;
+
+  .discipline {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 10em;
+    height: 10em;
+    margin: -5em;
+    opacity: .8;
+
+    .weoffer-img {
+      width: 10em;
+      height: 10em;
+    }
+  }
+
+  .arrow {
+    width: 15%;
+  }
+
+  .discipline.active {
+    opacity: 1;
+    margin: -6em;
+
+    .weoffer-img {
+      width: 12em;
+      height: 12em;
+      
+    }
+    
+  }
+
+  #discipline0 {
+    transform: translate(0, -100%);
+  }
+
+  #discipline1 {
+    transform: rotate(45deg) translate(20vw) rotate(-45deg);
+  }
+
+  #discipline2 {
+    transform: rotate(-45deg) translate(-20vw) rotate(45deg);
+  }
+
 }
+
+/** portfolio oli */
 
 .portfolioCircle {
   position: relative;
@@ -854,9 +906,9 @@ a.carousel-control{
 
   }
 
-.portfolioDescription p{
-  margin: 0 0 1vh;
-}
+  .portfolioDescription p{
+    margin: 0 0 1vh;
+  }
 
   .portfolioDescriptionContent {
     padding: 0.5em;

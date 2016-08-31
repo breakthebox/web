@@ -37,6 +37,7 @@ var setOffering = function(offering){
 var hideOffering = function(){
     $(offerings[i]).removeClass("active");
     $(".portfolioDiscipline").removeClass("active");
+    $(".discipline").removeClass("active");
 };
 
 var showOffering = function(){
