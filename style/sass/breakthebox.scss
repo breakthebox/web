@@ -666,6 +666,34 @@ div.youget-card:hover {
 }
 
 /**
+ * --- CUSTOMERS
+ */
+ .you-customers {
+
+ }
+
+ .customer {
+  padding: 1em;
+
+  width: 230px;
+  height: 150px;
+  display: inline-block;
+
+  border: 5px solid $bg-light;
+  background-color: $fg-light;
+  border-radius: 10px;
+
+  overflow: hidden;
+
+  img {
+    display: block;
+    margin: auto;
+    width: 100%;
+
+  }
+}
+
+/**
  * --- FOOTER
  */
  .footer {

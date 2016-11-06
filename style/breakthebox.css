@@ -560,6 +560,23 @@ div.youget-card:hover {
     height: 12em;
     width: 15.7em; } }
 /**
+ * --- CUSTOMERS
+ */
+.customer {
+  padding: 1em;
+  width: 230px;
+  height: 150px;
+  display: inline-block;
+  border: 5px solid #f5eed5;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden; }
+  .customer img {
+    display: block;
+    margin: auto;
+    width: 100%; }
+
+/**
  * --- FOOTER
  */
 .footer-socialmedia {
@@ -633,9 +650,6 @@ div.youget-card:hover {
     background-color: rgba(27, 52, 77, 0.7); }
     .portfolio .description.active {
       display: block; }
-  .portfolio .left.carousel-control {
-    /*margin-top: -10%;
-    margin-left: -10%;*/ }
 
 @media (max-width: 1199px) {
   .portfolio {
