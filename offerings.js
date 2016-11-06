@@ -1,10 +1,11 @@
-
-
 $("#description").on("swipeleft",function(event){nextOffering()});
 $("#description").on("swiperight",function(event){previousOffering()});
-var offerings = $("#portfolioTexts").children();
 
-var i = 0;
+var offerings = $(".discipline");
+
+console.log(offerings.length);
+
+var i = 4;
 
 var nextOffering = function(){
     hideOffering();
@@ -36,14 +37,22 @@ var setOffering = function(offering){
 
 var hideOffering = function(){
     $(offerings[i]).removeClass("active");
-    $(".portfolioDiscipline").removeClass("active");
-    $(".discipline").removeClass("active");
+    $(".icon").removeClass("active");
+    $(".description").removeClass("active");
 };
 
 var showOffering = function(){
-    var d = $("#discipline"+i);
-    if(d.length){
-        d.addClass("active");
+
+    console.log('showing : '  + i);
+
+    var discipline = $("#icon"+i);
+
+    if(discipline.length){
+        discipline.addClass("active");
     }
-    $(offerings[i]).addClass("active");
+
+    var description = $("#description" + i);
+    if (description.length) {
+        description.addClass("active");
+    }
 };
