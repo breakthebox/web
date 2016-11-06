@@ -764,7 +764,7 @@ div.youget-card:hover {
         font-size: 0.8em; } }
 @media (max-width: 450px) {
   .portfolio {
-    min-height: 600px; }
+    min-height: 500px; }
     .portfolio .icon {
       top: 40%;
       width: 4em;

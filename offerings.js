@@ -1,9 +1,7 @@
-$("#description").on("swipeleft",function(event){nextOffering()});
-$("#description").on("swiperight",function(event){previousOffering()});
+$(".description").on("swipeleft",function(event){nextOffering()});
+$(".description").on("swiperight",function(event){previousOffering()});
 
 var offerings = $(".discipline");
-
-console.log(offerings.length);
 
 var i = 4;
 
