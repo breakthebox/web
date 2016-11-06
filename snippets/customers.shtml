@@ -1,18 +1,37 @@
 <a name="customers"></a>
 
-<div class="container" style="min-height: 45em;">
+<div class="container">
+    <div class="watermark">you</div>
 
     <div class="row">
-        <h1>Unsere Kunden</h1>
-    </div>
-    <div class="row">
-        Wir freuen uns, mit den folgenden Kunden bereits spannende Projekte umgesetzt zu haben / umsetzen zu dürfen:
+        <h1>Unsere Kunden & Partner</h1>
     </div>
 
-    <div class="row">
-        <h1>Unsere Partner</h1>
-    </div>
-    <div class="row">
-        Gemeinsam mit unseren Partnern bewältigen wir auch Aufgaben, welche für Break the Box einen zu grossen Umfang annehmen und/oder Bedarf an Experten aus anderen Bereichen herrscht. Es sind dies:
+    <div class="row customers">
+
+        <div class="customer">
+            <img src="img/customers/logo_ewb.svg"/>
+        </div>
+
+        <div class="customer">
+            <img src="img/customers/logo_bls.svg"/>
+        </div>
+
+        <div class="customer">
+            <img src="img/customers/logo_puzzle.svg"/>
+        </div>
+
+        <div class="customer">
+            <img src="img/customers/logo_btpag.png"/>
+        </div>
+
+        <div class="customer">
+            <img src="img/customers/logo_ims.jpg"/>
+        </div>
+
+        <div class="customer">
+            <img src="img/customers/logo_wst.svg"/>
+        </div>
+
     </div>
 </div>

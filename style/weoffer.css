@@ -1,21 +1,21 @@
 /*
 Error: Undefined variable: "$screen-md-max".
-        on line 99 of sass/weoffer.scss
+        on line 93 of sass/weoffer.scss
 
-94:   	margin-left: -10%;*\/
-95:   }
-96: 
-97: }
-98: 
-99: @media (max-width: $screen-md-max) {
-100: 	.portfolio {
-101: 
-102: 		min-height: 800px;
-103: 
-104: 		.arrow {
+88:   		display: block;
+89:   	}
+90:   }
+91: }
+92: 
+93: @media (max-width: $screen-md-max) {
+94: 	.portfolio {
+95: 
+96: 		min-height: 800px;
+97: 
+98: 		.arrow {
 
 Backtrace:
-sass/weoffer.scss:99
+sass/weoffer.scss:93
 /Library/Ruby/Gems/2.0.0/gems/sass-3.4.22/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Library/Ruby/Gems/2.0.0/gems/sass-3.4.22/lib/sass/script/tree/node.rb:58:in `perform'
 /Library/Ruby/Gems/2.0.0/gems/sass-3.4.22/lib/sass/tree/visitors/perform.rb:542:in `block in run_interp_no_strip'
@@ -60,4 +60,4 @@ sass/weoffer.scss:99
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$screen-md-max\".\A         on line 99 of sass/weoffer.scss\A \A 94:   	margin-left: -10%;*/\A 95:   }\A 96: \A 97: }\A 98: \A 99: @media (max-width: $screen-md-max) {\A 100: 	.portfolio {\A 101: \A 102: 		min-height: 800px;\A 103: \A 104: 		.arrow {"; }
+  content: "Error: Undefined variable: \"$screen-md-max\".\A         on line 93 of sass/weoffer.scss\A \A 88:   		display: block;\A 89:   	}\A 90:   }\A 91: }\A 92: \A 93: @media (max-width: $screen-md-max) {\A 94: 	.portfolio {\A 95: \A 96: 		min-height: 800px;\A 97: \A 98: 		.arrow {"; }
