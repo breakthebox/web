@@ -612,12 +612,20 @@ div.youget-card:hover {
     transform: translate(-35%, 120%) scale(0.9); }
   .portfolio #arrow2 {
     transform: translate(-115%, -50%) scale(0.8); }
+  .portfolio .weoffer-img-font {
+    width: 18em;
+    height: 18em;
+    position: absolute;
+    display: block;
+    top: 10%;
+    left: 50%;
+    margin: -9em; }
   .portfolio .icon {
     display: block;
     position: absolute;
     top: 40%;
     left: 50%;
-    opacity: .8;
+    opacity: .7;
     width: 14em;
     height: 14em;
     margin: -7em;
@@ -625,13 +633,17 @@ div.youget-card:hover {
     .portfolio .icon .weoffer-img {
       width: 14em;
       height: 14em;
+      border: 1px solid #1B344D;
+      box-shadow: 0px 0px 20px #1B344D;
       transition: all .5s; }
+    .portfolio .icon .weoffer-img-font {
+      width: 130%;
+      top: 50%; }
     .portfolio .icon.active {
-      opacity: 1;
-      margin: -8em; }
+      opacity: 1; }
       .portfolio .icon.active .weoffer-img {
-        width: 16em;
-        height: 16em; }
+        border: 1px solid #f5eed5;
+        box-shadow: 0 0 15px 2px #f5eed5; }
   .portfolio #icon0 {
     transform: translate(0, -300px); }
   .portfolio #icon1 {
@@ -643,7 +655,7 @@ div.youget-card:hover {
     position: absolute;
     padding: 1em;
     z-index: 1;
-    top: 28%;
+    top: 25%;
     left: 15%;
     min-height: 40%;
     width: 70%;
@@ -664,11 +676,10 @@ div.youget-card:hover {
       .portfolio .icon .weoffer-img {
         width: 10em;
         height: 10em; }
-      .portfolio .icon.active {
-        margin: -6em; }
-        .portfolio .icon.active .weoffer-img {
-          width: 12em;
-          height: 12em; }
+      .portfolio .icon .weoffer-img-font {
+        width: 130%;
+        top: 50%;
+        left: 75%; }
     .portfolio #arrow0 {
       transform: translate(15%, -48%) scale(0.7); }
     .portfolio #arrow1 {
@@ -682,8 +693,8 @@ div.youget-card:hover {
     .portfolio #icon2 {
       transform: rotate(-45deg) translate(-450px) rotate(45deg); }
     .portfolio .description {
-      top: 25%;
-      min-height: 38%; } }
+      top: 22%;
+      min-height: 40%; } }
 @media (max-width: 991px) {
   .portfolio {
     min-height: 600px; }
@@ -691,32 +702,31 @@ div.youget-card:hover {
       top: 32%; }
     .portfolio .icon {
       top: 35%;
-      width: 6em;
-      height: 6em;
-      margin: -3em; }
+      width: 8em;
+      height: 8em;
+      margin: -4em; }
       .portfolio .icon .weoffer-img {
-        width: 6em;
-        height: 6em; }
-      .portfolio .icon.active {
-        margin: -4em; }
-        .portfolio .icon.active .weoffer-img {
-          width: 8em;
-          height: 8em; }
+        width: 8em;
+        height: 8em; }
+      .portfolio .icon .weoffer-img-font {
+        width: 130%;
+        top: 50%;
+        left: 98%; }
     .portfolio #arrow0 {
-      transform: translate(-5%, -48%) scale(0.5); }
+      transform: translate(-5%, -42%) scale(0.5, 0.65); }
     .portfolio #arrow1 {
-      transform: translate(-40%, 55%) scale(0.6); }
+      transform: translate(-40%, 75%) scale(0.6); }
     .portfolio #arrow2 {
-      transform: translate(-90%, -48%) scale(0.5); }
+      transform: translate(-90%, -42%) scale(0.5, 0.65); }
     .portfolio #icon0 {
       transform: translate(0, -150px); }
     .portfolio #icon1 {
-      transform: rotate(45deg) translate(330px) rotate(-45deg); }
+      transform: rotate(45deg) translate(330px) rotate(-45deg) translate(0, 70px); }
     .portfolio #icon2 {
-      transform: rotate(-45deg) translate(-330px) rotate(45deg); }
+      transform: rotate(-45deg) translate(-330px) rotate(45deg) translate(0, 70px); }
     .portfolio .description {
       top: 22%;
-      min-height: 45%;
+      min-height: 50%;
       padding: .5em; }
       .portfolio .description h2 {
         font-size: 1.5em; }
@@ -724,81 +734,113 @@ div.youget-card:hover {
         font-size: 0.9em; } }
 @media (max-width: 767px) {
   .portfolio {
-    min-height: 500px; }
+    min-height: 600px; }
     .portfolio .arrow {
       top: 40%; }
     .portfolio .icon {
       top: 35%;
-      width: 5em;
-      height: 5em;
-      margin: -3em; }
+      width: 7em;
+      height: 7em;
+      margin: -3.5em; }
       .portfolio .icon .weoffer-img {
-        width: 6em;
-        height: 6em; }
-      .portfolio .icon.active {
-        margin: -3.5em; }
-        .portfolio .icon.active .weoffer-img {
-          width: 7em;
-          height: 7em; }
+        width: 7em;
+        height: 7em; }
+      .portfolio .icon .weoffer-img-font {
+        width: 130%;
+        top: 50%;
+        left: 113%; }
     .portfolio #arrow0 {
-      transform: translate(-10%, -52%) scale(0.4, 0.45); }
+      transform: translate(-10%, -48%) scale(0.4, 0.65); }
     .portfolio #arrow1 {
-      transform: translate(-40%, 30%) scale(0.5); }
+      transform: translate(-40%, 60%) scale(0.5); }
     .portfolio #arrow2 {
-      transform: translate(-85%, -52%) scale(0.4, 0.45); }
+      transform: translate(-85%, -48%) scale(0.4, 0.65); }
     .portfolio #icon0 {
       transform: translate(0, -120px); }
     .portfolio #icon1 {
-      transform: rotate(45deg) translate(290px) rotate(-45deg); }
+      transform: rotate(45deg) translate(290px) rotate(-45deg) translate(0, 100px); }
     .portfolio #icon2 {
-      transform: rotate(-45deg) translate(-290px) rotate(45deg); }
+      transform: rotate(-45deg) translate(-290px) rotate(45deg) translate(0, 100px); }
     .portfolio .description {
-      width: 80%;
-      top: 22%;
-      left: 10%;
-      min-height: 45%;
+      width: 70%;
+      top: 25%;
+      left: 15%;
+      min-height: 50%;
       padding: .5em; }
       .portfolio .description h2 {
         font-size: 1.3em; }
       .portfolio .description p {
         font-size: 0.8em; } }
 @media (max-width: 450px) {
-  .portfolio {
-    min-height: 500px; }
-    .portfolio .icon {
-      top: 40%;
-      width: 4em;
-      height: 4em;
-      margin: -2em; }
-      .portfolio .icon .weoffer-img {
-        width: 4em;
-        height: 4em; }
-      .portfolio .icon.active {
-        margin: -2.5em; }
-        .portfolio .icon.active .weoffer-img {
-          width: 5em;
-          height: 5em; }
-    .portfolio #arrow0 {
-      transform: translate(-20%, -55%) scale(0.25, 0.5); }
-    .portfolio #arrow1 {
-      transform: translate(-42%, 20%) scale(0.4); }
-    .portfolio #arrow2 {
-      transform: translate(-75%, -55%) scale(0.25, 0.5); }
-    .portfolio #icon0 {
-      transform: translate(0, -180px); }
-    .portfolio #icon1 {
-      transform: rotate(45deg) translate(190px) rotate(-45deg) translate(15px, 40px); }
-    .portfolio #icon2 {
-      transform: rotate(-45deg) translate(-190px) rotate(45deg) translate(-15px, 40px); }
-    .portfolio .description {
-      width: 100%;
-      top: 15%;
-      left: 0%;
-      min-height: 48%;
-      padding: .5em; }
-      .portfolio .description h2 {
-        font-size: 1.2em; }
-      .portfolio .description p {
-        font-size: 0.7em; } }
+  .portfolio .description {
+    width: 100%;
+    top: 25%;
+    left: 0; } }
+/*
+@media (max-width: $screen-xs-med) {
+	.portfolio {
+
+		min-height: 500px;
+
+		.icon {
+
+			top: 40%;
+
+			width: 5em;
+			height: 5em;
+			margin: -2.5em;
+			.weoffer-img {
+				width: 5em;
+				height: 5em;
+			}	
+		}
+
+		#arrow0 {
+			transform:  translate(-20%, -55%) scale(0.25, .5) ;
+		}
+
+		#arrow1 {
+			transform: translate(-42%, 20%) scale(0.4);
+		}
+
+		#arrow2 {
+			transform: translate(-75%, -55%) scale(0.25, .5);
+		}
+
+
+		#icon0 {
+			transform: translate(0, -180px);
+		}
+
+		#icon1 {
+			transform: rotate(45deg) translate(190px) rotate(-45deg) translate(15px, 40px);
+		}
+
+		#icon2 {
+			transform: rotate(-45deg) translate(-190px) rotate(45deg) translate(-15px, 40px);
+		}
+
+		.description {
+
+			width: 100%;
+
+			top: 15%;
+			left: 0%;
+
+			min-height: 48%;
+			padding: .5em;
+
+
+			h2 {
+				font-size: 1.2em;
+			}
+			p {
+				font-size: 0.7em;
+			}
+
+		}
+	}
+
+}*/
 
 /*# sourceMappingURL=breakthebox.css.map */

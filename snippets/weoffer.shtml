@@ -5,7 +5,7 @@
     <div class="row"><h1>Wir bieten Ihnen...</h1></div>
 
     <div class="portfolio">
-
+<!--
         <div class="discipline" id="discipline3">
             <div class="description active" id="description3">
                 <h2 >Digitale Transformation</h2>
@@ -19,91 +19,95 @@
                 </p>
             </div>
         </div>
+    -->
+    <!-- Requirements Engineering -->
+    <div class="discipline" id="discipline0">
 
-        <!-- Requirements Engineering -->
-        <div class="discipline" id="discipline0">
-            <div class="icon" id="icon0">
-                <img class="img-circle weoffer-img" src="img/re.svg" alt="Requirements Engineering" onclick="setOffering(0);">
-            </div>
-
-            <div class="description" id="description0">
-                <h2>Requirements Engineering</h2>
-                <p>
-                    Requirements Engineering steht zu Beginn jedes Vorhabens und erzielt ein gemeinsames Verständnis zwischen allen involvierten Parteien über die zu entwickelnde Lösung. 
-                </p>
-
-                <p>
-                    Wir unterstützen Sie dabei und bringen unsere mehrjährige Erfahrung aus verschiedenen Branchen mit ein und können Sie so optimal unterstützen. Wir ermitteln, validieren, dokumentieren und verwalten Anforderungen an ihre Lösungen durch den Einsatz geeigneter Mittel unter Einbezug der richtigen Interessengruppen.
-                </p>
-
-                <p>
-                    Um effizient und pragmatisch zu nachhaltigen Lösungen zu gelangen ergänzen wir das klassige Anforderngsmanagement um zwei weitere Disziplinen...
-                </p>
-            </div>
+        <div class="icon active" id="icon0">
+            <img class="img-circle weoffer-img" src="img/re_web.svg" alt="Requirements Engineering" onclick="setOffering(0);">
+            <img class="img-circle weoffer-img-font" src="img/re_web_font.svg" alt="" onclick="setOffering(0);">
         </div>
 
-        <div class="arrow" id="arrow0">
-            <img class="img-arrow" src="img/re2vf.svg">
+        <div class="description active" id="description0">
+            <h2>Requirements Engineering</h2>
+            <p>
+                Requirements Engineering steht zu Beginn jedes Vorhabens und erzielt ein gemeinsames Verständnis zwischen allen involvierten Parteien über die zu entwickelnde Lösung. 
+            </p>
+
+            <p>
+                Wir unterstützen Sie dabei und bringen unsere mehrjährige Erfahrung aus verschiedenen Branchen mit ein und können Sie so optimal unterstützen. Wir ermitteln, validieren, dokumentieren und verwalten Anforderungen an ihre Lösungen durch den Einsatz geeigneter Mittel unter Einbezug der richtigen Interessengruppen.
+            </p>
+
+            <p>
+                Um effizient und pragmatisch zu nachhaltigen Lösungen zu gelangen ergänzen wir das klassige Anforderngsmanagement um zwei weitere Disziplinen...
+            </p>
         </div>
-
-        <!-- Prototyping -->
-        <div class="discipline" id="discipline2">
-            <div class="icon" id="icon2">
-                <img class="img-circle weoffer-img" src="img/proto.svg" alt="Prototyping" onclick="setOffering(2);">
-            </div>
-
-            <div class="description" id="description2">
-                <h2>Prototyping</h2>
-                <p>
-                    Ist die Problemstellung klarer geworden, ist es wichtig, schnell herauszufinden, ob eine Umsetzung machbar ist und ob eine Lösung bei den Benutzern akzeptiert wird.
-                </p>
-                <p>
-                    Dazu stellen wir für Sie &ndash; je nach Aufgabenstellung &ndash; Prototypen unterschiedlichster Art (aus Papier, als interaktive Applikationen, usw.) her und führen Benutzertests durch.
-                </p>
-                <p>
-                    Nicht selten entstehen aufgrund des Feedbacks zu den Prototypen neue Ideen, welche zu einem besser auf Ihre Benutzer zugeschnittenen Produkt führen können.
-                </p>
-            </div>
-        </div>
-
-        <div class="arrow" id="arrow1">
-            <img class="img-arrow" src="img/vf2pt.svg">
-        </div>
-
-        <!-- Visual Facilitation -->
-        <div class="discipline" id="discipline1">
-            <div class="icon" id="icon1">
-                <img class="img-circle weoffer-img" src="img/vf.svg" alt="Visual Facilitation" onclick="setOffering(1);">
-            </div>
-
-            <div class="description" id="description1">
-                <h2>Visual Facilitation</h2>
-                <p>
-                    Durch den geeigneten Einsatz von Illustrationen und Visualisierungen können komplexe Sachverhalte einfacher erklärt und kommuniziert werden.
-                </p>
-                <p>
-                    Wir erarbeiten mit Ihnen zusammen Visualisierungen aller Art (z.B. als VideoScribes, Sketches, Whiteboard Videos, Erklärvideos, etc.) mit dem Ziel ein gemeinsames Verständnis zu erlangen und zukunftsträchtige Lösungen zu entwickeln. 
-                    Die erstellten Visualisierungen können sowohl für die interne wie auch für die externe Kommunikation verwendet werden um Interesse und Begeisterung für Ihre Vorhaben zu wecken.
-                </p>
-                <p>
-                    Erfahren Sie mehr über unser Visualisierungsangebot und lassen sie sich selbst <a href="http://www.visualfacilitation.ch" target="_blank">inspierieren</a>.
-                </p>
-            </div>
-        </div>
-
-        <div class="arrow" id="arrow2">
-            <img class="img-arrow" src="img/pt2re.svg">
-        </div>
-
-        <!-- Left and right controls -->
-        <a class="left carousel-control" onclick="previousOffering()" role="button" data-slide="prev">
-            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="right carousel-control" onclick="nextOffering()"  role="button">
-            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-
     </div>
+
+    <div class="arrow" id="arrow0">
+        <img class="img-arrow" src="img/re2vf.svg">
+    </div>
+
+    <!-- Prototyping -->
+    <div class="discipline" id="discipline2">
+        <div class="icon" id="icon2">
+            <img class="img-circle weoffer-img" src="img/proto_web.svg" alt="Prototyping" onclick="setOffering(2);">
+            <img class="img-circle weoffer-img-font" src="img/proto_web_font.svg" alt="" onclick="setOffering(2);">
+        </div>
+
+        <div class="description" id="description2">
+            <h2>Prototyping</h2>
+            <p>
+                Ist die Problemstellung klarer geworden, ist es wichtig, schnell herauszufinden, ob eine Umsetzung machbar ist und ob eine Lösung bei den Benutzern akzeptiert wird.
+            </p>
+            <p>
+                Dazu stellen wir für Sie &ndash; je nach Aufgabenstellung &ndash; Prototypen unterschiedlichster Art (aus Papier, als interaktive Applikationen, usw.) her und führen Benutzertests durch.
+            </p>
+            <p>
+                Nicht selten entstehen aufgrund des Feedbacks zu den Prototypen neue Ideen, welche zu einem besser auf Ihre Benutzer zugeschnittenen Produkt führen können.
+            </p>
+        </div>
+    </div>
+
+    <div class="arrow" id="arrow1">
+        <img class="img-arrow" src="img/vf2pt.svg">
+    </div>
+
+    <!-- Visual Facilitation -->
+    <div class="discipline" id="discipline1">
+        <div class="icon" id="icon1">
+            <img class="img-circle weoffer-img" src="img/vf_web.svg" alt="Visual Facilitation" onclick="setOffering(1);">
+            <img class="img-circle weoffer-img-font" src="img/vf_web_font.svg" alt="" onclick="setOffering(1);">
+        </div>
+
+        <div class="description" id="description1">
+            <h2>Visual Facilitation</h2>
+            <p>
+                Durch den geeigneten Einsatz von Illustrationen und Visualisierungen können komplexe Sachverhalte einfacher erklärt und kommuniziert werden.
+            </p>
+            <p>
+                Wir erarbeiten mit Ihnen zusammen Visualisierungen aller Art (z.B. als VideoScribes, Sketches, Whiteboard Videos, Erklärvideos, etc.) mit dem Ziel ein gemeinsames Verständnis zu erlangen und zukunftsträchtige Lösungen zu entwickeln. 
+                Die erstellten Visualisierungen können sowohl für die interne wie auch für die externe Kommunikation verwendet werden um Interesse und Begeisterung für Ihre Vorhaben zu wecken.
+            </p>
+            <p>
+                Erfahren Sie mehr über unser Visualisierungsangebot und lassen sie sich selbst <a href="http://www.visualfacilitation.ch" target="_blank">inspierieren</a>.
+            </p>
+        </div>
+    </div>
+
+    <div class="arrow" id="arrow2">
+        <img class="img-arrow" src="img/pt2re.svg">
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" onclick="previousOffering()" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" onclick="nextOffering()"  role="button">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+
+</div>
 </div>

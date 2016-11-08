@@ -22,12 +22,26 @@
 		transform: translate(-115%, -50%) scale(0.8) ;
 	}
 
+	.weoffer-img-font {
+		width: 18em;
+		height: 18em;
+
+		position: absolute;
+		display: block;
+		top: 10%;
+		left: 50%;
+
+		margin: -9em;
+
+	}
+
+
 	.icon {
 		display: block;
 		position: absolute;
 		top: 40%;
 		left: 50%;
-		opacity: .8;
+		opacity: .7;
 
 		width: 14em;
 		height: 14em;
@@ -38,21 +52,22 @@
 		.weoffer-img {
 			width: 14em;
 			height: 14em;
-
+			border: 1px solid $bg-darkblue;
+			box-shadow: 0px 0px 20px $bg-darkblue;
 			transition: all .5s;
+		}
 
-			
+		.weoffer-img-font {
+			width: 130%;
+			top: 50%;
 		}
 
 		&.active {
 			opacity: 1;
-			margin: -8em;
-
 			
-
 			.weoffer-img {
-				width: 16em;
-				height: 16em;
+				border: 1px solid $bg-light;
+				box-shadow: 0 0 15px 2px $bg-light;
 			}
 		}
 	}
@@ -76,7 +91,7 @@
   	padding: 1em;
   	z-index: 1;
 
-  	top: 28%;
+  	top: 25%;
   	left: 15%;
 
   	min-height: 40%;
@@ -105,17 +120,16 @@
 			width: 10em;
 			height: 10em;
 			margin: -5em;
+
 			.weoffer-img {
 				width: 10em;
 				height: 10em;
 			}
-			&.active {
-				margin: -6em;
 
-				.weoffer-img {
-					width: 12em;
-					height: 12em;
-				}
+			.weoffer-img-font {
+				width: 130%;
+				top: 50%;
+				left: 75%;
 			}
 		}
 
@@ -145,8 +159,8 @@
 		}
 
 		.description {
-			top: 25%;
-			min-height: 38%;
+			top: 22%;
+			min-height: 40%;
 		}
 	}
 
@@ -162,36 +176,34 @@
 		}
 
 		.icon {
-
 			top: 35%;
 
-			width: 6em;
-			height: 6em;
-			margin: -3em;
+			width: 8em;
+			height: 8em;
+			margin: -4em;
+			
 			.weoffer-img {
-				width: 6em;
-				height: 6em;
+				width: 8em;
+				height: 8em;
 			}
-			&.active {
-				margin: -4em;
 
-				.weoffer-img {
-					width: 8em;
-					height: 8em;
-				}
+			.weoffer-img-font {
+				width: 130%;
+				top: 50%;
+				left: 98%;
 			}
 		}
 
 		#arrow0 {
-			transform:  translate(-5%, -48%) scale(0.5) ;
+			transform:  translate(-5%, -42%) scale(0.5, .65) ;
 		}
 
 		#arrow1 {
-			transform: translate(-40%, 55%) scale(0.6);
+			transform: translate(-40%, 75%) scale(0.6);
 		}
 
 		#arrow2 {
-			transform: translate(-90%, -48%) scale(0.5) ;
+			transform: translate(-90%, -42%) scale(0.5, .65) ;
 		}
 
 
@@ -200,17 +212,17 @@
 		}
 
 		#icon1 {
-			transform: rotate(45deg) translate(330px) rotate(-45deg);
+			transform: rotate(45deg) translate(330px) rotate(-45deg) translate(0, 70px);
 		}
 
 		#icon2 {
-			transform: rotate(-45deg) translate(-330px) rotate(45deg);
+			transform: rotate(-45deg) translate(-330px) rotate(45deg) translate(0, 70px);
 		}
 
 		.description {
 
 			top: 22%;
-			min-height: 45%;
+			min-height: 50%;
 			padding: .5em;
 
 			h2 {
@@ -228,7 +240,7 @@
 @media (max-width: $screen-xs-max) {
 	.portfolio {
 
-		min-height: 500px;
+		min-height: 600px;
 
 		.arrow {
 			top: 40%;
@@ -238,33 +250,30 @@
 
 			top: 35%;
 
-			width: 5em;
-			height: 5em;
-			margin: -3em;
+			width: 7em;
+			height: 7em;
+			margin: -3.5em;
 			.weoffer-img {
-				width: 6em;
-				height: 6em;
+				width: 7em;
+				height: 7em;
 			}
-			&.active {
-				margin: -3.5em;
-
-				.weoffer-img {
-					width: 7em;
-					height: 7em;
-				}
+			.weoffer-img-font {
+				width: 130%;
+				top: 50%;
+				left: 113%;
 			}
 		}
 
 		#arrow0 {
-			transform:  translate(-10%, -52%) scale(0.4, 0.45) ;
+			transform:  translate(-10%, -48%) scale(0.4, 0.65) ;
 		}
 
 		#arrow1 {
-			transform: translate(-40%, 30%) scale(0.5);
+			transform: translate(-40%, 60%) scale(0.5);
 		}
 
 		#arrow2 {
-			transform: translate(-85%, -52%) scale(0.4, .45) ;
+			transform: translate(-85%, -48%) scale(0.4, .65) ;
 		}
 
 
@@ -273,21 +282,21 @@
 		}
 
 		#icon1 {
-			transform: rotate(45deg) translate(290px) rotate(-45deg);
+			transform: rotate(45deg) translate(290px) rotate(-45deg) translate(0, 100px);
 		}
 
 		#icon2 {
-			transform: rotate(-45deg) translate(-290px) rotate(45deg);
+			transform: rotate(-45deg) translate(-290px) rotate(45deg) translate(0, 100px);
 		}
 
 		.description {
 
-			width: 80%;
+			width: 70%;
 
-			top: 22%;
-			left: 10%;
+			top: 25%;
+			left: 15%;
 
-			min-height: 45%;
+			min-height: 50%;
 			padding: .5em;
 
 
@@ -303,6 +312,16 @@
 
 }
 
+@media(max-width: $screen-xs-med) {
+	.portfolio {
+		.description {
+			width: 100%;
+			top: 25%;
+			left: 0;
+		}
+	}
+}
+/*
 @media (max-width: $screen-xs-med) {
 	.portfolio {
 
@@ -312,21 +331,13 @@
 
 			top: 40%;
 
-			width: 4em;
-			height: 4em;
-			margin: -2em;
+			width: 5em;
+			height: 5em;
+			margin: -2.5em;
 			.weoffer-img {
-				width: 4em;
-				height: 4em;
-			}
-			&.active {
-				margin: -2.5em;
-
-				.weoffer-img {
-					width: 5em;
-					height: 5em;
-				}
-			}
+				width: 5em;
+				height: 5em;
+			}	
 		}
 
 		#arrow0 {
@@ -375,4 +386,4 @@
 		}
 	}
 
-}
+}*/
