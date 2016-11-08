@@ -3,7 +3,7 @@ $(".description").on("swiperight",function(event){previousOffering()});
 
 var offerings = $(".discipline");
 
-var i = 4;
+var i = 0;
 
 var nextOffering = function(){
     hideOffering();
