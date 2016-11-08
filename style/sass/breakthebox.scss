@@ -1,26 +1,4 @@
-$font-stack: "LatoLatinWeb", sans-serif;
-
-/** colors */
-$bg-dark: #262626;
-$bg-light: #f5eed5;
-$bg-medium: #527a98;
-$bg-orange: #E8AF30;
-$bg-darkblue: #1B344D;
-
-$fg-dark: #262626;
-$fg-light: white;
-
-$link-hover: #527a98;
-
-/** Device sizes */
-$screen-xs-min: 0;
-$screen-xs-med: 450px;
-$screen-xs-max: 767px;
-$screen-sm-min: 768px;
-$screen-sm-max: 991px;
-$screen-md-min: 992px;
-$screen-md-max: 1199px;
-$screen-lg-min: 1200px;
+@import 'variables';
 
 /** mixins */
 @mixin fonttransition($size, $duration) {
