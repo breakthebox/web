@@ -1,7 +1,7 @@
 <div class="container chat" id="beliefs">
     <div class="row">
         <div class="col-md-2 col-sm-2 col-xs-1">
-            <img id="avatarBelief" class="img-circle chat-avatar chat-avatar-left"/>
+            <img id="avatarBelief" class="img-circle chat-avatar chat-avatar-left" src="" alt=""/>
         </div>
         <div class="col-md-5 col-sm-7 col-xs-10">
             <div id="bubbleBelief" class="chat-bubble-left">
@@ -16,7 +16,7 @@
             </div>
         </div>
         <div class="col-md-2 col-sm-2 col-xs-1">
-            <img id="avatarReason" class="img-circle chat-avatar chat-avatar-right"/>
+            <img id="avatarReason" class="img-circle chat-avatar chat-avatar-right" src="" alt=""/>
         </div>
     </div>
 

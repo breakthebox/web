@@ -1,6 +1,6 @@
 <a name="customers"></a>
 
-<div class="container">
+<div class="container"  style="min-height: 45em;">
     <div class="watermark">you</div>
 
     <div class="row">
@@ -10,27 +10,27 @@
     <div class="row customers">
 
         <div class="customer">
-            <img src="img/customers/logo_ewb.svg"/>
+            <img src="img/customers/logo_ewb.svg" alt=""/>
         </div>
 
         <div class="customer">
-            <img src="img/customers/logo_bls.svg"/>
+            <img src="img/customers/logo_bls.svg" alt=""/>
         </div>
 
         <div class="customer">
-            <img src="img/customers/logo_puzzle.svg"/>
+            <img src="img/customers/logo_puzzle.svg" alt=""/>
         </div>
 
         <div class="customer">
-            <img src="img/customers/logo_btpag.png"/>
+            <img src="img/customers/logo_btpag.png" alt=""/>
         </div>
 
         <div class="customer">
-            <img src="img/customers/logo_ims.jpg"/>
+            <img src="img/customers/logo_ims.jpg" alt=""/>
         </div>
 
         <div class="customer">
-            <img src="img/customers/logo_wst.svg"/>
+            <img src="img/customers/logo_wst.svg" alt=""/>
         </div>
 
     </div>

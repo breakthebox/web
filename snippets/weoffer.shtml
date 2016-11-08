@@ -45,7 +45,7 @@
     </div>
 
     <div class="arrow" id="arrow0">
-        <img class="img-arrow" src="img/re2vf.svg">
+        <img class="img-arrow" src="img/re2vf.svg" alt="">
     </div>
 
     <!-- Prototyping -->
@@ -70,7 +70,7 @@
     </div>
 
     <div class="arrow" id="arrow1">
-        <img class="img-arrow" src="img/vf2pt.svg">
+        <img class="img-arrow" src="img/vf2pt.svg" alt="">
     </div>
 
     <!-- Visual Facilitation -->
@@ -96,7 +96,7 @@
     </div>
 
     <div class="arrow" id="arrow2">
-        <img class="img-arrow" src="img/pt2re.svg">
+        <img class="img-arrow" src="img/pt2re.svg" alt="">
     </div>
 
     <!-- Left and right controls 
