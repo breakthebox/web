@@ -597,6 +597,8 @@ div.youget-card:hover {
   .phone {
     text-align: right; } }
 /** portfolio */
+/** colors */
+/** Device sizes */
 .portfolio {
   position: relative;
   width: 100%;
@@ -642,7 +644,7 @@ div.youget-card:hover {
     .portfolio .icon.active {
       opacity: 1; }
       .portfolio .icon.active .weoffer-img {
-        border: 1px solid #f5eed5;
+        border: 0;
         box-shadow: 0 0 15px 2px #f5eed5; }
   .portfolio #icon0 {
     transform: translate(0, -300px); }
@@ -685,19 +687,19 @@ div.youget-card:hover {
     .portfolio #arrow1 {
       transform: translate(-35%, 90%) scale(0.8); }
     .portfolio #arrow2 {
-      transform: translate(-105%, -48%) scale(0.7); }
+      transform: translate(-110%, -48%) scale(0.7); }
     .portfolio #icon0 {
       transform: translate(0, -200px); }
     .portfolio #icon1 {
-      transform: rotate(45deg) translate(450px) rotate(-45deg); }
+      transform: rotate(45deg) translate(450px) rotate(-45deg) translate(20px); }
     .portfolio #icon2 {
-      transform: rotate(-45deg) translate(-450px) rotate(45deg); }
+      transform: rotate(-45deg) translate(-450px) rotate(45deg) translate(-30px); }
     .portfolio .description {
       top: 22%;
       min-height: 40%; } }
 @media (max-width: 991px) {
   .portfolio {
-    min-height: 600px; }
+    min-height: 750px; }
     .portfolio .arrow {
       top: 32%; }
     .portfolio .icon {
@@ -713,19 +715,21 @@ div.youget-card:hover {
         top: 50%;
         left: 98%; }
     .portfolio #arrow0 {
-      transform: translate(-5%, -42%) scale(0.5, 0.65); }
+      transform: translate(0%, -42%) scale(0.45, 0.7); }
     .portfolio #arrow1 {
-      transform: translate(-40%, 75%) scale(0.6); }
+      transform: translate(-40%, 90%) scale(0.6); }
     .portfolio #arrow2 {
-      transform: translate(-90%, -42%) scale(0.5, 0.65); }
+      transform: translate(-95%, -42%) scale(0.45, 0.7); }
     .portfolio #icon0 {
       transform: translate(0, -150px); }
     .portfolio #icon1 {
-      transform: rotate(45deg) translate(330px) rotate(-45deg) translate(0, 70px); }
+      transform: rotate(45deg) translate(330px) rotate(-45deg) translate(20px, 100px); }
     .portfolio #icon2 {
-      transform: rotate(-45deg) translate(-330px) rotate(45deg) translate(0, 70px); }
+      transform: rotate(-45deg) translate(-330px) rotate(45deg) translate(-20px, 100px); }
     .portfolio .description {
-      top: 22%;
+      width: 70%;
+      left: 15%;
+      top: 25%;
       min-height: 50%;
       padding: .5em; }
       .portfolio .description h2 {
@@ -734,7 +738,7 @@ div.youget-card:hover {
         font-size: 0.9em; } }
 @media (max-width: 767px) {
   .portfolio {
-    min-height: 600px; }
+    min-height: 650px; }
     .portfolio .arrow {
       top: 40%; }
     .portfolio .icon {
@@ -750,97 +754,58 @@ div.youget-card:hover {
         top: 50%;
         left: 113%; }
     .portfolio #arrow0 {
-      transform: translate(-10%, -48%) scale(0.4, 0.65); }
+      transform: translate(-10%, -48%) scale(0.35, 0.65); }
     .portfolio #arrow1 {
       transform: translate(-40%, 60%) scale(0.5); }
     .portfolio #arrow2 {
-      transform: translate(-85%, -48%) scale(0.4, 0.65); }
+      transform: translate(-85%, -48%) scale(0.35, 0.65); }
     .portfolio #icon0 {
       transform: translate(0, -120px); }
     .portfolio #icon1 {
-      transform: rotate(45deg) translate(290px) rotate(-45deg) translate(0, 100px); }
+      transform: rotate(45deg) translate(290px) rotate(-45deg) translate(-10px, 100px); }
     .portfolio #icon2 {
-      transform: rotate(-45deg) translate(-290px) rotate(45deg) translate(0, 100px); }
+      transform: rotate(-45deg) translate(-290px) rotate(45deg) translate(5px, 100px); }
     .portfolio .description {
-      width: 70%;
-      top: 25%;
-      left: 15%;
-      min-height: 50%;
+      min-height: 45%;
       padding: .5em; }
       .portfolio .description h2 {
         font-size: 1.3em; }
       .portfolio .description p {
         font-size: 0.8em; } }
-@media (max-width: 450px) {
-  .portfolio .description {
-    width: 100%;
-    top: 25%;
-    left: 0; } }
-/*
-@media (max-width: $screen-xs-med) {
-	.portfolio {
-
-		min-height: 500px;
-
-		.icon {
-
-			top: 40%;
-
-			width: 5em;
-			height: 5em;
-			margin: -2.5em;
-			.weoffer-img {
-				width: 5em;
-				height: 5em;
-			}	
-		}
-
-		#arrow0 {
-			transform:  translate(-20%, -55%) scale(0.25, .5) ;
-		}
-
-		#arrow1 {
-			transform: translate(-42%, 20%) scale(0.4);
-		}
-
-		#arrow2 {
-			transform: translate(-75%, -55%) scale(0.25, .5);
-		}
-
-
-		#icon0 {
-			transform: translate(0, -180px);
-		}
-
-		#icon1 {
-			transform: rotate(45deg) translate(190px) rotate(-45deg) translate(15px, 40px);
-		}
-
-		#icon2 {
-			transform: rotate(-45deg) translate(-190px) rotate(45deg) translate(-15px, 40px);
-		}
-
-		.description {
-
-			width: 100%;
-
-			top: 15%;
-			left: 0%;
-
-			min-height: 48%;
-			padding: .5em;
-
-
-			h2 {
-				font-size: 1.2em;
-			}
-			p {
-				font-size: 0.7em;
-			}
-
-		}
-	}
-
-}*/
+@media (max-width: 500px) {
+  .portfolio {
+    min-height: 600px; }
+    .portfolio .icon {
+      top: 35%;
+      width: 5em;
+      height: 5em;
+      margin: -2.5em; }
+      .portfolio .icon .weoffer-img {
+        width: 5em;
+        height: 5em; }
+      .portfolio .icon .weoffer-img-font {
+        width: 130%;
+        top: 50%;
+        left: 165%; }
+    .portfolio #arrow0 {
+      transform: translate(-22%, -50%) scale(0.25, 0.65); }
+    .portfolio #arrow1 {
+      transform: translate(-45%, 50%) scale(0.35); }
+    .portfolio #arrow2 {
+      transform: translate(-75%, -50%) scale(0.25, 0.65); }
+    .portfolio #icon0 {
+      transform: translate(0, -140px); }
+    .portfolio #icon1 {
+      transform: rotate(45deg) translate(290px) rotate(-45deg) translate(-65px, 75px); }
+    .portfolio #icon2 {
+      transform: rotate(-45deg) translate(-290px) rotate(45deg) translate(65px, 75px); }
+    .portfolio .description {
+      width: 90%;
+      top: 20%;
+      left: 5%; }
+      .portfolio .description h2 {
+        font-size: 1.2em; }
+      .portfolio .description p {
+        font-size: 0.7em; } }
 
 /*# sourceMappingURL=breakthebox.css.map */
