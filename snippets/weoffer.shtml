@@ -41,6 +41,15 @@
             <p>
                 Um effizient und pragmatisch zu nachhaltigen Lösungen zu gelangen ergänzen wir das klassige Anforderngsmanagement um zwei weitere Disziplinen...
             </p>
+
+            <a class="left carousel-control" onclick="previousOffering()" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" onclick="nextOffering()"  role="button">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
     </div>
 
@@ -66,6 +75,15 @@
             <p>
                 Nicht selten entstehen aufgrund des Feedbacks zu den Prototypen neue Ideen, welche zu einem besser auf Ihre Benutzer zugeschnittenen Produkt führen können.
             </p>
+
+            <a class="left carousel-control" onclick="previousOffering()" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" onclick="nextOffering()"  role="button">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
     </div>
 
@@ -92,22 +110,21 @@
             <p>
                 Erfahren Sie mehr über unser Visualisierungsangebot und lassen sie sich selbst <a href="http://www.visualfacilitation.ch" target="_blank">inspierieren</a>.
             </p>
+
+            <a class="left carousel-control" onclick="previousOffering()" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" onclick="nextOffering()"  role="button">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
     </div>
 
     <div class="arrow" id="arrow2">
         <img class="img-arrow" src="img/pt2re.svg" alt="">
     </div>
-
-    <!-- Left and right controls 
-    <a class="left carousel-control" onclick="previousOffering()" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" onclick="nextOffering()"  role="button">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>-->
 
 </div>
 </div>
