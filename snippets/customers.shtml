@@ -7,29 +7,35 @@
         <h1>Unsere Kunden & Partner</h1>
     </div>
 
-    <div class="row customers">
+    <div class="row you-customers">
 
         <div class="customer">
+            <span class="helper"></span>
             <img src="img/customers/logo_ewb.svg" alt=""/>
         </div>
 
         <div class="customer">
+            <span class="helper"></span>
             <img src="img/customers/logo_bls.svg" alt=""/>
         </div>
 
         <div class="customer">
+            <span class="helper"></span>
             <img src="img/customers/logo_puzzle.svg" alt=""/>
         </div>
 
         <div class="customer">
+            <span class="helper"></span>
             <img src="img/customers/logo_btpag.png" alt=""/>
         </div>
 
         <div class="customer">
+            <span class="helper"></span>
             <img src="img/customers/logo_ims.jpg" alt=""/>
         </div>
 
         <div class="customer">
+            <span class="helper"></span>
             <img src="img/customers/logo_wst.svg" alt=""/>
         </div>
 
