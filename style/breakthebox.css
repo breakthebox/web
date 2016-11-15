@@ -562,8 +562,13 @@ div.youget-card:hover {
 /**
  * --- CUSTOMERS
  */
+.you-customers {
+  text-align: center; }
+
 .customer {
   padding: 1em;
+  vertical-align: middle;
+  white-space: nowrap;
   width: 230px;
   height: 150px;
   display: inline-block;
@@ -571,9 +576,12 @@ div.youget-card:hover {
   background-color: white;
   border-radius: 10px;
   overflow: hidden; }
+  .customer .helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle; }
   .customer img {
-    display: block;
-    margin: auto;
+    vertical-align: middle;
     width: 100%; }
 
 /**

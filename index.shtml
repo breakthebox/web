@@ -74,10 +74,11 @@
 </div>
 
 
-
+<!-- EVENTS 
 <div class="bg-dark">
     <!--#include file="snippets/events.shtml" -->
-</div>
+<!-- </div> -->
+
 
 
 <div class="bg-light">
