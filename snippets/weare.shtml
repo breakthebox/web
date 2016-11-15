@@ -1,0 +1,190 @@
+<a name="weare"></a>
+
+
+<div class="container">
+    <div class="watermark">
+        we are
+    </div>
+
+    <div class="row">
+        <h1>Wir sind...</h1>
+    </div>
+
+    <!-- Profil Brige -->
+    <div class="row overview">
+
+        <!-- bubble left -->
+        <div class="cv-bubble-container">
+
+            <div class="col-xs-12 col-sm-8 col-md-9 cv-bubble-right ">
+                <div class="bubble-content" itemprop="founder" itemscope itemtype="http://schema.org/Person">
+
+                    <h2 itemprop="name">Brigitte Hulliger</h2>
+
+                    <p>
+                        Ich bin der <b>kreative und visuelle Kopf</b> von Break the Box. Neue Ideen starten bei
+                        mir
+                        oft mit <b>Bleistift und Papier</b> als <b>Sketches</b> und werden zu <b>Videos</b> oder
+                        <b>Graphic
+                            Notes</b>. Visuelle Elemente sind nicht nur eine Leidenschaft, sondern auch ein <b>Weg
+                        der
+                        Kommunikation</b>.
+                    </p>
+
+                    <p>
+                        Nebst Visualisierung stehen für mich <b>Endbenutzer</b> von neuen Produktinnovationen im
+                        Vordergrund. Die <b>Erarbeitung von Anforderungen</b> zusammen mit dem Kunden - zum
+                        Beispiel
+                        im Rahmen von <b>Workshops</b> - sowie die anschliessende Durchführung von <b>Benutzertests
+                        anhand von erstellten Prototypen</b> sind für mich wichtige Faktoren für ein
+                        erfolgreiches
+                        Produktdesign und nachhaltige Lösungen.
+                    </p>
+
+                    <p>
+                        Bis zur Gründung unserer Firma <b>Break the Box GmbH</b> war ich in verschiedenen
+                        Unternehmungen als <b>Software Engineer</b>, <b>Software Architekt</b>, <b>Requirements
+                        Engineer</b>, <b>Scrum Master</b>, <b>Projektleiterin</b> und <b>Consultant</b> tätig.
+                    </p>
+
+                    <p>
+                        Mein berufsbegleitendes Studium der <b>Informatik</b> habe ich 2009 als <a
+                            href="http://www.ti.bfh.ch/bachelor/informatik/studierende/vertiefungen/computer_perception_virtual_reality.html">BSc
+                        Computer Science</a> mit Spezialisierung in Computer Perception and Virtual Reality
+                        abgeschlossen.
+                        Später habe ich mich im Rahmen verschiedener Weiterbildungen als <a
+                            href="https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm">Certified
+                        Scrum Master</a>, <a
+                            href="https://www.scrumalliance.org/certifications/practitioners/cspo-certification">Certified
+                        Scrum Product Owner</a> und <a href="https://www.ireb.org/en/cpre/foundation">IREB FL
+                        Certified Requirements Engineer</a> zertifizieren lassen.
+                        2012 erlangte ich mein <a href="http://www.ti.bfh.ch/cas-re">Certificate of Advanced
+                        Studies
+                        in <b>Requirements Engineering</b></a>.
+                    </p>
+
+                    <p>
+                        Detaillierte Informationen über meine Tätigkeiten und Ausbildungen finden Sie auf meinem
+                        <a
+                                href="https://ch.linkedin.com/in/bhulliger" target="_blank">LinkedIn</a>-Profil
+                        oder
+                        nachfolgend in meinem Lebenslauf als VideoScribe.
+                    </p>
+
+                    <div class="row weare-video embed-responsive embed-responsive-16by9">
+                        <iframe width="100%" height="360" src="https://www.youtube.com/embed/BPxvdJoHwoE?rel=0"
+                                frameborder="0" allowfullscreen></iframe>
+
+                    </div>
+
+                    <a href="cv.html">» Details zum Video</a>
+                </div>
+
+                <div class="weare-socialmedia light">
+                    <a href="http://github.com/bhulliger" target="_blank"><i class="fa fa-github fa-2x"
+                                                                             aria-hidden="true"></i></a>
+                    <a href="https://twitter.com/bhulliger" target="_blank"><i class="fa fa-twitter fa-2x"
+                                                                               aria-hidden="true"></i></a>
+                    <a href="https://www.instagram.com/bhulliger/" target="_blank"><i
+                            class="fa fa-instagram fa-2x"
+                            aria-hidden="true"></i></a>
+                    <a href="mailto:brigitte@breakthebox.ch"><i class="fa fa-envelope fa-2x"
+                                                                aria-hidden="true"></i></a>
+                    <a href="https://ch.linkedin.com/in/bhulliger" target="_blank"><i
+                            class="fa fa-linkedin fa-2x"
+                            aria-hidden="true"></i></a>
+                </div>
+
+
+            </div>
+
+            <div class="col-xs-12 col-sm-4 col-md-3 cv-avatar-container"><img class="img-circle cv-avatar"
+                                                                              src="https://s.gravatar.com/avatar/aa705336ad39eb523f22e883ebee1dc8?s=180"
+                                                                              alt="Brigitte Hulliger">
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- Profil Oli -->
+    <div class="row overview">
+
+        <!-- bubble right -->
+        <div class="cv-bubble-container clear">
+            <div class="col-xs-12 col-sm-4 col-md-3 cv-avatar-container"><img class="img-circle cv-avatar"
+                                                                              src="https://s.gravatar.com/avatar/7d69ac318121023d70962f81f266e7e2?s=180"
+                                                                              alt="Oliver Schmid">
+            </div>
+
+            <div class="col-xs-12 col-sm-8 col-md-9 cv-bubble-left">
+                <div class="bubble-content" itemprop="founder" itemscope itemtype="http://schema.org/Person">
+                    <h2 itemprop="name">Oliver Schmid</h2>
+                    <p>
+                        Ich bin der <b>&laquo;Techie&raquo;</b> von Break the Box: Mit Freude probiere ich immer
+                        wieder neue
+                        Technologien und Methoden aus. Ich bin mit Herzblut bei der <b>Entwicklung und
+                        Gestaltung
+                        von
+                        Ideen und Verbesserungen</b> dank neuer technischer Möglichkeiten dabei.
+                    </p>
+                    <p>
+                        Zusätzlich interessieren mich aber auch die <b>kommunikativen
+                        und kulturellen Aspekte</b>, welche die Digitalisierung der Unternehmen mit sich bringt
+                        und
+                        wie sich diese auf die Zusammenarbeit der Menschen auswirkt. Im Bewusstsein, dass es
+                        meist diese Aspekte sind, welche über den Erfolg oder Misserfolg einer Produktinnovation
+                        entscheiden.
+                    </p>
+
+                    <p>
+                        Bis zur Gründung der Firma Break the Box GmbH arbeitete ich im
+                        Bereich der <b>digitalen Transformation</b> und der <b>Produktentwicklung</b>. Voher
+                        war ich als <b>Software Engineer</b> und <b>Software
+                        Architect</b> tätig und gewann dabei Einblick in
+                        unterschiedliche Branchen.
+                    </p>
+                    <p>
+                        Interdisziplinarität ist mir ein grosses Anliegen &ndash; so habe ich 2013 mein
+                        Doktoratsstudium
+                        der <b>Informatik</b> (Dr. sc. inf.) an der Universität Fribourg im Bereich <a
+                            href="http://twice.olinux.ch">kollaborativer, spontaner Echtzeit-Webapplikationen
+                        (TWICE)</a> abgeschlossen. 2009 schloss ich mein Studium zum <a
+                            href="http://studies.unifr.ch/de/master/eco/infosystems">Master
+                        of Arts in <b>Wirtschaftsinformatik</b></a> ab und erlangte 2006 das Diplom zum <a
+                            href="http://studies.unifr.ch/de/bachelor/pedpsy/educationalsciences">Bachelor of
+                        Science in <b>Erziehungswissenschaften</b></a> (Pädagogik und Pädagogische Psychologie).
+                        Auch
+                        die kontinuierliche Weiterbildung, z.B. als <a
+                            href="https://www.scrumalliance.org/certifications/practitioners/cspo-certification">Certified
+                        Scrum Product Owner</a> oder im Bereich <a
+                            href="https://www.coursera.org/specializations/jhu-data-science">Data Science</a>
+                        stellt
+                        ein wichtiger Teil meiner Ausbildungsgestaltung dar.
+                    </p>
+
+                    <p>
+                        Detailliertere Informationen über meine Tätigkeiten und Ausbildungen finden Sie auf
+                        meinem
+                        <a href="https://ch.linkedin.com/in/olinux" target="_blank">LinkedIn</a>-Profil.
+                    </p>
+
+                    <div class="weare-socialmedia dark">
+                        <a href="http://github.com/olinux" target="_blank"><i
+                                class="fa fa-github fa-2x"></i></a>
+                        <a href="https://twitter.com/olinux84" target="_blank"><i class="fa fa-twitter fa-2x"
+                                                                                  aria-hidden="true"></i></a>
+                        <a href="mailto:oli@breakthebox.ch"><i class="fa fa-envelope fa-2x"
+                                                               aria-hidden="true"></i></a>
+                        <a href="https://ch.linkedin.com/in/olinux" target="_blank"><i
+                                class="fa fa-linkedin fa-2x"
+                                aria-hidden="true"></i></a>
+                    </div>
+
+                </div>
+            </div>
+            <div style="clear:both"></div>
+        </div>
+    </div>
+</div>

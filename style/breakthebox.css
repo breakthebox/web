@@ -13,6 +13,9 @@ body {
     background-color: #527a98;
     color: white; }
 
+.ui-loader {
+  display: none; }
+
 .blackfill {
   position: absolute;
   top: 0;
@@ -249,11 +252,6 @@ label {
   -moz-transition: font 0.3s ease;
   -o-transition: font 0.3s ease;
   -ms-transition: font 0.3s ease; }
-
-.weoffer-img {
-  width: 180px;
-  height: 180px;
-  margin-top: 20px; }
 
 /**
 * --- You get
@@ -536,6 +534,9 @@ div.youget-card:hover {
     text-align: left;
     text-overflow: ellipsis; }
 
+.wedo-project.event {
+  border-color: #262626; }
+
 .wedo-project:hover p {
   display: block; }
 
@@ -559,6 +560,31 @@ div.youget-card:hover {
     height: 12em;
     width: 15.7em; } }
 /**
+ * --- CUSTOMERS
+ */
+.you-customers {
+  text-align: center; }
+
+.customer {
+  padding: 1em;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 230px;
+  height: 150px;
+  display: inline-block;
+  border: 5px solid #f5eed5;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden; }
+  .customer .helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle; }
+  .customer img {
+    vertical-align: middle;
+    width: 100%; }
+
+/**
  * --- FOOTER
  */
 .footer-socialmedia {
@@ -578,6 +604,234 @@ div.youget-card:hover {
 @media (min-width: 992px) {
   .phone {
     text-align: right; } }
+/** portfolio */
+/** colors */
+/** Device sizes */
+.portfolio {
+  position: relative;
+  width: 100%;
+  min-height: 1024px; }
+  .portfolio .arrow {
+    display: block;
+    position: absolute;
+    top: 38%;
+    left: 50%; }
+  .portfolio #arrow0 {
+    transform: translate(25%, -50%) scale(0.8); }
+  .portfolio #arrow1 {
+    transform: translate(-35%, 120%) scale(0.9); }
+  .portfolio #arrow2 {
+    transform: translate(-115%, -50%) scale(0.8); }
+  .portfolio .weoffer-img-font {
+    width: 18em;
+    height: 18em;
+    position: absolute;
+    display: block;
+    top: 10%;
+    left: 50%;
+    margin: -9em; }
+  .portfolio .icon {
+    display: block;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    opacity: .7;
+    width: 14em;
+    height: 14em;
+    margin: -7em;
+    transition: all .5s; }
+    .portfolio .icon .weoffer-img {
+      width: 14em;
+      height: 14em;
+      border: 1px solid #1B344D;
+      box-shadow: 0px 0px 20px #1B344D;
+      transition: all .5s; }
+    .portfolio .icon .weoffer-img-font {
+      width: 130%;
+      top: 50%; }
+    .portfolio .icon.active {
+      opacity: 1; }
+      .portfolio .icon.active .weoffer-img {
+        border: 0;
+        box-shadow: 0 0 15px 2px #f5eed5; }
+  .portfolio #icon0 {
+    transform: translate(0, -300px); }
+  .portfolio #icon1 {
+    transform: rotate(45deg) translate(550px) rotate(-45deg); }
+  .portfolio #icon2 {
+    transform: rotate(-45deg) translate(-550px) rotate(45deg); }
+  .portfolio .description {
+    display: none;
+    position: absolute;
+    padding: 1em 4em;
+    z-index: 1;
+    top: 25%;
+    left: 15%;
+    min-height: 40%;
+    width: 70%;
+    background-color: rgba(27, 52, 77, 0.7); }
+    .portfolio .description a {
+      color: rgba(255, 255, 255, 0.8); }
+    .portfolio .description.active {
+      display: block; }
+  .portfolio a.right.carousel-control:hover {
+    background: linear-gradient(to right, rgba(7, 52, 77, 0), #07344d); }
+  .portfolio a.left.carousel-control:hover {
+    background: linear-gradient(to left, rgba(7, 52, 77, 0), #07344d); }
+
+@media (max-width: 1199px) {
+  .portfolio {
+    min-height: 800px; }
+    .portfolio .arrow {
+      top: 34%; }
+    .portfolio .icon {
+      top: 35%;
+      width: 10em;
+      height: 10em;
+      margin: -5em; }
+      .portfolio .icon .weoffer-img {
+        width: 10em;
+        height: 10em; }
+      .portfolio .icon .weoffer-img-font {
+        width: 130%;
+        top: 50%;
+        left: 75%; }
+    .portfolio #arrow0 {
+      transform: translate(15%, -48%) scale(0.7); }
+    .portfolio #arrow1 {
+      transform: translate(-35%, 90%) scale(0.8); }
+    .portfolio #arrow2 {
+      transform: translate(-110%, -48%) scale(0.7); }
+    .portfolio #icon0 {
+      transform: translate(0, -200px); }
+    .portfolio #icon1 {
+      transform: rotate(45deg) translate(450px) rotate(-45deg) translate(20px); }
+    .portfolio #icon2 {
+      transform: rotate(-45deg) translate(-450px) rotate(45deg) translate(-30px); }
+    .portfolio .description {
+      top: 20%;
+      min-height: 50%; } }
+@media (max-width: 991px) {
+  .portfolio {
+    min-height: 750px; }
+    .portfolio .arrow {
+      top: 32%; }
+    .portfolio .icon {
+      top: 35%;
+      width: 8em;
+      height: 8em;
+      margin: -4em; }
+      .portfolio .icon .weoffer-img {
+        width: 8em;
+        height: 8em; }
+      .portfolio .icon .weoffer-img-font {
+        width: 130%;
+        top: 50%;
+        left: 98%; }
+    .portfolio #arrow0 {
+      transform: translate(0%, -42%) scale(0.45, 0.7); }
+    .portfolio #arrow1 {
+      transform: translate(-40%, 90%) scale(0.6); }
+    .portfolio #arrow2 {
+      transform: translate(-95%, -42%) scale(0.45, 0.7); }
+    .portfolio #icon0 {
+      transform: translate(0, -150px); }
+    .portfolio #icon1 {
+      transform: rotate(45deg) translate(330px) rotate(-45deg) translate(20px, 100px); }
+    .portfolio #icon2 {
+      transform: rotate(-45deg) translate(-330px) rotate(45deg) translate(-20px, 100px); }
+    .portfolio .description {
+      width: 80%;
+      left: 10%;
+      top: 25%;
+      min-height: 45%;
+      padding: .5em 3em; }
+      .portfolio .description h2 {
+        font-size: 1.5em; }
+      .portfolio .description p {
+        font-size: 0.9em; } }
+@media (max-width: 767px) {
+  .portfolio {
+    min-height: 650px; }
+    .portfolio .arrow {
+      top: 40%; }
+    .portfolio .icon {
+      top: 35%;
+      width: 7em;
+      height: 7em;
+      margin: -3.5em; }
+      .portfolio .icon .weoffer-img {
+        width: 7em;
+        height: 7em; }
+      .portfolio .icon .weoffer-img-font {
+        width: 130%;
+        top: 50%;
+        left: 113%; }
+    .portfolio #arrow0 {
+      transform: translate(-10%, -48%) scale(0.35, 0.65); }
+    .portfolio #arrow1 {
+      transform: translate(-40%, 60%) scale(0.5); }
+    .portfolio #arrow2 {
+      transform: translate(-85%, -48%) scale(0.35, 0.65); }
+    .portfolio #icon0 {
+      transform: translate(0, -150px); }
+    .portfolio #icon1 {
+      transform: rotate(45deg) translate(290px) rotate(-45deg) translate(-18px, 100px); }
+    .portfolio #icon2 {
+      transform: rotate(-45deg) translate(-290px) rotate(45deg) translate(10px, 100px); }
+    .portfolio .description {
+      top: 22%;
+      min-height: 52%;
+      padding: 0 2em; }
+      .portfolio .description h2 {
+        font-size: 1.3em; }
+      .portfolio .description p {
+        font-size: 0.8em; } }
+@media (max-width: 450px) {
+  .portfolio {
+    min-height: 600px; }
+    .portfolio .icon {
+      top: 35%;
+      width: 5em;
+      height: 5em;
+      margin: -2.5em; }
+      .portfolio .icon .weoffer-img {
+        width: 5em;
+        height: 5em; }
+      .portfolio .icon .weoffer-img-font {
+        width: 130%;
+        top: 50%;
+        left: 165%; }
+    .portfolio #arrow0 {
+      transform: translate(-22%, -50%) scale(0.25, 0.7); }
+    .portfolio #arrow1 {
+      transform: translate(-45%, 50%) scale(0.35); }
+    .portfolio #arrow2 {
+      transform: translate(-75%, -50%) scale(0.25, 0.7); }
+    .portfolio #icon0 {
+      transform: translate(0, -160px); }
+    .portfolio #icon1 {
+      transform: rotate(45deg) translate(290px) rotate(-45deg) translate(-80px, 100px); }
+    .portfolio #icon2 {
+      transform: rotate(-45deg) translate(-290px) rotate(45deg) translate(80px, 100px); }
+    .portfolio .description {
+      width: 100%;
+      top: 18%;
+      left: 0;
+      padding: 0 1.5em;
+      min-height: 60%; }
+      .portfolio .description h2 {
+        font-size: 1.2em; }
+      .portfolio .description p {
+        font-size: 0.7em; }
+    .portfolio a.right.carousel-control {
+      margin-right: -10px; }
+      .portfolio a.right.carousel-control:hover {
+        background: none; }
+    .portfolio a.left.carousel-control {
+      margin-left: -10px; }
+      .portfolio a.left.carousel-control:hover {
+        background: none; } }
 .easyhtml5video img {
   width: 100%; }
 
