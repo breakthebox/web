@@ -1,0 +1,100 @@
+<a name="wedo"></a>
+
+<div class="container" style="min-height: 45em;">
+
+    <div class="row">
+        <h1>Ein Auszug aus unseren Projekten...</h1>
+    </div>
+
+    <div class="watermark">
+        we do
+    </div>
+    <div class="row wedo-projects">
+
+        <!-- Portfolio Visualisierungen Break the Box -->
+        <a href="portfolio.html">
+            <div class="wedo-project" id="portfolio">
+                <div class="projectImage">
+                    <img src="img/businessplan_light.png" alt=""/>
+                </div>
+                <h3>Visualisierungen BtB</h3>
+                <p>Verschiedene Arten von Visualisierungen zu Break the Box.</p>
+            </div>
+        </a>
+        <!--  Creative-C Tagcloud -->
+        <a href="tagcloud">
+            <div class="wedo-project" id="tagcloud">
+                <div class="projectImage">
+                    <img src="img/tagcloud.jpg" alt=""/>
+                </div>
+                <h3>Ring Tagcloud</h3>
+                <p>
+                    Mobile App für die Herstellung von personalisierten Fingerringen mit einer Tagcloud aus eigens
+                    definierten Wörtern.
+                </p>
+            </div>
+        </a>
+
+        <!-- Erklärvideo How to make coffee -->
+        <a href="coffee.html">
+            <div class="wedo-project" id="coffee">
+                <div class="projectImage">
+                    <img src="img/coffee.jpg" alt=""/>
+                </div>
+                <h3>Erklärvideo Beispiel</h3>
+                <p>Erklärvideo "How to brew coffee"</p>
+            </div>
+        </a>
+
+        <!-- BTB-Time -->
+        <a href="btbtime.html">
+            <div class="wedo-project" id="btbtime">
+                <div class="projectImage">
+                    <img src="img/btbtime.jpg" style="margin-top:-15%;" alt=""/>
+                </div>
+                <h3>BtB-Time</h3>
+                <p>Eine voll-integrierte Zeiterfassungslösung auf Basis von NFC-Tags.
+                </p>
+            </div>
+        </a>
+        <!-- BLS Usertesting @Gurten -->
+        <a href="bls_gurten.html">
+            <div class="wedo-project" id="bls_gurten">
+                <div class="projectImage">
+                    <img src="img/bls_gurten.jpg" alt=""/>
+                </div>
+                <h3>Usertesting Gurten</h3>
+                <p>Die Erstellung eines "Minimal Viable Products" einer Freizeit-Applikation inkl. User-Testing mit
+                    knapp 100 Teilnehmer.
+                </p>
+            </div>
+        </a>
+
+        <!-- Whiteboard -->
+        <a href="whiteboard.html">
+            <div class="wedo-project" id="whiteboard">
+                <div class="projectImage" style="background-color: #757e86; text-align:right;">
+                    <img src="img/whiteboard.jpg" style="height: 80%; width: 80%; " alt=""/>
+                </div>
+                <h3>e(xtended)-Whiteboard</h3>
+                <p>Eine Erweiterung für herkömmliche Whiteboards zur Sicherung von Zeichnungen und erweiterten
+                    Kollaboration.
+                </p>
+            </div>
+        </a>
+        <!-- Prototyping Robot -->
+        <a href="robot.html">
+            <div class="wedo-project" id="robot">
+                <div class="projectImage">
+                    <img src="img/robot.jpg" alt=""/>
+                </div>
+                <h3>Robot</h3>
+                <p>
+                    Ein Roboter als Übungsprojekt für Sensorik, Computer Vision,
+                    Mensch-Maschine-Interaktion
+                    und Machine Learning.
+                </p>
+            </div>
+        </a>
+    </div>
+</div>

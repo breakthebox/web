@@ -1,25 +1,5 @@
 $font-stack: "LatoLatinWeb", sans-serif;
-
-/** colors */
-$bg-dark: #262626;
-$bg-light: #f5eed5;
-$bg-medium: #527a98;
-$bg-orange: #E8AF30;
-
-$fg-dark: #262626;
-$fg-light: white;
-
-$link-hover: #527a98;
-
-/** Device sizes */
-$screen-xs-min: 0;
-$screen-xs-med: 450px;
-$screen-xs-max: 767px;
-$screen-sm-min: 768px;
-$screen-sm-max: 991px;
-$screen-md-min: 992px;
-$screen-md-max: 1199px;
-$screen-lg-min: 1200px;
+@import 'variables';
 
 /** mixins */
 @mixin fonttransition($size, $duration) {
@@ -60,7 +40,6 @@ $screen-lg-min: 1200px;
 @mixin card($bgHeader, $bgContent, $fgContent, $imgShadow) {
   box-shadow: 0 0 .1em #888;
   margin: 2em .5em;
-  
 
   .heading, .footer {
     padding: .5em;
@@ -99,7 +78,6 @@ $screen-lg-min: 1200px;
     box-shadow: 0 0 5px $imgShadow;
   }
 
-  
 }
 
 body {
@@ -121,6 +99,10 @@ body {
   }
 }
 
+.ui-loader{
+  display:none;
+}
+
 .blackfill {
   position: absolute;
   top: 0;
@@ -132,7 +114,7 @@ body {
 /**
  * --- typography
  */
-.right {
+ .right {
   text-align: right;
 }
 
@@ -156,7 +138,7 @@ label {
 /**
  * --- Common Elements
  */
-.container {
+ .container {
   position: relative;
   padding: 3em 9em;
 
@@ -226,7 +208,7 @@ label {
 /**
  * --- Navbar
  */
-.navbar {
+ .navbar {
   border: 0;
 
   hr {
@@ -275,7 +257,7 @@ label {
 /**
  * --- Intro
  */
-.statement {
+ .statement {
   font-size: 2.5em;
   font-weight: bold;
   text-align: center;
@@ -308,7 +290,7 @@ label {
 /**
  * --- We Believe in
  */
-.carousel-control.right, .carousel-control.left {
+ .carousel-control.right, .carousel-control.left {
   background: transparent;
   width: 2em;
 }
@@ -389,7 +371,7 @@ label {
 /**
  * --- We Offer
  */
-.weoffer-list {
+ .weoffer-list {
 
   li {
     a {
@@ -402,12 +384,6 @@ label {
       @include fonttransition(1.1em, 0.3s);
     }
   }
-}
-
-.weoffer-img {
-  width: 180px;
-  height: 180px;
-  margin-top: 20px;
 }
 
 /**
@@ -451,9 +427,9 @@ label {
 }
 
 div.youget-card:hover {
-  
-    box-shadow: 0 0 1em #888;
-  
+
+  box-shadow: 0 0 1em #888;
+
 }
 
 .card-knowhow {
@@ -471,7 +447,7 @@ div.youget-card:hover {
 /**
  * --- we are
  */
-.weare-socialmedia {
+ .weare-socialmedia {
   display: flex;
   justify-content: space-between;
   margin: 1em;
@@ -518,7 +494,7 @@ div.youget-card:hover {
 .cv-avatar {
   max-height: 12em;
   max-width: 12em;
-  width:100%;
+  width: 100%;
 }
 
 .clear {
@@ -534,22 +510,22 @@ div.youget-card:hover {
   .cv-bubble-right::after, .cv-bubble-left::after {
     display: none;
   }
-  .cv-avatar-container{
-    height:180px;
+  .cv-avatar-container {
+    height: 180px;
     position: absolute;
     top: 1.5em;
     left: 0em;
-    text-align:center;
+    text-align: center;
     z-index: 2;
   }
 
   .cv-avatar {
     max-width: 180px;
     max-height: 180px;
-    width:180px;
-    height:180px;
-    padding-left:0px;
-    padding-right:0px;
+    width: 180px;
+    height: 180px;
+    padding-left: 0px;
+    padding-right: 0px;
 
   }
   .cv-bubble-container .bubble-content {
@@ -633,6 +609,10 @@ div.youget-card:hover {
   }
 }
 
+.wedo-project.event {
+  border-color: $bg-dark;
+}
+
 .wedo-project:hover {
   p {
     display: block;
@@ -665,12 +645,47 @@ div.youget-card:hover {
 }
 
 /**
- * --- FOOTER
+ * --- CUSTOMERS
  */
-.footer {
+ .you-customers {
+  text-align: center;
+ }
+
+ .customer {
+  padding: 1em;
+
+  vertical-align: middle;
+  white-space: nowrap;
+
+  width: 230px;
+  height: 150px;
+  display: inline-block;
+
+  border: 5px solid $bg-light;
+  background-color: $fg-light;
+  border-radius: 10px;
+
+  overflow: hidden;
+
+  .helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+  }
+
+  img {
+    vertical-align: middle;
+    width: 100%;
+  }
 }
 
-.footer-socialmedia {
+/**
+ * --- FOOTER
+ */
+ .footer {
+ }
+
+ .footer-socialmedia {
   display: flex;
   justify-content: space-between;
   margin: 1em;
@@ -696,6 +711,9 @@ div.youget-card:hover {
   }
 }
 
+/** portfolio */
+@import 'weoffer';
+
 .easyhtml5video img {
   width: 100%;
 }
@@ -704,3 +722,5 @@ div.youget-card:hover {
   width: 100%!important;
   height: 30em!important;
 }
+
+

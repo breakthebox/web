@@ -1,3 +1,9 @@
+
+
+
+$("#beliefs").on("swipeleft",function(event){nextBelief()});
+$("#beliefs").on("swiperight",function(event){previousBelief()});
+
 var beliefs = [
     {
         "avatar_belief": "img/BrigitteHulliger-down.jpg",
