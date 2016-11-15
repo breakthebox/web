@@ -35,11 +35,11 @@
             </p>
 
             <p>
-                Wir unterstützen Sie dabei und bringen unsere mehrjährige Erfahrung aus verschiedenen Branchen mit ein und können Sie so optimal unterstützen. Wir ermitteln, validieren, dokumentieren und verwalten Anforderungen an ihre Lösungen durch den Einsatz geeigneter Mittel unter Einbezug der richtigen Interessengruppen.
+                Wir unterstützen Sie dabei mit unserer mehrjährigen Erfahrung aus verschiedenen Branchen und können Sie so optimal unterstützen. Wir ermitteln, validieren, dokumentieren und verwalten Anforderungen an ihre Lösungen durch den Einsatz geeigneter Mittel unter Einbezug der richtigen Interessengruppen.
             </p>
 
             <p>
-                Um effizient und pragmatisch zu nachhaltigen Lösungen zu gelangen ergänzen wir das klassige Anforderngsmanagement um zwei weitere Disziplinen...
+                Um effizient und pragmatisch zu nachhaltigen Lösungen zu gelangen ergänzen wir das klassische Anforderngsmanagement um zwei weitere Disziplinen...
             </p>
 
             <a class="left carousel-control" onclick="previousOffering()" role="button" data-slide="prev">
@@ -107,9 +107,11 @@
                 Wir erarbeiten mit Ihnen zusammen Visualisierungen aller Art (z.B. als VideoScribes, Sketches, Whiteboard Videos, Erklärvideos, etc.) mit dem Ziel ein gemeinsames Verständnis zu erlangen und zukunftsträchtige Lösungen zu entwickeln. 
                 Die erstellten Visualisierungen können sowohl für die interne wie auch für die externe Kommunikation verwendet werden um Interesse und Begeisterung für Ihre Vorhaben zu wecken.
             </p>
+            <!--
             <p>
                 Erfahren Sie mehr über unser Visualisierungsangebot und lassen sie sich selbst <a href="http://www.visualfacilitation.ch" target="_blank">inspierieren</a>.
             </p>
+            -->
 
             <a class="left carousel-control" onclick="previousOffering()" role="button" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
