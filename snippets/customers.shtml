@@ -14,10 +14,12 @@
             <img src="img/customers/logo_ewb.svg" alt=""/>
         </div>
 
+<!--
         <div class="customer">
             <span class="helper"></span>
             <img src="img/customers/logo_bls.svg" alt=""/>
         </div>
+-->
 
         <div class="customer">
             <span class="helper"></span>
@@ -38,6 +40,13 @@
             <span class="helper"></span>
             <img src="img/customers/logo_wst.svg" alt=""/>
         </div>
+
+        <!--
+        <div class="customer">
+            <span class="helper"></span>
+            <img src="img/customers/logo_creative-c.svg" alt=""/>
+        </div>
+        -->
 
     </div>
 </div>
