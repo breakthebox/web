@@ -782,12 +782,12 @@ div.youget-card:hover {
     .portfolio .description {
       top: 22%;
       min-height: 52%;
-      padding: 0 2.5em; }
+      padding: 0 2em; }
       .portfolio .description h2 {
         font-size: 1.3em; }
       .portfolio .description p {
         font-size: 0.8em; } }
-@media (max-width: 500px) {
+@media (max-width: 450px) {
   .portfolio {
     min-height: 600px; }
     .portfolio .icon {
@@ -803,24 +803,34 @@ div.youget-card:hover {
         top: 50%;
         left: 165%; }
     .portfolio #arrow0 {
-      transform: translate(-22%, -50%) scale(0.25, 0.65); }
+      transform: translate(-22%, -50%) scale(0.25, 0.7); }
     .portfolio #arrow1 {
       transform: translate(-45%, 50%) scale(0.35); }
     .portfolio #arrow2 {
-      transform: translate(-75%, -50%) scale(0.25, 0.65); }
+      transform: translate(-75%, -50%) scale(0.25, 0.7); }
     .portfolio #icon0 {
-      transform: translate(0, -140px); }
+      transform: translate(0, -160px); }
     .portfolio #icon1 {
-      transform: rotate(45deg) translate(290px) rotate(-45deg) translate(-65px, 75px); }
+      transform: rotate(45deg) translate(290px) rotate(-45deg) translate(-80px, 100px); }
     .portfolio #icon2 {
-      transform: rotate(-45deg) translate(-290px) rotate(45deg) translate(65px, 75px); }
+      transform: rotate(-45deg) translate(-290px) rotate(45deg) translate(80px, 100px); }
     .portfolio .description {
-      width: 90%;
-      top: 20%;
-      left: 5%; }
+      width: 100%;
+      top: 18%;
+      left: 0;
+      padding: 0 1.5em;
+      min-height: 60%; }
       .portfolio .description h2 {
         font-size: 1.2em; }
       .portfolio .description p {
-        font-size: 0.8em; } }
+        font-size: 0.7em; }
+    .portfolio a.right.carousel-control {
+      margin-right: -10px; }
+      .portfolio a.right.carousel-control:hover {
+        background: none; }
+    .portfolio a.left.carousel-control {
+      margin-left: -10px; }
+      .portfolio a.left.carousel-control:hover {
+        background: none; } }
 
 /*# sourceMappingURL=breakthebox.css.map */
