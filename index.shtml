@@ -28,6 +28,7 @@
                 </li>
                 <li><a href="#weare" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">we are</a></li>
                 <li><a href="#wedo" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">we do</a></li>
+                <li><a href="#customers" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">you</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->

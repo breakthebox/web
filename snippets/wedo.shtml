@@ -21,6 +21,16 @@
                 <p>Verschiedene Arten von Visualisierungen zu Break the Box.</p>
             </div>
         </a>
+        <!-- Portfolio Visualisierungen Break the Box -->
+        <a href="http://mycv.breakthebox.ch" target="_blank">
+            <div class="wedo-project" id="portfolio">
+                <div class="projectImage">
+                    <img src="img/mycv.png" alt=""/>
+                </div>
+                <h3>myCV</h3>
+                <p>Generierte Visualisierungen basierend auf deinem LinkedIn Profil.</p>
+            </div>
+        </a>
         <!--  Creative-C Tagcloud -->
         <a href="tagcloud">
             <div class="wedo-project" id="tagcloud">
