@@ -81,14 +81,13 @@
         </a>
 
         <!-- Whiteboard -->
-        <a href="whiteboard.html">
-            <div class="wedo-project" id="whiteboard">
+        <a href="washingmachine.html">
+            <div class="wedo-project" id="washingmachine">
                 <div class="projectImage" style="background-color: #757e86; text-align:right;">
-                    <img src="img/whiteboard.jpg" style="height: 80%; width: 80%; " alt=""/>
+                    <img src="img/washingmachine_kl.jpg" alt=""/>
                 </div>
-                <h3>e(xtended)-Whiteboard</h3>
-                <p>Eine Erweiterung für herkömmliche Whiteboards zur Sicherung von Zeichnungen und erweiterten
-                    Kollaboration.
+                <h3>Chattende Waschmaschine</h3>
+                <p>Mit einfachen Mitteln und Prototypen Ideen testen - z.B. eine alte Waschmaschine chatfähig machen...
                 </p>
             </div>
         </a>
