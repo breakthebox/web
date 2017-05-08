@@ -78,6 +78,9 @@ label {
   .container {
     padding: 3em 7em; }
 
+  .article .container {
+    padding: 2em; }
+
   .watermark {
     font-size: 5em;
     padding-bottom: 5.5em; } }
@@ -453,6 +456,23 @@ div.youget-card:hover {
 
 .cv-bubble-container {
   position: relative; }
+
+.author .about {
+  font-size: 1.5em;
+  font-weight: bold; }
+
+.author {
+  font-style: italic;
+  clear: both;
+  margin-bottom: 3em;
+  margin-top: 3em; }
+
+.author img {
+  width: auto;
+  height: auto;
+  margin-right: 2em;
+  margin-bottom: 1em;
+  float: left; }
 
 @media (max-width: 767px) {
   .cv-bubble-right::after, .cv-bubble-left::after {
