@@ -26,10 +26,11 @@
             <img src="img/customers/logo_puzzle.svg" alt=""/>
         </div>
 
-        <div class="customer">
+<!--        <div class="customer">
             <span class="helper"></span>
             <img src="img/customers/logo_btpag.png" alt=""/>
         </div>
+-->
 
         <div class="customer">
             <span class="helper"></span>
@@ -38,7 +39,22 @@
 
         <div class="customer">
             <span class="helper"></span>
+            <img src="img/customers/logo_emmental.jpg" alt=""/>
+        </div>
+
+        <div class="customer">
+            <span class="helper"></span>
             <img src="img/customers/logo_wst.svg" alt=""/>
+        </div>
+
+        <div class="customer">
+            <span class="helper"></span>
+            <img src="img/customers/logo_zeilenwerk.png" alt=""/>
+        </div>
+
+        <div class="customer">
+            <span class="helper"></span>
+            <img src="img/customers/logo_bls.png" alt=""/>
         </div>
 
         <!--
