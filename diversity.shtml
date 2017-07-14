@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+    <title>Ist Diversität wirklich wichtig?</title>
+
+    <!--#include virtual="/snippets/headerforarticles.shtml" -->
+    <meta property="og:type" content="website">
+
+    <meta name="description" content="Brigitte hat für ihr Engagement bei We Shape Tech Bern als Speakerin bei den Voxxed Days Zürich 2017 teilgenommen und zum Thema Does Diversity really matter' gehalten - eine Visuelle Reise durch die Diversität." />
+    <meta property="og:description"
+    content="Eine Visuelle Reise durch die Diversität." />
+    <meta name="author" content="Brigitte Hulliger, Break the Box GmbH">
+    <meta name="twitter:creator" content="@breakthebox_ch">
+
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta property="og:title" content="Does Diversity really Matter">
+
+    <meta property="og:site_name" content="Break the Box, We Shape Tech" />
+
+    <meta property="og:image" content="https://www.breakthebox.ch/img/diversity_square.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="200" />
+    <meta property="og:image:height" content="200" />
+
+    <meta property="og:image" content="https://www.breakthebox.ch/img/diversity_full.png" />
+    <meta name="twitter:image" content="https://www.breakthebox.ch/img/diversity_full.png">
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="500" />
+    <meta property="og:image:height" content="261" />
+
+
+    <meta property="article:published_time" content="2017-05-01T16:00:00">
+    <meta property="article:modified_time" content="2017-05-01T16:00:00">
+    <meta name="keywords" content="Diversity, We Shape Tech, Diversität, Visual Journey, Visualisierung">
+
+</head>
+<body itemscope itemtype="http://schema.org/Organization" class="article">
+    <!--#include virtual="/snippets/subsitenav.shtml" -->
+    <div class="bg-light">
+        <div class="container" >
+
+            <h1 style="margin-top: 2em;">Does Diversity really matter?</h1>
+            <p style="text-align:right;margin-bottom: 1em; font-style: italic">13. Juli 2017</p>
+            <div style="text-align: justify;
+            text-justify: inter-word;">
+            <p style="margin-bottom: 2em; margin-top:2em;">
+                <b>Am 23. Februar 2017 waren Brigitte und Sombra von <a href="http://www.weshape.tech" target="_blank">We Shape Tech Bern</a> als Speaker an den <a href="https://voxxeddays.com/zurich/" target="_blank">Voxxed Days Zürich</a> zu Gast mit einem Vortrag zum Thema «Does Diversity really matter?». Der Vortrag wurde als visuelle Reise durch die Diversität gestaltet, mit einer fiktiven Persona, die ihre Karriere einmal in <i>Mordor</i> durchläuft und einmal in der <i>Unicorn world</i>. Brigitte hat dazu die Visualisierungen erstellt.</b>
+            </p>
+            <p>
+                Den Talk haben die beiden in Englisch gehalten, deshalb ist nachfolgendes Transkript ebenfalls in Englisch verfasst. Das dazugehörende Poster kann aber in Deutsch oder Englisch heruntergeladen werden.
+            </p>
+
+            <!--
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 detailImage"><img src="img/diversity/diversity_full_en.jpeg" alt="Does diversity really matter?"></div>
+            </div>
+        -->
+        <div class="row">
+
+            <!-- Introduction -->
+            <div class="col-md-6 col-md-offset-3 col-xs-12">
+                <img src="img/diversity/title.png" class="diversity" alt="Does diversity really matter?"> 
+            </div>
+
+            <div class="col-xs-12">
+                <h2>Introduction</h2>
+                <p>
+                    We both are women in tech with several years of experience. For this talk we try to make a retrospective our our last years in IT. Not everything has been as easy as you may think, but it is not that difficult either. Having been part of the gender minority for years now, the question still is «Does Diversity really matter? Or shall we just forget about this topic and accept the way it has been?»
+                </p>
+                <p>
+                    Anyway, we like to share with you guys some our our favorite stories and anecdotes we came along. But remember, all names and characters are ficitious. All similarities with reality are completely intentional :-).
+                </p>
+
+                <h2>Mordor</h2>
+                <p>
+                    For example, imagine you know a woman who has been working in IT for 15 years. Just imagine. Let's call her Sarah. Completely fictional name. Let's go back to the beginning of her career, when she considered working in IT.
+                </p>
+
+            </div>
+        </div>
+
+
+
+        <!-- Mordor - Career Choice -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <h3>Career Choice</h3>
+                <p>
+                    Once upon a time Sarah came across her first tough business decision: she had to choose a carrer path. «I love Maths and figures... but I am not a nerd or a gamer, and I am not as good as a guy... Additionally, all my girlfriends think I'm weird. And... isn't it a dead end job anyway?»
+                </p>
+                <p>
+                    Contrary to all external advisors, she decided to give it a try anyway.
+                </p>
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/mordor_careerchoice.png" class="diversity" alt="Mordor - Career Choice">
+            </div>
+        </div>
+
+        <!-- Mordor - University -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <h3>University</h3>
+                <p>
+                    On the very first day of university Sarah started hearing voices: «Look, there's a girl!», «She must be in the wrong room», «I bet she won't last more than 2 weeks» and «What is <i>SHE</i> doing here?»
+                </p>
+                <p>
+                    Again: contrary to all expectations Sarah got through university <i>and</i> she even made some friends! :-D
+                </p>
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/mordor_university.png" class="diversity" alt="Mordor - University">
+            </div>
+        </div>
+
+        <!-- Mordor - 1st Job -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <h3>1st Job</h3>
+                <p>
+                    What do you do after university? - Let's find a job! (or a non-payed scholarship, or a non-payed apprenticeship or something else non-payed...)
+                </p>
+                <p>
+                    It's not that there are not plenty of open positions out there, but finding one not searching for «ninjas» or «geeks» has taken a while. After finding the desired position, getting the job was not that hard. After all, what company nowadays can afford not having a woman on a team... seufz - quotas - seufz.
+                </p>
+                <p>
+                    Sarah was aware of that fact, so she was prepared to work 150% to prove herself - and guess what? - she actually did it!
+                </p>   
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/mordor_1stjob.png" class="diversity" alt="Mordor - First Job">
+            </div>
+        </div>
+
+        <!-- Mordor - 1st Promotion -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <h3>1st Promotion</h3>
+
+                <p>
+                    After a few years being ignored in all promotion rounds, she saw herself good enough for the next level in her career. So she asked for a promotion. Be aware that - opposite to her male colleagues - she has to ASK for a promotion in order to be considered.
+                </p>  
+
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/mordor_1stpromotion.png" class="diversity" alt="Mordor - First Promotion">
+            </div>
+        </div>
+
+        <!-- Mordor - Changing Jobs with 32 -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <h3>Changing jobs with 32</h3>
+
+                <p>
+                    Changing jobs every once in a while is considered a good thing if you’re pursuing your dreams. But changing job as a 32-years old woman is close to suicide. Despite the fact that companies are not supposed to ask the «Pregnancy» question, it is usually still the elephant in the room, whereas a military career for men is still considered normal.
+                </p>
+                <p>
+                    <i>«Don't you want to start a f...ramework?»</i> or <i>«What do you think about inheritance?»</i>
+                </p>  
+                
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/mordor_changingjobs.png" class="diversity" alt="Mordor - Changing Jobs with 32">
+            </div>
+        </div>
+
+        <!-- Mordor - Returning after maternity leave -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <h3>Returning after maternity leave</h3>
+
+                <p>
+                    After working several years in cool projects and with big clients, Sarah did get pregnant, she did start a family, she did enjoy a maternity leave.
+                </p>
+                <p>
+                    And after that, guess what, she did come back after only four months, and the company was soooo considered with her situation at home that she only got easy projects without responsibility because everybody knew, she would leave again anyway. An even if not, she is a mother and has other things to do.
+                </p>
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/mordor_maternityleave.png" class="diversity" alt="Mordor - Returning after Maternity Leave">
+            </div>
+        </div>
+
+        <!-- Mordor - 1st executive position -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <h3>First executive position</h3>
+
+                <p>
+                    Some years later Sarah came to another crossroads in her career. She got her first executive opportunity. She took the opportunity but she knew it would - again - be hard to be taking seriously. Actually, the easiest way would be to become a man... Afterall there must be something wrong with her. She looks more like an assistant, doesn’t she? (hear the irony in that?)
+                </p>
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/mordor_1stexecposition.png" class="diversity" alt="Mordor - 1st executive position">
+            </div>
+        </div>
+
+        <div class="row">
+            <h2>Unicorn</h2>
+            <p>
+                But as we said, not everything has been so bad. Actually we  haven’t been in Mordor in our lives. But our unicorn moment have been scarce. Let’s imagine a - hopefully not so far in the future - world where everything is possible, unicorn exist and agility actually works.
+            </p>
+        </div>
+
+        <div class="row">
+
+            <!-- Unicorn - 1st executive position -->
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/unicorn_careerchoice.png" class="diversity" alt="Unicorn - Career Choice">
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <h3>Career Choice</h3>
+
+                <p>
+                    Let’s go back to those days when Sarah thought about the possibility of a technical career. Questions about «boys» and «girls»-jobs didn’t even came to her mind. It’s only a matter of passion without any stereotype. 
+                    <small>Are you still there? Do I see some unicorns on the back? </small>
+                </p>
+            </div>
+        </div>
+
+        <!-- Unicorn - university -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/unicorn_university.png" class="diversity" alt="Unicorn - University">
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <h3>University</h3>
+
+                <p>
+                    Let’s go on. Imagine we’re back to university days. There are almost the same number of girls and boys on the class (just like in a party where everybody wants to stay). Even professors are equally divided between men and women. And the best: your absence is not immediately detected just because of your gender. You’re not longer <i>the girl of the class</i>.
+                </p>
+            </div>
+        </div>
+
+        <!-- Unicorn - 1st Job -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/unicorn_1stjob.png" class="diversity" alt="Unicorn - 1st Job">
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <h3>1st job</h3>
+                <p>
+                    After enjoying a few highly interesting and rewarding years at university Sarah started her job search. There are so many appealing opportunities that she has a hard time choosing. And after womenlead interviews (not HR women but technical women) it was even harder. 
+                </p>
+                <p>
+                    Once she started in her new position finding her place in a team was not even considered a challenge, she was there because of her skill. Is that not amazing?.    
+                </p>
+            </div>
+        </div>
+
+        <!-- Unicorn - 1st promotion -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/unicorn_1stpromotion.png" class="diversity" alt="Unicorn - 1st Promotion">
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <h3>1st promotion</h3>
+
+                <p>
+                    Since she fit so perfectly in her team and she had no pressure proving herself continuously, she could concentrate on her skills and duties from day one. Therefore she got considered for a promotion in the first round. Nobody asked «why?», instead everyone said «why not?». 
+                </p>
+            </div>
+        </div>
+
+        <!-- Unicorn - changing Jobs with 32 -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/unicorn_changingjobs.png" class="diversity" alt="Unicorn - Changing Jobs with 32">
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <h3>Changing Jobs with 32</h3>
+
+                <p>
+                    As in Mordor, changing jobs every once in a while is still considered a good thing. But opposite to Mordor, there are only unicorns in the room - no elephants. No questions about family planning, no awkward pregnancy questions, no forecast for your next 10 years are required. Only your skills and your experiences are considered - just as for men.
+                </p>
+                <p>
+                    Furthermore, the maternity/paternity leave is equal for men and women… that means extended leaves (indifferent for the reason) are not considered a disadvantage.
+                </p>
+            </div>
+        </div>
+
+        <!-- Unicorn - Returning after maternity leave -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/unicorn_maternityleave.png" class="diversity" alt="Unicorn - Returning after maternity leave">
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <h3>Returning after maternity leave</h3>
+
+                <p>
+                    After <i>more-than-just-four-months</i> maternity leave she deserves to leave her daughter... with his father. And do you know, there are already some «rainbow» countries in Europe where you can share your maternity leave with your partner. Unbelievable.  
+                </p>
+                <p>
+                    After her time-out she managed to work part time sharing job with somebody else. A different personal situation but same responsibilities. Nobody ask her if she would like to work less. Because flexibility is over presenteeism. 
+                </p>
+            </div>
+        </div>
+
+        <!-- Unicorn - 1st executive position -->
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <img src="img/diversity/unicorn_1stexecposition.png" class="diversity" alt="Unicorn - 1st executive position">
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <h3>1st executive position</h3>
+
+                <p>
+                    And after years of working hard, continuous education, being a working mom, she became Chief «Bla bla bla I like it so much» Officer. And that’s all. No questions, no pain, no weird looks. Just normal. And remember, BOSSY is the new sexy.
+                </p>
+
+                <p>
+                    As you have seen Sarah’s journey has been a little bit more enjoyable. But just as fictitious as the one through Mordor. Let’s forget about evil orcs and colourful unicorns and let’s take it a little bit more serious. 
+                </p>
+
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-12">
+                <h2>Conclusion</h2>
+            </div>
+            <div class="col-md-6 col-md-offset-3 col-xs-12">
+                <img src="img/diversity/conclusion.png" class="diversity" alt="conclusion">
+            </div>
+
+            <div class="col-xs-12">
+                <p>
+                    We often hear «Diversity is not a men's problem, women are just not interested enough in tech». We disagree to a certain point, after all, we chose the tech world ourselves and we strongly believe that it is absolutely important to include all kind of people in the development of our future - independent of gender, age, colour, culture, religion, ...
+                </p>
+                <p>
+                    Although the diversity issue has been worked on for several decades now, it is still among us. But we are all part of the problem - and the solutions. But, how can we foster diversity?
+                    <ul>
+                        <li>
+                            <strong>As an individual:</strong> Be aware of the unconsious biases we all grew up with and avoid to perpetuate them.
+                        </li>
+                        <li>
+                            <strong>As a woman in IT:</strong> Make your own work and your passion visible. Share role models and participate in intitiatives about this topic.
+                        </li>
+                        <li>
+                            <strong>As a company:</strong> Do not only think about quotas and positive discrimination. Create a safe and suitable work environment for <i>all</i> your employees giving equal opportunities. You can also support organizations and projects that foster diversity, i.e. <a href="https://girlswhocode.com" target="_blank">Girls Who Code</a>, <a href="https://djangogirls.org/" target="_blank">Django Girls</a>, <a href="http://railsgirls.com/" target="_blank">Rails Girls</a>, ...
+                        </li>
+                        <li>
+                            <strong>As a government:</strong> Support education inititatives to avoid biases. Develop specific programs sto foster the interst of both girls and bos in technology and sciences.
+                        </li>
+                    </ul>
+                </p>
+
+                <p>
+                    As we both said, not everything has been so bad. Actually we  haven’t been in Mordor in our lives. But our unicorn moment have been scarce. Let’s imagine a - hopefully not so far in the future - world where everything is possible, unicorn exist and agility actually works.
+                </p>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-xs-12">
+                <h2>Download</h2>
+                <p>Das gesamte Poster kann in der deutschen wie auch in der englischen Version hier heruntergeladen werden.</p>
+
+            </div>
+
+            <div class="col-md-6 col-xs-12 poster_thumbnail">
+                <a href="img/diversity/diversity_full_en.jpeg" target="_blank">
+                    <img src="img/diversity/diversity_full_en.jpeg" alt="Poster Englisch">
+                    <br/>Englisch
+                </a>
+
+            </div>
+            <div class="col-md-6 col-xs-12 poster_thumbnail">
+                <a href="img/diversity/diversity_full_de.jpeg" target="_blank">
+                    <img src="img/diversity/diversity_full_de.jpeg" alt="Poster Deutsch">
+                    <br/>Deutsch
+                </a>
+            </div>
+
+        </div>
+
+
+        <div class="author row">
+            <div class="col-xs-12">
+                <a href="mailto:brigitte@breakthebox.ch"><img class="img-circle"
+                   src="https://s.gravatar.com/avatar/aa705336ad39eb523f22e883ebee1dc8?s=100"
+                   alt="Brigitte Hulliger"></a><span><a href="mailto:brigitte@breakthebox.ch">Brigitte</a> ist bei <a href="http://weshape.tech" target="_blank">We Shape Tech Bern</a> im Vorstand und organisiert in dieser Funktion mit ihren beiden Kolleginnen Sombra und Miriam regelmässig Events für Frauen (und interessierte Männer) in der Tech- und Innovationsbranche. </span>
+               </div>
+
+
+           </div>
+           <div class="row">
+            <div class="col-xs-12">
+
+            </div>
+
+        </div>
+    </div>
+
+
+</div>
+</div>
+
+<!--#include virtual="/snippets/footer.shtml" -->
+<!--#include virtual="/snippets/analytics.shtml" -->
+</body>
+</html>
