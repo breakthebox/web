@@ -21,7 +21,19 @@
                 <p>Verschiedene Arten von Visualisierungen zu Break the Box.</p>
             </div>
         </a>
-        <!-- Portfolio Visualisierungen Break the Box -->
+        <!-- Does diversity really matter -->
+        <a href="diversity.html">
+            <div class="wedo-project" id="diversity">
+                <div class="projectImage">
+                    <img src="img/diversity/title.png" alt=""/>
+                </div>
+                <h3>Does diversity really matter</h3>
+                <p>Visuelle Reise durch die Diversität - ein Vortrag von We Shape Tech an den Voxxed Days Zürich.</p>
+            </div>
+        </a>
+
+
+        <!-- Projekt myCV -->
         <a href="http://mycv.breakthebox.ch" target="_blank">
             <div class="wedo-project" id="portfolio">
                 <div class="projectImage">
