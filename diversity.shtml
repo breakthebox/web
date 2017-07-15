@@ -18,13 +18,13 @@
 
     <meta property="og:site_name" content="Break the Box, We Shape Tech" />
 
-    <meta property="og:image" content="https://www.breakthebox.ch/img/diversity/title.png" />
+    <meta property="og:image" content="https://www.breakthebox.ch/img/diversity/title.jpg" />
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="200" />
     <meta property="og:image:height" content="200" />
 
-    <meta property="og:image" content="https://www.breakthebox.ch/img/diversity/title.png" />
-    <meta name="twitter:image" content="https://www.breakthebox.ch/img/diversity/title.png">
+    <meta property="og:image" content="https://www.breakthebox.ch/img/diversity/title.jpg" />
+    <meta name="twitter:image" content="https://www.breakthebox.ch/img/diversity/title.jpg">
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="500" />
     <meta property="og:image:height" content="261" />
@@ -60,7 +60,7 @@
 
             <!-- Introduction -->
             <div class="col-md-6 col-md-offset-3 col-xs-12">
-                <img src="img/diversity/title.png" class="diversity" alt="Does diversity really matter?"> 
+                <img src="img/diversity/title.jpg" class="diversity" alt="Does diversity really matter?"> 
             </div>
 
             <div class="col-xs-12">
@@ -94,7 +94,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_careerchoice.png" class="diversity" alt="Mordor - Career Choice">
+                <img src="img/diversity/mordor_careerchoice.jpg" class="diversity" alt="Mordor - Career Choice">
             </div>
         </div>
 
@@ -110,7 +110,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_university.png" class="diversity" alt="Mordor - University">
+                <img src="img/diversity/mordor_university.jpg" class="diversity" alt="Mordor - University">
             </div>
         </div>
 
@@ -129,7 +129,7 @@
                 </p>   
             </div>
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_1stjob.png" class="diversity" alt="Mordor - First Job">
+                <img src="img/diversity/mordor_1stjob.jpg" class="diversity" alt="Mordor - First Job">
             </div>
         </div>
 
@@ -144,7 +144,7 @@
 
             </div>
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_1stpromotion.png" class="diversity" alt="Mordor - First Promotion">
+                <img src="img/diversity/mordor_1stpromotion.jpg" class="diversity" alt="Mordor - First Promotion">
             </div>
         </div>
 
@@ -162,7 +162,7 @@
                 
             </div>
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_changingjobs.png" class="diversity" alt="Mordor - Changing Jobs with 32">
+                <img src="img/diversity/mordor_changingjobs.jpg" class="diversity" alt="Mordor - Changing Jobs with 32">
             </div>
         </div>
 
@@ -179,7 +179,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_maternityleave.png" class="diversity" alt="Mordor - Returning after Maternity Leave">
+                <img src="img/diversity/mordor_maternityleave.jpg" class="diversity" alt="Mordor - Returning after Maternity Leave">
             </div>
         </div>
 
@@ -193,7 +193,7 @@
                 </p>
             </div>
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_1stexecposition.png" class="diversity" alt="Mordor - 1st executive position">
+                <img src="img/diversity/mordor_1stexecposition.jpg" class="diversity" alt="Mordor - 1st executive position">
             </div>
         </div>
 
@@ -208,7 +208,7 @@
 
             <!-- Unicorn - 1st executive position -->
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_careerchoice.png" class="diversity" alt="Unicorn - Career Choice">
+                <img src="img/diversity/unicorn_careerchoice.jpg" class="diversity" alt="Unicorn - Career Choice">
             </div>
             <div class="col-md-6 col-xs-12">
                 <h3>Career Choice</h3>
@@ -223,7 +223,7 @@
         <!-- Unicorn - university -->
         <div class="row">
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_university.png" class="diversity" alt="Unicorn - University">
+                <img src="img/diversity/unicorn_university.jpg" class="diversity" alt="Unicorn - University">
             </div>
             <div class="col-md-6 col-xs-12">
                 <h3>University</h3>
@@ -237,7 +237,7 @@
         <!-- Unicorn - 1st Job -->
         <div class="row">
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_1stjob.png" class="diversity" alt="Unicorn - 1st Job">
+                <img src="img/diversity/unicorn_1stjob.jpg" class="diversity" alt="Unicorn - 1st Job">
             </div>
             <div class="col-md-6 col-xs-12">
                 <h3>1st job</h3>
@@ -253,7 +253,7 @@
         <!-- Unicorn - 1st promotion -->
         <div class="row">
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_1stpromotion.png" class="diversity" alt="Unicorn - 1st Promotion">
+                <img src="img/diversity/unicorn_1stpromotion.jpg" class="diversity" alt="Unicorn - 1st Promotion">
             </div>
             <div class="col-md-6 col-xs-12">
                 <h3>1st promotion</h3>
@@ -267,7 +267,7 @@
         <!-- Unicorn - changing Jobs with 32 -->
         <div class="row">
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_changingjobs.png" class="diversity" alt="Unicorn - Changing Jobs with 32">
+                <img src="img/diversity/unicorn_changingjobs.jpg" class="diversity" alt="Unicorn - Changing Jobs with 32">
             </div>
             <div class="col-md-6 col-xs-12">
                 <h3>Changing Jobs with 32</h3>
@@ -284,7 +284,7 @@
         <!-- Unicorn - Returning after maternity leave -->
         <div class="row">
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_maternityleave.png" class="diversity" alt="Unicorn - Returning after maternity leave">
+                <img src="img/diversity/unicorn_maternityleave.jpg" class="diversity" alt="Unicorn - Returning after maternity leave">
             </div>
             <div class="col-md-6 col-xs-12">
                 <h3>Returning after maternity leave</h3>
@@ -301,7 +301,7 @@
         <!-- Unicorn - 1st executive position -->
         <div class="row">
             <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_1stexecposition.png" class="diversity" alt="Unicorn - 1st executive position">
+                <img src="img/diversity/unicorn_1stexecposition.jpg" class="diversity" alt="Unicorn - 1st executive position">
             </div>
             <div class="col-md-6 col-xs-12">
                 <h3>1st executive position</h3>
@@ -322,7 +322,7 @@
                 <h2>Conclusion</h2>
             </div>
             <div class="col-md-6 col-md-offset-3 col-xs-12">
-                <img src="img/diversity/conclusion.png" class="diversity" alt="conclusion">
+                <img src="img/diversity/conclusion.jpg" class="diversity" alt="conclusion">
             </div>
 
             <div class="col-xs-12">
