@@ -15,12 +15,13 @@
         <a href="portfolio.html">
             <div class="wedo-project" id="portfolio">
                 <div class="projectImage">
-                    <img src="img/businessplan_light.png" alt=""/>
+                    <img src="img/thumbnail-btb-visualisierungen.png" alt=""/>
                 </div>
                 <h3>Visualisierungen BtB</h3>
                 <p>Verschiedene Arten von Visualisierungen zu Break the Box.</p>
             </div>
         </a>
+
         <!-- Does diversity really matter -->
         <a href="diversity.html">
             <div class="wedo-project" id="diversity">
@@ -29,6 +30,17 @@
                 </div>
                 <h3>Does diversity really matter</h3>
                 <p>Visuelle Reise durch die Diversität - ein Vortrag von We Shape Tech an den Voxxed Days Zürich.</p>
+            </div>
+        </a>
+
+        <!-- 30 Jahre IMS AG -->
+        <a href="ims.html">
+            <div class="wedo-project" id="ims">
+                <div class="projectImage">
+                    <img src="img/ims_splash.jpg" alt=""/>
+                </div>
+                <h3>Jubiläumsvideo</h3>
+                <p>Zum Firmenjubiläum der IMS AG: 30 Jahre als Erklärvideo Revue passieren lassen.</p>
             </div>
         </a>
 
