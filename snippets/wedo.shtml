@@ -15,7 +15,7 @@
         <a href="portfolio.html">
             <div class="wedo-project" id="portfolio">
                 <div class="projectImage">
-                    <img src="img/thumbnail-btb-visualisierungen.png" alt=""/>
+                    <img src="img/thumbnail-btb-visualisierungen.jpg" alt=""/>
                 </div>
                 <h3>Visualisierungen BtB</h3>
                 <p>Verschiedene Arten von Visualisierungen zu Break the Box.</p>
@@ -26,7 +26,7 @@
         <a href="diversity.html">
             <div class="wedo-project" id="diversity">
                 <div class="projectImage">
-                    <img src="img/diversity/title.png" alt=""/>
+                    <img src="img/diversity/title.jpg" alt=""/>
                 </div>
                 <h3>Does diversity really matter</h3>
                 <p>Visuelle Reise durch die Diversität - ein Vortrag von We Shape Tech an den Voxxed Days Zürich.</p>
