@@ -22,6 +22,17 @@
             </div>
         </a>
 
+        <!-- BLS Mobil -->
+        <a href="blsmobil.html">
+            <div class="wedo-project" id="blsmobil">
+                <div class="projectImage">
+                    <img src="img/thumbnail_blsmobil.jpg" alt=""/>
+                </div>
+                <h3>BLS Mobil</h3>
+                <p>Die neue, unkonventionelle Fahrplan- und Ticketapp: Begleitet von der Produktidee bis zum Release.</p>
+            </div>
+        </a>
+
         <!-- Does diversity really matter -->
         <a href="diversity.html">
             <div class="wedo-project" id="diversity">
