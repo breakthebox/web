@@ -752,6 +752,63 @@ div.youget-card:hover {
   height: 30em!important;
 }
 
+.detailImage figure{
+  display:block;
+  border:0;
+  margin-left: 0;
+  margin-right:0;
+  margin-bottom:0;
+}
+
+.detailImage figure img{
+  margin-top:0;
+  margin-bottom:0;
+}
+
+.detailImage figure figcaption{
+  float:right;
+}
+
+figure{
+  display:inline-block;
+  border:1px solid $bg-medium;
+  padding: 0!important;
+  margin-left:1em;
+  margin-right:1em;
+  margin-bottom:0.5em;
+}
+
+figure.right{
+  float:right;
+  margin-right:0;
+}
+
+figure.left{
+  float:left;
+  margin-left:0;
+}
+
+
+figure img{
+  width:100%;
+  margin:0;
+  padding:0;
+}
+
+figure.center img{
+  width:80%;
+}
+
+figcaption{
+font-style: italic;
+  padding:0.5em;
+text-align: left;
+  font-size:0.9em;
+}
+
+.article p{
+  margin-top: 2em;
+}
 
 /**
  * --- Diversity
@@ -769,5 +826,3 @@ div.youget-card:hover {
     width: 25%;
   }
  }
-
-
