@@ -13,7 +13,7 @@
 
         <!-- Portfolio Visualisierungen Break the Box -->
         <a href="portfolio.html">
-            <div class="wedo-project" id="portfolio">
+            <div class="wedo-project" id="portfolio" >
                 <div class="projectImage">
                     <img src="img/thumbnail-btb-visualisierungen.jpg" alt=""/>
                 </div>
@@ -22,39 +22,18 @@
             </div>
         </a>
 
-        <!-- Does diversity really matter -->
-        <a href="diversity.html">
-            <div class="wedo-project" id="diversity">
-                <div class="projectImage">
-                    <img src="img/diversity/title.jpg" alt=""/>
-                </div>
-                <h3>Does diversity really matter</h3>
-                <p>Visuelle Reise durch die Diversität - ein Vortrag von We Shape Tech an den Voxxed Days Zürich.</p>
-            </div>
-        </a>
-
         <!-- 30 Jahre IMS AG -->
         <a href="ims.html">
             <div class="wedo-project" id="ims">
                 <div class="projectImage">
-                    <img src="img/ims_splash.jpg" alt=""/>
+                    <img src="img/ims_thumbnail.jpg" alt=""/>
                 </div>
                 <h3>Jubiläumsvideo</h3>
                 <p>Zum Firmenjubiläum der IMS AG: 30 Jahre als Erklärvideo Revue passieren lassen.</p>
             </div>
         </a>
 
-
-        <!-- Projekt myCV -->
-        <a href="http://mycv.breakthebox.ch" target="_blank">
-            <div class="wedo-project" id="portfolio">
-                <div class="projectImage">
-                    <img src="img/mycv.png" alt=""/>
-                </div>
-                <h3>myCV</h3>
-                <p>Generierte Visualisierungen basierend auf deinem LinkedIn Profil.</p>
-            </div>
-        </a>
+        
         <!--  Creative-C Tagcloud -->
         <a href="tagcloud">
             <div class="wedo-project" id="tagcloud">
@@ -68,6 +47,19 @@
                 </p>
             </div>
         </a>
+
+
+        <!-- Does diversity really matter -->
+        <a href="diversity.html">
+            <div class="wedo-project" id="diversity">
+                <div class="projectImage">
+                    <img src="img/diversity/thumbnail.jpg" alt=""/>
+                </div>
+                <h3>Does diversity really matter</h3>
+                <p>Visuelle Reise durch die Diversität - ein Vortrag von We Shape Tech an den Voxxed Days Zürich.</p>
+            </div>
+        </a>
+
 
         <!-- Erklärvideo How to make coffee -->
         <a href="coffee.html">
@@ -104,7 +96,7 @@
             </div>
         </a>
 
-        <!-- Whiteboard -->
+        <!-- Washingmashine -->
         <a href="washingmachine.html">
             <div class="wedo-project" id="washingmachine">
                 <div class="projectImage" style="background-color: #757e86; text-align:right;">
@@ -115,6 +107,20 @@
                 </p>
             </div>
         </a>
+
+
+        <!-- Sternzeichen -->
+        <a href="sternzeichen.html">
+            <div class="wedo-project" id="sternzeichen">
+                <div class="projectImage">
+                    <img src="img/sternzeichen/thumbnail.jpg" alt=""/>
+                </div>
+                <h3>Digitalisierung im Atelier</h3>
+                <p>Interdisziplinäre Arbeit von Break the Box und Goldschmied-Atelier führt zu Geschenken... 
+                </p>
+            </div>
+        </a>
+
         <!-- Prototyping Robot -->
         <a href="robot.html">
             <div class="wedo-project" id="robot">
@@ -129,5 +135,19 @@
                 </p>
             </div>
         </a>
+
+
+
+        <!-- Projekt myCV -->
+        <a href="http://mycv.breakthebox.ch" target="_blank">
+            <div class="wedo-project" id="portfolio">
+                <div class="projectImage">
+                    <img src="img/mycv_thumbnail.jpg" alt=""/>
+                </div>
+                <h3>myCV</h3>
+                <p>Generierte Visualisierungen basierend auf deinem LinkedIn Profil.</p>
+            </div>
+        </a>
+
     </div>
 </div>

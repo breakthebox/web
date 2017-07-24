@@ -57,6 +57,11 @@
             <img src="img/customers/logo_bls.png" alt=""/>
         </div>
 
+        <div class="customer">
+            <span class="helper"></span>
+            <img src="img/customers/logo_creative-c.jpg" alt=""/>
+        </div>
+
         <!--
         <div class="customer">
             <span class="helper"></span>
