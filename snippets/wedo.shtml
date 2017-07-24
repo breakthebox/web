@@ -22,6 +22,17 @@
             </div>
         </a>
 
+        <!-- BLS Mobil -->
+        <a href="blsmobil.html">
+            <div class="wedo-project" id="blsmobil">
+                <div class="projectImage">
+                    <img src="img/thumbnail_blsmobil.jpg" alt=""/>
+                </div>
+                <h3>BLS Mobil</h3>
+                <p>Die neue, unkonventionelle Fahrplan- und Ticketapp: Begleitet von der Produktidee bis zum Release.</p>
+            </div>
+        </a>
+
         <!-- 30 Jahre IMS AG -->
         <a href="ims.html">
             <div class="wedo-project" id="ims">
@@ -32,6 +43,19 @@
                 <p>Zum Firmenjubiläum der IMS AG: 30 Jahre als Erklärvideo Revue passieren lassen.</p>
             </div>
         </a>
+
+
+        <!-- Does diversity really matter -->
+        <a href="diversity.html">
+            <div class="wedo-project" id="diversity">
+                <div class="projectImage">
+                    <img src="img/diversity/thumbnail.jpg" alt=""/>
+                </div>
+                <h3>Does diversity really matter</h3>
+                <p>Visuelle Reise durch die Diversität - ein Vortrag von We Shape Tech an den Voxxed Days Zürich.</p>
+            </div>
+        </a>
+
 
         
         <!--  Creative-C Tagcloud -->
@@ -45,18 +69,6 @@
                     Mobile App für die Herstellung von personalisierten Fingerringen mit einer Tagcloud aus eigens
                     definierten Wörtern.
                 </p>
-            </div>
-        </a>
-
-
-        <!-- Does diversity really matter -->
-        <a href="diversity.html">
-            <div class="wedo-project" id="diversity">
-                <div class="projectImage">
-                    <img src="img/diversity/thumbnail.jpg" alt=""/>
-                </div>
-                <h3>Does diversity really matter</h3>
-                <p>Visuelle Reise durch die Diversität - ein Vortrag von We Shape Tech an den Voxxed Days Zürich.</p>
             </div>
         </a>
 
@@ -96,18 +108,6 @@
             </div>
         </a>
 
-        <!-- Washingmashine -->
-        <a href="washingmachine.html">
-            <div class="wedo-project" id="washingmachine">
-                <div class="projectImage" style="background-color: #757e86; text-align:right;">
-                    <img src="img/washingmachine_kl.jpg" alt=""/>
-                </div>
-                <h3>Chattende Waschmaschine</h3>
-                <p>Mit einfachen Mitteln und Prototypen Ideen testen - z.B. eine alte Waschmaschine chatfähig machen...
-                </p>
-            </div>
-        </a>
-
 
         <!-- Sternzeichen -->
         <a href="sternzeichen.html">
@@ -120,6 +120,20 @@
                 </p>
             </div>
         </a>
+
+        
+        <!-- Washingmashine -->
+        <a href="washingmachine.html">
+            <div class="wedo-project" id="washingmachine">
+                <div class="projectImage" style="background-color: #757e86; text-align:right;">
+                    <img src="img/washingmachine_kl.jpg" alt=""/>
+                </div>
+                <h3>Chattende Waschmaschine</h3>
+                <p>Mit einfachen Mitteln und Prototypen Ideen testen - z.B. eine alte Waschmaschine chatfähig machen...
+                </p>
+            </div>
+        </a>
+
 
         <!-- Prototyping Robot -->
         <a href="robot.html">
