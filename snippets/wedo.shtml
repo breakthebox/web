@@ -123,13 +123,13 @@
 
         
         <!-- Washingmashine -->
-        <a href="washingmachine.html">
-            <div class="wedo-project" id="washingmachine">
+        <a href="iot_overview.html">
+            <div class="wedo-project" id="iot">
                 <div class="projectImage" style="background-color: #757e86; text-align:right;">
-                    <img src="img/washingmachine_kl.jpg" alt=""/>
+                    <img src="img/iot/thumbnail.jpg" alt=""/>
                 </div>
-                <h3>Chattende Waschmaschine</h3>
-                <p>Mit einfachen Mitteln und Prototypen Ideen testen - z.B. eine alte Waschmaschine chatfähig machen...
+                <h3>Internet of Things</h3>
+                <p>Experimente mit dem Internet of Things. Von chattenden Waschmaschinen bis smarten Kühlboxen.
                 </p>
             </div>
         </a>
