@@ -579,6 +579,92 @@ div.youget-card:hover {
   .wedo-project {
     height: 12em;
     width: 15.7em; } }
+/** Personas */
+.flip-container {
+  -webkit-perspective: 1000;
+  -moz-perspective: 1000;
+  -ms-perspective: 1000;
+  -o-perspective: 1000;
+  perspective: 1000;
+  width: 25%; }
+
+.flip-container:hover .flipper,
+.flip-container.hover .flipper {
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  transform: rotateY(180deg); }
+
+.flip-container:after {
+  content: "";
+  display: block;
+  padding-top: 125%; }
+
+@media (min-width: 1200px) {
+  .back {
+    font-size: 0.8em; } }
+@media (max-width: 1199px) {
+  .flip-container {
+    width: 33%; }
+
+  .back {
+    font-size: 1em; } }
+@media (max-width: 991px) {
+  .flip-container {
+    width: 50%; }
+
+  .back {
+    font-size: 1em; } }
+@media (max-width: 767px) {
+  .flip-container {
+    width: 100%; }
+
+  .back {
+    font-size: 1.2em; } }
+.flipper {
+  -webkit-transition: 0.6s;
+  -webkit-transform-style: preserve-3d;
+  -moz-transition: 0.6s;
+  -moz-transform-style: preserve-3d;
+  -ms-transition: 0.6s;
+  -ms-transform-style: preserve-3d;
+  -o-transition: 0.6s;
+  -o-transform-style: preserve-3d;
+  transition: 0.6s;
+  transform-style: preserve-3d;
+  position: relative; }
+
+.front, .back {
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: absolute;
+  transform: rotateX(0deg);
+  /* firefox fix */
+  width: 100%; }
+
+.front {
+  z-index: 2; }
+
+.back {
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+  font-family: 'HaveaGreatDay', 'LatoLatinWeb';
+  text-transform: uppercase;
+  padding: 10%;
+  background: url("/img/wedo/personas/empty.svg") no-repeat;
+  background-size: 100% auto;
+  height: 100vh; }
+
+.persona-img {
+  width: 100%; }
+
 /**
  * --- CUSTOMERS
  */

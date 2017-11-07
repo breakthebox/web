@@ -13,6 +13,32 @@
 
 <link rel="stylesheet" href="font/LatoLatin/latolatinfonts.css">
 <link rel="stylesheet" href="style/breakthebox.css">
+
+<!--
+/**
+ * @license
+ * MyFonts Webfont Build ID 3475328, 2017-10-31T05:21:33-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: HaveaGreatDay by Runes & Fonts
+ * URL: https://www.myfonts.com/fonts/myhandwritings/have-a-great-day/regular/
+ * Copyright: Copyright (c) 2015 by Roland H&#x00FC;se. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3475328
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+-->
+<link rel="stylesheet" type="text/css" href="font/HaveAGreatDay/MyFontsWebfontsKit.css">
+
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
