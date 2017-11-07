@@ -1000,6 +1000,8 @@ img.diversity {
   margin: .2em; }
 
 .poster_thumbnail {
+  width: 100%;
+  margin: .2em;
   text-align: center; }
   .poster_thumbnail img {
     width: 25%; }
