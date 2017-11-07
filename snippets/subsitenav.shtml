@@ -1,7 +1,7 @@
 <nav class="navbar navbar-scrolled navbar-default navbar-fixed-top bg-dark" id="nav">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a href="index.html"><div class="navbar-brand" href="#"><img src="img/logo_landscape_bright.png"/></div></a>
+            <a href="index.html"><div class="navbar-brand" href="#"><img src="img/logo_landscape_bright.svg"/></div></a>
         </div>
     </div>
     <hr/>

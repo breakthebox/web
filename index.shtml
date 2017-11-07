@@ -16,7 +16,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <div class="navbar-brand"><a href="#"><img src="img/logo_landscape_bright.png" alt=""></a></div>
+            <div class="navbar-brand"><a href="#"><img src="img/logo_landscape_bright.svg" alt=""></a></div>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
