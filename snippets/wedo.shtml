@@ -15,7 +15,7 @@
         <a href="portfolio.html">
             <div class="wedo-project" id="portfolio" >
                 <div class="projectImage">
-                    <img src="img/thumbnail-btb-visualisierungen.jpg" alt=""/>
+                    <img src="img/wedo/visualisierungen/thumbnail.jpg" alt=""/>
                 </div>
                 <h3>Visualisierungen BtB</h3>
                 <p>Verschiedene Arten von Visualisierungen zu Break the Box.</p>
@@ -30,6 +30,18 @@
                 </div>
                 <h3>BLS Mobil</h3>
                 <p>Die neue, unkonventionelle Fahrplan- und Ticketapp: Begleitet von der Produktidee bis zum Release.</p>
+            </div>
+        </a>
+
+        
+        <!-- Personas -->
+        <a href="personas.html">
+            <div class="wedo-project" id="portfolio" >
+                <div class="projectImage">
+                    <img src="img/wedo/personas/thumbnail.svg" alt=""/>
+                </div>
+                <h3>Personas für Workshops</h3>
+                <p>Entwickelte Personas für Requirements Engineering Workshops.</p>
             </div>
         </a>
 
