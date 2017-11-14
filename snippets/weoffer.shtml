@@ -24,8 +24,8 @@
     <div class="discipline" id="discipline0">
 
         <div class="icon active" id="icon0">
-            <img class="img-circle weoffer-img" src="img/re_web.svg" alt="Requirements Engineering" onclick="setOffering(0);">
-            <img class="img-circle weoffer-img-font" src="img/re_web_font.svg" alt="" onclick="setOffering(0);">
+            <img class="img-circle weoffer-img" src="img/weoffer/re_web.svg" alt="Requirements Engineering" onclick="setOffering(0);">
+            <img class="img-circle weoffer-img-font" src="img/weoffer/re_web_font.svg" alt="" onclick="setOffering(0);">
         </div>
 
         <div class="description active" id="description0">
@@ -35,7 +35,7 @@
             </p>
 
             <p>
-                Wir unterstützen Sie dabei mit unserer mehrjährigen Erfahrung aus verschiedenen Branchen und können Sie so optimal unterstützen. Wir ermitteln, validieren, dokumentieren und verwalten Anforderungen an ihre Lösungen durch den Einsatz geeigneter Mittel unter Einbezug der richtigen Interessengruppen.
+                Wir unterstützen Sie dabei mit unserer mehrjährigen Erfahrung aus verschiedenen Branchen. Wir ermitteln, validieren, dokumentieren und verwalten Anforderungen an ihre Lösungen durch den Einsatz geeigneter Mittel unter Einbezug der richtigen Interessengruppen.
             </p>
 
             <p>
@@ -54,14 +54,14 @@
     </div>
 
     <div class="arrow" id="arrow0">
-        <img class="img-arrow" src="img/re2vf.svg" alt="">
+        <img class="img-arrow" src="img/weoffer/re2vf.svg" alt="">
     </div>
 
-    <!-- Prototyping -->
+    <!-- Prototyping 
     <div class="discipline" id="discipline2">
         <div class="icon" id="icon2">
-            <img class="img-circle weoffer-img" src="img/proto_web.svg" alt="Prototyping" onclick="setOffering(2);">
-            <img class="img-circle weoffer-img-font" src="img/proto_web_font.svg" alt="" onclick="setOffering(2);">
+            <img class="img-circle weoffer-img" src="img/weoffer/proto_web.svg" alt="Prototyping" onclick="setOffering(2);">
+            <img class="img-circle weoffer-img-font" src="img/weoffer/proto_web_font.svg" alt="" onclick="setOffering(2);">
         </div>
 
         <div class="description" id="description2">
@@ -86,16 +86,44 @@
             </a>
         </div>
     </div>
+    --> 
+    
+    <!-- Product Owner -->
+    <div class="discipline" id="discipline2">
+        <div class="icon" id="icon2">
+            <img class="img-circle weoffer-img" src="img/weoffer/po_web.svg" alt="Product Owner" onclick="setOffering(2);">
+            <img class="img-circle weoffer-img-font" src="img/weoffer/po_web_font.svg" alt="" onclick="setOffering(2);">
+        </div>
+
+        <div class="description" id="description2">
+            <h2>Product Owner (PO) oder Projektleiter</h2>
+            <p>
+                Vor und während der Umsetzung von IT Projekten unterstützen wir Sie in der Rolle des Product Owners oder Projektleiters. In dieser Rolle stellen wir die erfolgreiche Umsetzung des Projektes sicher und behalten den Fokus auf das Endprodukt. 
+            </p>
+            <p>
+                Durch eine regelmässige und sinnvolle Priorisierung und Überprüfung des Product Backlogs stellen wir sicher, dass das Entwicklungsteam jederzeit qualitativ gute und ausreichend User Stories zur Umsetzung hat. Zudem stehen wir dem Entwicklerteam für Fragen zur Verfügung. 
+            </p>
+
+            <a class="left carousel-control" onclick="previousOffering()" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" onclick="nextOffering()"  role="button">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
 
     <div class="arrow" id="arrow1">
-        <img class="img-arrow" src="img/vf2pt.svg" alt="">
+        <img class="img-arrow" src="img/weoffer/vf2pt.svg" alt="">
     </div>
 
     <!-- Visual Facilitation -->
     <div class="discipline" id="discipline1">
         <div class="icon" id="icon1">
-            <img class="img-circle weoffer-img" src="img/vf_web.svg" alt="Visual Facilitation" onclick="setOffering(1);">
-            <img class="img-circle weoffer-img-font" src="img/vf_web_font.svg" alt="" onclick="setOffering(1);">
+            <img class="img-circle weoffer-img" src="img/weoffer/vf_web.svg" alt="Visual Facilitation" onclick="setOffering(1);">
+            <img class="img-circle weoffer-img-font" src="img/weoffer/vf_web_font.svg" alt="" onclick="setOffering(1);">
         </div>
 
         <div class="description" id="description1">
@@ -104,14 +132,9 @@
                 Durch den geeigneten Einsatz von Illustrationen und Visualisierungen können komplexe Sachverhalte einfacher erklärt und kommuniziert werden.
             </p>
             <p>
-                Wir erarbeiten mit Ihnen zusammen Visualisierungen aller Art (z.B. als VideoScribes, Sketches, Whiteboard Videos, Erklärvideos, etc.) mit dem Ziel ein gemeinsames Verständnis zu erlangen und zukunftsträchtige Lösungen zu entwickeln. 
+                Wir erarbeiten mit Ihnen zusammen Visualisierungen aller Art (z.B. als VideoScribes, Infografiken, Sketches, Whiteboard Videos, Erklärvideos, etc.) mit dem Ziel ein gemeinsames Verständnis zu erlangen und zukunftsträchtige Lösungen zu entwickeln. 
                 Die erstellten Visualisierungen können sowohl für die interne wie auch für die externe Kommunikation verwendet werden um Interesse und Begeisterung für Ihre Vorhaben zu wecken.
             </p>
-            <!--
-            <p>
-                Erfahren Sie mehr über unser Visualisierungsangebot und lassen sie sich selbst <a href="http://www.visualfacilitation.ch" target="_blank">inspierieren</a>.
-            </p>
-            -->
 
             <a class="left carousel-control" onclick="previousOffering()" role="button" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -125,7 +148,7 @@
     </div>
 
     <div class="arrow" id="arrow2">
-        <img class="img-arrow" src="img/pt2re.svg" alt="">
+        <img class="img-arrow" src="img/weoffer/pt2re.svg" alt="">
     </div>
 
 </div>

@@ -4,6 +4,12 @@
     <title>Break the Box - Personas</title>
 
     <!--#include virtual="/snippets/headerforarticles.shtml" -->
+
+    <!-- don't flip in IE Browsers. It doesn't work anyway... -->
+    <!--[if !IE]><!--> 
+    <link rel="stylesheet" type="text/css" href="style/flip.css">
+    <!--<![endif]-->
+
     <meta property="og:type" content="website">
 
     <meta name="description" content="" />
@@ -47,7 +53,7 @@
             <div class="row">
 
                 <!-- Tina -->
-                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12" ontouchstart="this.classList.toggle('hover');">
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
                     <div class="flipper">
                         <div class="front">
                             <img class="persona-img" src="img/wedo/personas/Tina.svg" alt="Tina">
@@ -70,7 +76,7 @@
                 </div>
 
                 <!-- Max -->
-                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12" ontouchstart="this.classList.toggle('hover');">
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
                     <div class="flipper">
                         <div class="front">
                             <img class="persona-img" src="img/wedo/personas/Max.svg" alt="Max">
@@ -93,7 +99,7 @@
                 </div>
 
                 <!-- Nicole -->
-                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12" ontouchstart="this.classList.toggle('hover');">
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
                     <div class="flipper">
                         <div class="front">
                             <img class="persona-img" src="img/wedo/personas/Nicole.svg" alt="Nicole">
@@ -116,7 +122,7 @@
                 </div>
 
                 <!-- Tom -->
-                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12" ontouchstart="this.classList.toggle('hover');">
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
                     <div class="flipper">
                         <div class="front">
                             <img class="persona-img" src="img/wedo/personas/Tom.svg" alt="Tom">
@@ -140,7 +146,7 @@
 
 
                 <!-- Barbara -->
-                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12" ontouchstart="this.classList.toggle('hover');">
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
                     <div class="flipper">
                         <div class="front">
                             <img class="persona-img" src="img/wedo/personas/Barbara.svg" alt="Barbara">
@@ -163,7 +169,7 @@
                 </div>
 
                 <!-- Bruno -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12" ontouchstart="this.classList.toggle('hover');">
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
                     <div class="flipper">
                         <div class="front">
                             <img class="persona-img" src="img/wedo/personas/Bruno.svg" alt="Bruno">
@@ -186,7 +192,7 @@
                 </div>
 
                 <!-- Susi -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12" ontouchstart="this.classList.toggle('hover');">
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
                     <div class="flipper">
                         <div class="front">
                             <img class="persona-img" src="img/wedo/personas/Susi.svg" alt="Susi">
@@ -210,7 +216,7 @@
                 </div>
 
                 <!-- Fritz -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12" ontouchstart="this.classList.toggle('hover');">
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
                     <div class="flipper">
                         <div class="front">
                             <img class="persona-img" src="img/wedo/personas/Fritz.svg" alt="Fritz">

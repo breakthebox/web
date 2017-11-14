@@ -684,13 +684,14 @@ div.youget-card:hover {
   width: 25%;
 }
 
-.flip-container:hover .flipper,  
-.flip-container.hover .flipper {
-  -webkit-transform: rotateY(180deg);
-  -moz-transform: rotateY(180deg);
-  -ms-transform: rotateY(180deg);
-  -o-transform: rotateY(180deg);
-  transform: rotateY(180deg);
+.flip-container {
+  -webkit-perspective: 1000;
+  -moz-perspective: 1000;
+  -ms-perspective: 1000;
+  -o-perspective: 1000;
+  perspective: 1000;
+
+  width: 25%;
 }
 
 .flip-container:after {
