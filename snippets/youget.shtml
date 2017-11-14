@@ -28,9 +28,10 @@
 
             <ul class="youget-csvlist enumeration">
                 <li><label>Visual Facilitator</label></li>
-                <li><label>Digitaler Transformator</label></li>
                 <li><label>Requirements Engineer</label></li>
                 <li><label>Scrum Product Owner</label></li>
+                <li><label>Business Analyst</label></li>
+                <li><label>Projektleiter</label></li>
             </ul>
 
             <p><a href="mailto:info@breakthebox.ch">Kontaktieren Sie uns</a> für konkrete Anfragen.</p>
@@ -53,7 +54,6 @@
             <ul class="youget-csvlist enumeration">
                 <li><label>Workshops</label></li>
                 <li><label>Schulungen (technisch oder methodisch)</label></li>
-                <li><label>Events (Vorträge, Hackdays, Podiumsdiskussionen, ...)</label></li>
             </ul>
 
             <p><a href="mailto:info@breakthebox.ch">Kontaktieren</a>
@@ -74,7 +74,8 @@
             <ul class="youget-csvlist enumeration">
                 <li><label>Visualisierungen &amp; Erklärvideos</label></li>
                 <li><label>Bedürfnisanalysen</label></li>
-                <li><label>Prototypen inkl. Testing</label></li>
+                <li><label>Konzepte</label></li>
+                <li><label>Prototypen</label></li>
             </ul>
             <p>
             und vieles mehr.
