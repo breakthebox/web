@@ -6,4 +6,11 @@
   -o-transform: rotateY(180deg);
   transform: rotateY(180deg); }
 
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  /* IE10+ CSS styles go here */
+  /* don't flip cards in IE. it doesn't work anyways... */
+  .flip-container:hover .flipper,
+  .flip-container.hover .flipper {
+    transform: rotateY(0deg) !important; } }
+
 /*# sourceMappingURL=flip.css.map */
