@@ -51,6 +51,38 @@
         </div>
     </div>
 
+    <!-- Bierdeckel -->
+    <div class="bg-light">
+        <a name="bierdeckel"></a>
+        <div class="container">
+
+            <h2>Bierdeckel</h2>
+            <p style="text-align:right;margin-bottom: 1em; font-style: italic">12. Dezember 2017</p>
+
+            <div class="col-md-12">
+                <p>
+                    <b>Als diesjähriges Kundengeschenk haben wir bei Break the Box Bierdeckel drucken lassen - mit unserem Logo als Vorderseite und dem Portfolio als Rückseite.</b>
+                </p>
+
+                <p>
+                    Möchtest du ein paar Bierdeckel haben? Bei dir zuhause? In deiner Lieblings-Bar? <a href="mailto:brigitte@breakthebox.ch">Lass es mich wissen</a>.
+                </p>
+            </div>
+
+            <div class="col-md-8 col-md-offset-2">
+
+                <div class="col-md-6">
+                    <img src="img/wedo/visualisierungen/bierdeckel_front.png" alt="Bierdeckel - Front" style="width:100%">
+                </div>
+                <div class="col-md-6">
+                    <img src="img/wedo/visualisierungen/bierdeckel_back.png" alt="Bierdeckel - Back"  style="width:100%">
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
     <!-- Breaking News -->
     <div class="bg-light">
         <a name="breakingnews"></a>

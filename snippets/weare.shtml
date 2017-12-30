@@ -7,7 +7,7 @@
     </div>
 
     <div class="row">
-        <h1>Wir sind...</h1>
+        <!-- <h1>Wir sind...</h1> -->
     </div>
 
     <!-- Profil Brige -->
@@ -108,10 +108,10 @@
     </div>
 
 
-    <!-- Profil Oli -->
+    <!-- Profil Oli 
     <div class="row overview">
 
-        <!-- bubble right -->
+        
         <div class="cv-bubble-container clear">
             <div class="col-xs-12 col-sm-4 col-md-3 cv-avatar-container"><img class="img-circle cv-avatar"
                                                                               src="https://s.gravatar.com/avatar/7d69ac318121023d70962f81f266e7e2?s=180"
@@ -186,5 +186,7 @@
             </div>
             <div style="clear:both"></div>
         </div>
-    </div>
+    </div> -->
+
+
 </div>

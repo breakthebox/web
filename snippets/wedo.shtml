@@ -96,7 +96,7 @@
             </div>
         </a>
 
-        <!-- BTB-Time -->
+        <!-- BTB-Time
         <a href="btbtime.html">
             <div class="wedo-project" id="btbtime">
                 <div class="projectImage">
@@ -106,8 +106,9 @@
                 <p>Eine voll-integrierte Zeiterfassungslösung auf Basis von NFC-Tags.
                 </p>
             </div>
-        </a>
-        <!-- BLS Usertesting @Gurten -->
+        </a> -->
+
+        <!-- BLS Usertesting @Gurten 
         <a href="bls_gurten.html">
             <div class="wedo-project" id="bls_gurten">
                 <div class="projectImage">
@@ -118,7 +119,7 @@
                     knapp 100 Teilnehmer.
                 </p>
             </div>
-        </a>
+        </a> -->
 
 
         <!-- Sternzeichen -->
@@ -134,7 +135,7 @@
         </a>
 
         
-        <!-- Washingmashine -->
+        <!-- Washingmashine 
         <a href="iot_overview.html">
             <div class="wedo-project" id="iot">
                 <div class="projectImage" style="background-color: #757e86; text-align:right;">
@@ -144,10 +145,10 @@
                 <p>Experimente mit dem Internet of Things. Von chattenden Waschmaschinen bis smarten Kühlboxen.
                 </p>
             </div>
-        </a>
+        </a> -->
 
 
-        <!-- Prototyping Robot -->
+        <!-- Prototyping Robot 
         <a href="robot.html">
             <div class="wedo-project" id="robot">
                 <div class="projectImage">
@@ -161,6 +162,7 @@
                 </p>
             </div>
         </a>
+        -->
 
 
 

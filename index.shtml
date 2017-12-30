@@ -50,9 +50,9 @@
 
 
 <!-- WE BELIEVE -->
-<div class="bg-light">
-    <!--#include file="snippets/webelieve.shtml" -->
-</div>
+<!-- <div class="bg-light"> -->
+    <!-- <!-- #include file="snippets/webelieve.shtml" --> 
+<!-- </div> -->
 
 <!-- WE OFFER -->
 <div class="bg-blue">

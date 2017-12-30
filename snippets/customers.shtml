@@ -60,6 +60,11 @@
             <img src="img/customers/logo_adesso.svg" alt=""/>
         </div>
 
+        <div class="customer">
+            <span class="helper"></span>
+            <img src="img/customers/logo_postfinance.svg" alt=""/>
+        </div>
+
         <!--
         <div class="customer">
             <span class="helper"></span>
