@@ -13,8 +13,7 @@
             </div>
             <div class="col-md-6 phone">
                 <p>
-                    Tel. Brigitte <span itemprop="telephone">+41 76 309 20 88</span><br/>
-                    Tel. Oli <span itemprop="telephone">+41 79 481 00 84</span>
+                    Tel. <span itemprop="telephone">+41 76 309 20 88</span><br/>
                 </p>
             </div>
         </div>
@@ -37,7 +36,7 @@
 
 
         <div class="row disclaimer">
-            &copy; 2017 Copyright Break the Box GmbH. &nbsp;&dash;&nbsp;<a href="impressum.html">Impressum</a>&nbsp;&dash;&nbsp;<a
+            &copy; 2018 Copyright Break the Box GmbH. &nbsp;&dash;&nbsp;<a href="impressum.html">Impressum</a>&nbsp;&dash;&nbsp;<a
                 href="datenschutz.html">Datenschutz</a>&nbsp;&dash;&nbsp;<a
                 href="agb.html">AGB</a>
         </div>
