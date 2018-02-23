@@ -11,7 +11,12 @@
 
         <div class="customer">
             <span class="helper"></span>
-            <img src="img/customers/logo_ewb.svg" alt=""/>
+            <img src="img/customers/logo_postfinance.svg" alt=""/>
+        </div>
+
+        <div class="customer">
+            <span class="helper"></span>
+            <img src="img/customers/logo_pflab.svg" alt=""/>
         </div>
 
         <div class="customer">
@@ -62,7 +67,12 @@
 
         <div class="customer">
             <span class="helper"></span>
-            <img src="img/customers/logo_postfinance.svg" alt=""/>
+            <img src="img/customers/logo_kantonbern.svg" alt=""/>
+        </div>
+
+        <div class="customer">
+            <span class="helper"></span>
+            <img src="img/customers/logo_ewb.svg" alt=""/>
         </div>
 
         <!--
