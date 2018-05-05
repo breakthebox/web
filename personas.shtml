@@ -239,9 +239,304 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
+
+                <!-- Noemi -->
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Noemi.svg" alt="Noemi">
+                        </div>
+                        <div class="back">
+                            <h2>Noemi, 25</h2>
+                            <p>
+                                <ul>
+                                    <li>Angestellte Detailhandel</li>
+                                    <li>ledig</li>
+                                    <li>aus Biel (f)</li>
+                                </ul>
+                            </p>
+                            <p>
+                                <h3>Eigenheiten</h3>
+                                <ul>
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Leo -->
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Leo.svg" alt="Leo">
+                        </div>
+                        <div class="back">
+                            <h2>Leo, 32</h2>
+                            <p>
+                                <ul>
+                                    <li>Bierbrauer, hat eine Einzelfirma (ohne Buchhaltung)</li>
+                                    <li>verheiratet</li>
+                                    <li>aus Bern (d)</li>
+                                </ul>
+                            </p>
+                            <p>
+                                <h3>Eigenheiten</h3>
+                                <ul>
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Fridolin -->
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Fridolin.svg" alt="Fridolin">
+                        </div>
+                        <div class="back">
+                            <h2>Fridolin, 55</h2>
+                            <p>
+                                <ul>
+                                    <li>Landwirt (ohne Buchhaltung)</li>
+                                    <li>verwitwet</li>
+                                    <li>aus Zweisimmen (d)</li>
+                                </ul>
+                            </p>
+                            <p>
+                                <h3>Eigenheiten</h3>
+                                <ul>
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Jacques -->
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Jacques.svg" alt="Jacques">
+                        </div>
+                        <div class="back">
+                            <h2>Jacques, 35</h2>
+                            <p>
+                                <ul>
+                                    <li>Modeberater</li>
+                                    <li>eingetragene Partnerschft (mit Joseph)</li>
+                                    <li>aus Moosseedorf (d)</li>
+                                </ul>
+                            </p>
+                            <p>
+                                <h3>Eigenheiten</h3>
+                                <ul>
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Leonie -->
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Leonie.svg" alt="Leonie">
+                        </div>
+                        <div class="back">
+                            <h2>Leonie, 32</h2>
+                            <p>
+                                <ul>
+                                    <li>Goldschmiedin, Einzelfirma mit Buchhaltung</li>
+                                    <li>verheiratet</li>
+                                    <li>aus Thun (d)</li>
+                                </ul>
+                            </p>
+                            <p>
+                                <h3>Eigenheiten</h3>
+                                <ul>
+                                    <li>hat ein Säule 3a Vorsorge-Konto</li>
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Rosmarie -->
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Rosmarie.svg" alt="Rosmarie">
+                        </div>
+                        <div class="back">
+                            <h2>Rosmarie, 91</h2>
+                            <p>
+                                <ul>
+                                    <li>Rentnerin</li>
+                                    <li>ledig</li>
+                                    <li>aus Langnau (d)</li>
+                                </ul>
+                            </p>
+                            <p>
+                                <h3>Eigenheiten</h3>
+                                <ul>
+
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Laura -->
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Laura.svg" alt="Laura">
+                        </div>
+                        <div class="back">
+                            <h2>Laura, 35</h2>
+                            <p>
+                                <ul>
+                                    <li>Barkeeperin, angestellt</li>
+                                    <li>eingetragene Partnerschaft</li>
+                                    <li>aus Burgdorf (d)</li>
+                                </ul>
+                            </p>
+                            <p>
+                                <h3>Eigenheiten</h3>
+                                <ul>
+
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Fabienne -->
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Fabienne.svg" alt="Fabienne">
+                        </div>
+                        <div class="back">
+                            <h2>Fabienne, 28</h2>
+                            <p>
+                                <ul>
+                                    <li>System Engineer, Unternehmerin</li>
+                                    <li>verheiratet</li>
+                                    <li>aus Moutier (f)</li>
+                                </ul>
+                            </p>
+                            <p>
+                                <h3>Eigenheiten</h3>
+                                <ul>
+                                    <li>massgebliche Beteiligung (50%) an GmbH, mit Lohn (angestellt, ausserkantonal)</li>
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Ruedi -->
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Ruedi.svg" alt="Ruedi">
+                        </div>
+                        <div class="back">
+                            <h2>Ruedi, 82</h2>
+                            <p>
+                                <ul>
+                                    <li>Rentner</li>
+                                    <li>verheiratet</li>
+                                    <li>aus Trubschachen (d)</li>
+                                </ul>
+                            </p>
+                            <p>
+                                <h3>Eigenheiten</h3>
+                                <ul>
+                                    <li>massgebliche Beteiligung (50%) an GmbH, mit Lohn (angestellt, ausserkantonal)</li>
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Remo -->
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Remo.svg" alt="Remo">
+                        </div>
+                        <div class="back">
+                            <h2>Remo, 41</h2>
+                            <p>
+                                <ul>
+                                    <li>Hochbauzeichner, angestellt</li>
+                                    <li>verheiratet</li>
+                                    <li>aus Kerzers (d)</li>
+                                </ul>
+                            </p>
+                            <p>
+                                <h3>Eigenheiten</h3>
+                                
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- Simon -->
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Simon.svg" alt="Simon">
+                        </div>
+                        <div class="back">
+                            <h2>Simon, 38</h2>
+                            <p>
+                                <ul>
+                                    <li>arbeitslos</li>
+                                    <li>geschieden</li>
+                                    <li>aus Biel (f)</li>
+                                </ul>
+                            </p>
+                            <p>
+                                <h3>Eigenheiten</h3>
+                                
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Monika -->
+                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Monika.svg" alt="Monika">
+                        </div>
+                        <div class="back">
+                            <h2>Monika, 36</h2>
+                            <p>
+                                <ul>
+                                    <li>Unternehmerin</li>
+                                    <li>ledig</li>
+                                    <li>aus Bern (d)</li>
+                                </ul>
+                            </p>
+                            <p>
+                                <h3>Eigenheiten</h3>
+                                
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+            </div> <!-- ./row -->
+        </div> <!-- ./container -->
+    </div> <!-- bg-light -->
 
     <!--#include virtual="/snippets/footer.shtml" -->
     <!--#include virtual="/snippets/analytics.shtml" -->

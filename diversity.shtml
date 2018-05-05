@@ -1,395 +1,528 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns#">
 <head>
-    <title>Ist Diversität wirklich wichtig?</title>
+    <title>Does Diversity Really matter?</title>
 
     <!--#include virtual="/snippets/headerforarticles.shtml" -->
     <meta property="og:type" content="website">
 
-    <meta name="description" content="Brigitte hat für ihr Engagement bei We Shape Tech Bern als Speakerin bei den Voxxed Days Zürich 2017 teilgenommen und zum Thema Does Diversity really matter' gehalten - eine Visuelle Reise durch die Diversität." />
+    <meta name="description" content="Brigitte hat für ihr Engagement bei We Shape Tech Bern als Speakerin das Abschlussreferat an der Uphill Conf 2018 gehalten zum Thema 'Does Diversity really matter - a Visual Journey Through Diversity'." />
     <meta property="og:description"
-    content="Eine Visuelle Reise durch die Diversität." />
+    content="A Visual Journey Through Diversity" />
     <meta name="author" content="Brigitte Hulliger, Break the Box GmbH">
     <meta name="twitter:creator" content="@breakthebox_ch">
 
     <meta name="twitter:card" content="summary_large_image" />
 
-    <meta property="og:title" content="Does Diversity really Matter">
+    <meta property="og:title" content="Does Diversity Really Matter? A Visual Journey Through Diversity">
 
-    <meta property="og:site_name" content="Break the Box, We Shape Tech" />
+    <meta property="og:site_name" content="Break the Box, We Shape Tech Bern" />
 
     <meta property="og:image" content="https://www.breakthebox.ch/img/diversity/title.jpg" />
     <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:image:width" content="200" />
-    <meta property="og:image:height" content="200" />
+    <meta property="og:image:width" content="960" />
+    <meta property="og:image:height" content="540" />
 
     <meta property="og:image" content="https://www.breakthebox.ch/img/diversity/title.jpg" />
-    <meta name="twitter:image" content="https://www.breakthebox.ch/img/diversity/title.jpg">
+    <meta name="twitter:image" content="https://www.breakthebox.ch/img/diversity/twitter.jpg">
     <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:image:width" content="500" />
-    <meta property="og:image:height" content="261" />
+    <meta property="og:image:width" content="960" />
+    <meta property="og:image:height" content="540" />
 
 
-    <meta property="article:published_time" content="2017-05-01T16:00:00">
-    <meta property="article:modified_time" content="2017-05-01T16:00:00">
+    <meta property="article:published_time" content="2018-04-29T14:00:00">
+    <meta property="article:modified_time" content="2018-04-29T14:00:00">
     <meta name="keywords" content="Diversity, We Shape Tech, Diversität, Visual Journey, Visualisierung">
 
 </head>
 <body itemscope itemtype="http://schema.org/Organization" class="article">
     <!--#include virtual="/snippets/subsitenav.shtml" -->
     <div class="bg-light">
-        <div class="container" >
+        <div class="container">
 
-            <h1 style="margin-top: 2em;">Does Diversity really matter?</h1>
-            <p style="text-align:right;margin-bottom: 1em; font-style: italic">13. Juli 2017</p>
-            <div style="text-align: justify;
-            text-justify: inter-word;">
-            <p style="margin-bottom: 2em; margin-top:2em;">
-                <b>Am 23. Februar 2017 waren Brigitte und Sombra von <a href="http://www.weshape.tech" target="_blank">We Shape Tech Bern</a> als Speaker an den <a href="https://voxxeddays.com/zurich/" target="_blank">Voxxed Days Zürich</a> zu Gast mit einem Vortrag zum Thema «Does Diversity really matter?». Der Vortrag wurde als visuelle Reise durch die Diversität gestaltet, mit einer fiktiven Persona, die ihre Karriere einmal in <i>Mordor</i> durchläuft und einmal in der <i>Unicorn world</i>. Brigitte hat dazu die Visualisierungen erstellt.</b>
-            </p>
-            <p>
-                Den Talk haben die beiden in Englisch gehalten, deshalb ist nachfolgendes Transkript ebenfalls in Englisch verfasst. Das dazugehörende Poster kann aber in Deutsch oder Englisch heruntergeladen werden.
-            </p>
-
-            <!--
-            <div class="row">
-                <div class="col-xs-12 col-sm-12 detailImage"><img src="img/diversity/diversity_full_en.jpeg" alt="Does diversity really matter?"></div>
-            </div>
-        -->
-        <div class="row">
-
-            <!-- Introduction -->
-            <div class="col-md-6 col-md-offset-3 col-xs-12">
-                <img src="img/diversity/title.jpg" class="diversity" alt="Does diversity really matter?"> 
-            </div>
-
-            <div class="col-xs-12">
-                <h2>Introduction</h2>
-                <p>
-                    We both are women in tech with several years of experience. For this talk we try to make a retrospective our our last years in IT. Not everything has been as easy as you may think, but it is not that difficult either. Having been part of the gender minority for years now, the question still is «Does Diversity really matter? Or shall we just forget about this topic and accept the way it has been?»
+            <h1 style="margin-top: 2em;">Does Diversity Really Matter?</h1>
+            <p style="text-align:right;margin-bottom: 1em; font-style: italic">13. Juli 2017 / Update 29. April 2018</p>
+            <div style="text-align: justify;text-justify: inter-word;">
+                <p style="margin-bottom: 2em; margin-top:2em;">
+                    <b>Am 28. April 2018 waren Brigitte und Monika von <a href="http://www.weshape.tech" target="_blank">We Shape Tech Bern</a> als Speaker an den <a href="https://www.uphillconf.com" target="_blank">Uphill Conf</a> zu Gast mit einem Vortrag zum Thema «Does Diversity Really Matter? - A Visual Journey Through Diversity» . Der Vortrag wurde als visuelle Reise durch die Diversität gestaltet, mit einer fiktiven Persona, die ihre Karriere einmal in <i>MORDOR</i> durchläuft und einmal in der <i>UNICORN World</i>. Brigitte hat dazu die Visualisierungen erstellt.</b>
                 </p>
                 <p>
-                    Anyway, we like to share with you guys some our our favorite stories and anecdotes we came along. But remember, all names and characters are ficitious. All similarities with reality are completely intentional :-).
-                </p>
-
-                <h2>Mordor</h2>
-                <p>
-                    For example, imagine you know a woman who has been working in IT for 15 years. Just imagine. Let's call her Sarah. Completely fictional name. Let's go back to the beginning of her career, when she considered working in IT.
-                </p>
-
-            </div>
-        </div>
-
-
-
-        <!-- Mordor - Career Choice -->
-        <div class="row">
-            <div class="col-md-6 col-xs-12">
-                <h3>Career Choice</h3>
-                <p>
-                    Once upon a time Sarah came across her first tough business decision: she had to choose a carrer path. «I love Maths and figures... but I am not a nerd or a gamer, and I am not as good as a guy... Additionally, all my girlfriends think I'm weird. And... isn't it a dead end job anyway?»
-                </p>
-                <p>
-                    Contrary to all external advisors, she decided to give it a try anyway.
+                    Den Talk haben die beiden in Englisch gehalten, deshalb ist nachfolgendes Transkript ebenfalls in Englisch verfasst. Dazu gibt es das passende <a href="/img/diversity/poster.pdf" target="_blank">Poster zum Download</a>.
                 </p>
             </div>
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_careerchoice.jpg" class="diversity" alt="Mordor - Career Choice">
+
+            <!-- Carousel -->
+            <div class="col-md-8 col-md-offset-2">
+
+                  <!-- carousel -->
+                <div id="carousel-diversity" class="carousel slide" data-ride="carousel">
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active"> <!-- Introduction -->
+                            <img src="img/diversity/slide1.jpg" alt="Indtroduction"> 
+                            <h3>Introduction</h3>
+                            <p>
+                                We both are women in tech with several years of experience. For this talk we want to look back to our last years in IT. Not everything has been as easy as you may think but it wasn't that difficult either.  
+                            </p>
+                            <p>
+                                Having been part of the gender minority for years now the question still remains «Does diversity really matter? Or shall we just forget about this topic and accept it the way it has been?».
+                            </p>
+                            <p>
+                                Anyway, we'd like to share with you some of our favorite stories we came along. All names and characters are fictious - all similarities with reality are completely intentional though ;-).
+                            </p>
+
+                            <p>
+                                Imagine you know a woman who has been working in IT for 15 years. Just imagine. Let's call her Sarah. Completely fictional name. Let's go back to the beginning of her career when she considered working in IT.
+                            </p>
+                        </div>
+
+                        <div class="item"> <!-- Career Choice in Mordor -->
+                            <img src="img/diversity/slide2.jpg" alt="Career Choice in Mordor"> 
+                            <h3>Career Choice in Mordor</h3>
+                            <p>
+                                Once upon a time Sarah came across her first tough business decision: she had to choose a career path. She remebers her thoughts back in the days:
+                                <ul>
+                                    <li><i>«I love Maths an Figures»</i></li>
+                                    <li><i>«But I am not a gamer or a nerd»</i></li>
+                                    <li><i>«I'm not a guy!»</i></li>
+                                    <li><i>«I don't want my girlfriends to think that I am weird.»</i></li>
+                                    <li><i>«Isn't it a dead-end job anyway?»</i></li>
+                                    <li><i>«I heard that the work-life-balance in that field is practically inexistent»</i></li>
+                                </ul>
+                            </p>
+                        </div>
+
+                        <div class="item"> <!-- Career Choice in Mordor - some Facts -->
+                            <img src="img/diversity/slide3.jpg" alt="Career Choice in Mordor - Facts"> 
+                            <h3>Some Facts</h3>
+                            <p>
+                                According to the <a href="https://www.ncwit.org" target="_blank">National Center for Women & Information Technology (NCWIT)</a>, 57 percent of professional occupations in 2015 in the U.S. workforce was held by women but only 25% of the computing workforce was female and even worse, only 17 percent of the Fortune 500 CIO positions were held by women in 2015.
+                            </p>
+                            <p>
+                                The data in Switzerland is even worse. Only 13% of positions in the tech industry are held by women.
+                            </p>
+                        </div>
+
+                        <div class="item"> <!-- Career Choice in Mordor - some Facts 2 -->
+                            <img src="img/diversity/slide4.jpg" alt="Career Choice in Mordor - Facts 2"> 
+                            <h3>More Facts</h3>
+                            <p>
+                                According to <a href="https://www.girlswhocode.com/about-us" target="_blank">Girls who Code</a> the situation was better in 1995. The number of women computer scientists decreased in the last 20 years by 11 percent and their prediction says that it will get even worse in the future if we don't do anything about it. By the year 2027 the number will be down to 22 percent.
+                            </p>
+                        </div>
+
+                        <div class="item"> <!-- Career Choice in Unicorn - some Facts -->
+                            <img src="img/diversity/slide5.jpg" alt="Career Choice in Mordor - Facts"> 
+                            <h3>Career Choice in the Unicorn World</h3>
+                            <p>
+                                But let's go back to Sarah. How would it be in a galaxy far far away, where diversity isn't an issue anymore, where everything is possible, unicorns exist and agility actually works... ;-) How would her career choice look like there? 
+                            </p>
+                            <p>
+                                Questions about «Boys»- and «Girls»-Jobs aren't known. Getting a robot for Christmas is cool for girls, being a «Techie» as a woman isn't weird and a career choice is only a matter of passion. No stereotypes have to be considered.
+                            </p>
+                        </div>
+
+
+                        <div class="item"> <!-- Career Choice in Unicorn - some Facts -->
+                            <img src="img/diversity/slide6.jpg" alt="Career Choice in Unicorn - Facts"> 
+                            <h3>Some facts</h3>
+                            <p>
+                                How far away are we from that place and time? Is is really so unimaginable to get there some day?
+                            </p>
+                            <p>
+                                No! According to <a href="https://www.girlswhocode.com/about-us" target="_blank">Girls who Code</a> a majority (66%) of girls in the age of 6 to 12 years show an interest in computer science. So that would be a good starting point!
+                            </p>
+                            <p>
+                                Unfortunatly, almost have of them lose the interest when they get older and by the time they get to collage, only 4 percent say they are still interested in tech.
+                            </p>
+                        </div>
+
+                        <div class="item"> <!-- University in Mordor -->
+                            <img src="img/diversity/slide7.jpg" alt="1st day at university in Mordor"> 
+                            <h3>The first day at university in Mordor</h3>
+                            <p>
+                                Back in MORDOR, Sarah decided to give her career in IT a shot - contrary to all external advisors.
+                            </p>
+                            <p>
+                                On her first day at university she started hearing voices. 
+                                <ul>
+                                    <li><i>«Look, there's a girl!»</i></li>
+                                    <li><i>«what is SHE doing here?!»</i></li>
+                                    <li><i>«She must be in the wrong room...»</i></li>
+                                    <li><i>«I bet she won't make it for more than two weeks.»</i></li>
+                                </ul>
+                            </p>
+                            <p>
+                                Do you think that was just her imagination? Or is there some truth to such stories?
+                            </p>
+                        </div>
+
+                        <div class="item"> <!-- University in Mordor - some facts -->
+                            <img src="img/diversity/slide8.jpg" alt="1st day at university in Mordor - some facts"> 
+                            <h3>Some facts</h3>
+                            <p>
+                                Dice’s 2012-2013 annual salary survey found that the top five tech occupations for women and men differed significantly, with «Project Manager» as the top position for women and «Software Engineer» as the top position for men (Kawamoto, 2013).
+                            </p>
+                            <p>
+                                Source: <a href="https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf" target="_blank">NCWIT Women in Tech: The Facts 2016 Update</a> 
+                            </p>
+                            <p>
+                                Meanwhile, what do you think happenes in the Unicorn World?
+                            </p>
+                        </div>
+
+                        <div class="item"> <!-- University in the Unicorn World -->
+                            <img src="img/diversity/slide9.jpg" alt="1st day at university in the unicorn world"> 
+                            <h3>1st day at university in the unicorn world</h3>
+                            <p>
+                                In the perfect unicorn world, Sarah goes to university. There are almost the same number of girls and boys in the class. Even the professors are equally devided between men and women. 
+                            </p>
+                            <p>
+                                And the best thing is: Should Sarah miss a class someday, her absence won't be immediately noticed since she is no longer <i>the girl in class</i>.
+                            </p>
+                        </div>
+
+                        <div class="item"> <!-- University in the Unicorn World - some data -->
+                            <img src="img/diversity/slide10.jpg" alt="1st day at university in the unicorn world - some data"> 
+                            <h3>Facts</h3>
+                            <p>
+                                In Switzerland - we are knwon for talking and being slow sometimes - the number of women in STEM majors at university increased by about 4 percent in the last decade, according to the <a href="https://www.bfs.admin.ch/bfs/en/home/statistics/catalogues-databases/publications.assetdetail.2140048.html" target="_blank">Federal Statistical Office</a>
+                            </p>
+                        </div>
+
+                        <div class="item"> <!-- 1st job in Mordor -->
+                            <img src="img/diversity/slide11.jpg" alt="1st job in MORDOR"> 
+                            <h3>First Job in MORDOR</h3>
+                            <p>
+                                Meanwhile in MORDOR.
+                            </p>
+                            <p>
+                                What do you do after university? Let's find a job! There are plenty of jobs out there in IT but finding the one not searching for <i>ninjas</i> or <i>geeks</i> has taken a while for Sarah. After finding the desired position, getting the job was not that hard. After all, what company nowadays can afford not having a woman on the team... sigh... quotas... sigh...
+                            </p>
+                        </div>
+
+                        <div class="item"> <!-- 1st job in Mordor - stats -->
+                            <img src="img/diversity/slide12.jpg" alt="1st job in MORDOR - Facts"> 
+                            <h3>Facts</h3>
+                            <p>
+                                According to <a href="https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf" target="_blank">Anderson et al., 2013</a>, 76% of all women in the STEM field consider themselves as «VERY AMBITIOUS». 70% are «EAGER TO BE PROMOTED» to the next job level.
+                            </p>
+                            <p>
+                                When asked «Do you hope to be promoted or advance to the next level of your career in then ext three years?» 85 percent of women in tech say YES, only 6 percent say NO and 8.7 percent are unsure.
+                            </p>
+                            <p>
+                                When asked «Do you aspire to hold a C-Suite or senior management job someday?» 62 percent say YES, 13.6 percent say NO and 24.5 percent of women in tech are unsure.
+                            </p>
+                        </div>
+
+                        <div class="item"> <!-- 1st job in Unicorn -->
+                            <img src="img/diversity/slide13.jpg" alt="1st job in Unicorn World"> 
+                            <h3>First job in the Unicorn world</h3>
+                            <p>
+                                Back in the Unicorn world...
+                            </p>
+                            <p>
+                                After enjoying a few highly interesting and rewarding years at university Sarah starts her job hunt. There are so many appealing opportunities that she has a hard time choosing. And after (womenlead) interviews (not just HR women, but tech women) it is even harder.
+                            </p>
+
+                            <p>
+                                Once she starts her new job, finding her place in the team is not even considered a challenge. She is there because of her skills and she is measured by equal standards to her male peers. Isn't that amazing?
+                            </p>
+                        </div>
+
+
+                        <div class="item"> <!-- 1st job in Unicorn -->
+                            <img src="img/diversity/slide14.jpg" alt="1st job in Unicorn World - Facts"> 
+                            <h3>Some Data</h3>
+                            <p>
+                                According to a study by the <a href="https://ifstudies.org/blog/five-facts-about-women-and-men-in-tech" target="_blank">Institue for Family Studies IFS</a> the public does not agree with the idea the «men are better at maths and science than women». 68 percent of the public thinks men and women have equal abilities in those fields. 
+                            </p>
+                            <p>
+                                The majority of the public (86%) thinks, that men and women are equally intelligent. 
+                            </p>
+
+                            <p>
+                                When it comes to honesty, 29% of the public thinks that women are more honest than men and even more distinct are the data when it comes to organizational skills: 48% of the public thinks that women are more organized than men... 
+                            </p>
+                        </div>
+
+
+                        <div class="item"> <!-- 1st job in Unicorn -->
+                            <img src="img/diversity/slide15.jpg" alt="First promotion in MORDOR"> 
+                            <h3>First promotion in MORDOR</h3>
+                            <p>
+                                Let's see how Sarah is doing in MORDOR.
+                            </p>
+                            <p>
+                                After a few years being ignored in all promotion rounds she sees herself good enough for the next level in her career. So she goes to her boss and asks for a promotion.
+                            </p>
+
+                            <p>
+                                Be aware that - opposite to her male collegues - she has to <i>ask</i> for a promotion in order to even be considered.
+                            </p>
+                        </div>
+
+
+                        <div class="item"> <!-- Facts -->
+                            <img src="img/diversity/slide16.jpg" alt="First promotion in MORDOR"> 
+                            <h3>Facts</h3>
+                            <p>
+                                According to study by <a href="https://www.comparably.com/blog/the-gender-pay-gap-in-tech/" target="_blank">Comparably</a> young women in tech (ages 18-25) earn 29 percent less money than their male peers for exactly the same job.
+                            </p>
+                            <p>
+                                Another study done by <a href="" target="_blank">Hired</a> shows that men are offered higher salaries than women for the same job at the same company 63% of the time.
+                            </p>
+
+                            <p>
+                                Well, I would suggest: Ladies, go ask your bosses for a raise ;-)! 
+                            </p>
+                        </div>
+
+
+                        <div class="item"> <!-- Unicorn - First promotion -->
+                            <img src="img/diversity/slide17.jpg" alt="First promotion in Unicorn"> 
+                            <h3>First promotion in the Unicorn World</h3>
+                            <p>
+                                Since she fits so perfectly in her team and she as no pressure proving herself continuously Sarah can concentrate on her skills and duties from day one. Therefore she gets considered for a promotion in the first round. 
+                            </p>
+                            <p>
+                                Nobody asks «Why?». Instead everybody says «Why not?».
+                            </p>
+                        </div>
+
+
+                        <div class="item"> <!-- Unicorn - First promotion Facts -->
+                            <img src="img/diversity/slide18.jpg" alt="First promotion in Unicorn - Facts"> 
+                            <h3>Facts</h3>
+                            <p>
+                                According to <a href="https://www.themuse.com/" target="_blank">themuse.com</a> there are 187 Million women worldwide currently starting or running a business enterprise.
+                            </p>
+                            <p>
+                                Women entrepreneurs begin with about <i>1/8 of the funding</i> of male-owned ventures.
+                            </p>
+                            <p>
+                                AND: women-operated venture-backed companies have <i>12% higher revenues</i> than those operated by men.
+                            </p>
+                            <p> FANTASTIC!</p>
+                        </div>
+
+
+
+                        <div class="item"> <!-- Mordor - chanigng jobs with 32 -->
+                            <img src="img/diversity/slide19.jpg" alt="Changing Jobs with 32 in MORDOR"> 
+                            <h3>Changing Jobs with 32 in MORDOR</h3>
+                            <p>
+                                Back in the days when Sarah just turned 32 (with a big celebration) she remembered...
+                            </p>
+                            <p>
+                                Changing jobs every once in a while is considered a good thing if you are persuing your dreams. But changing your job as a 32 year old women is close to suicide... Despite the fact that companies are not supposed to ask the «pregnancy» question it is usually still the elephant in the room, where as the military career for men is still considered normal.
+                            </p>
+                            <p>
+                                <i>«Don't you want to start a f....ramework?»</i> or <i>«What's your opinion on inheritance?»</i>
+                            </p>
+                            
+                        </div>
+
+                        <div class="item"> <!-- Mordor -chanigng jobs with 32 -facts -->
+                            <img src="img/diversity/slide20.jpg" alt="Changing Jobs with 32 in MORDOR - Facts"> 
+                            <h3>Facts</h3>
+                            <p>
+                                Based on a study by <a href="https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf" target="_blank">Hewlett et al. 2008</a>, Women in SET (MINT) report experiencing significantly more pressure to put in «face time» and to be «available 24/7» than women in other sectors.
+                            </p>                            
+                        </div>
+
+                        <div class="item"> <!-- Unicorn - chanigng jobs with 32  -->
+                            <img src="img/diversity/slide21.jpg" alt="Changing Jobs with 32 in the Unicorn World"> 
+                            <h3>Changing jobs with 32 in the Unicorn World</h3>
+                            <p>
+                                By now you probably know how Sarahs Unicorn World looks like when she turns 32 right? 
+                            </p>                            
+                            <p>
+                                As in MORDOR, changing jobs every now and then is still considered a good thing. But opposite to MORDOR, there are only unicorns - no elephants. No questions about family planning, no awkward pregnancy questions, no forecast for your next 10 years are required. Only your skills and your experiences are considered - just as for men.
+                            </p>
+                            <p>
+                                Furthermore, the maternity/paternity leave is equal for men and women...
+                            </p>
+                        </div>
+
+                        <div class="item"> <!-- Unicorn - chanigng jobs with 32 - facts -->
+                            <img src="img/diversity/slide22.jpg" alt="Changing Jobs with 32 in the Unicorn World - Facts"> 
+                            <h3>Facts</h3>
+                            <p>
+                                In the 8 largest tech companies female tech positions are growing 238% faster than male equivalents.
+                            </p>                            
+                            <p>
+                                In 2014, Fortune 500 companies hat 87 female CIOs (17.4 percent) whereas in 2012 there were only 61 female CIOs. This is a growth of 43 percent.
+                            </p>
+                        </div>
+
+
+                        <div class="item"> <!-- Maternity Leave in MORDOR -->
+                            <img src="img/diversity/slide23.jpg" alt="Maternity Leave in MORDOR"> 
+                            <h3>Maternity Leave in MORDOR</h3>
+                            <p>
+                                After working for several years in cool projects and with big clients Sarah did get pregnant and she did start a family and she did enjoy a maternity leave.
+                            </p>                            
+                            <p>
+                                And after that, guess what, she did come back after only four month. The company was <i>soooooo considerate</i> with her situation at home that she only got easy projects without much responsibility because everybody knew, she would leave again anyway. And even if not <i>she is a mother now, she has other things to do...</i>
+                            </p>
+                        </div>
+
+
+                        <div class="item"> <!-- Maternity Leave in MORDOR - Facts -->
+                            <img src="img/diversity/slide24.jpg" alt="Maternity Leave in MORDOR - Facts"> 
+                            <h3>Facts</h3>
+                            <p>
+                                A study shows that 56 percent of women in tech positions leave companies in their mid-career. But the main reason is not that they start a family, but for the following reasons:
+                                <ul>
+                                    <li>30 percent leave because of <i>working conditions</i></li>
+                                    <li>27 percent because of <i>work-life-balance</i></li>
+                                    <li>22 percent because they <i>lost interest in work</i></li>
+                                    <li>17 percent because of the <i>compan environment</i></li>
+                                </ul>
+                            </p>                            
+                        </div>
+
+
+                        <div class="item"> <!-- Maternity Leave in Unicorn -->
+                            <img src="img/diversity/slide25.jpg" alt="Maternity Leave in the Unicorn World"> 
+                            <h3>Maternity Leave in the Unicorn World</h3>
+                            <p>
+                                After more-than-just-four-months maternity leave Sarah comes back to work and she restarts the work the way she left it. Do you know there are already some «Unicorn-Countries» in Europe where you can share your maternity leave with your partner?!... Incredible.
+                            </p>                            
+                            <p>
+                                After her time-out Sarah manages to work part time sharing her job with somebody else. A different personal situation but the same responsibilities. Nobody asks her if she would like to work less. Because flexibility is higher rated than presenteeism.
+                            </p>
+                        </div>
+
+
+                        <div class="item"> <!-- Maternity Leave in Unicorn - Facts -->
+                            <img src="img/diversity/slide26.jpg" alt="Maternity Leave in the Unicorn World - Facts"> 
+                            <h3>Facts</h3>
+                            <p>
+                                A study by <a href="https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf" target="_blank">Hewlett et. al, 2008</a> shows, that women who get sponsored at work, for example with a mentoring, appropriate working conditions and so on are more likely to return to work after their maternity leave. 
+                            </p>                            
+                            <p>
+                                85 percent of mothers who were sponsered at work stayed employed where as with the unsponsored women only 58 percent returned.
+                            </p>
+                        </div>
+
+
+                        <div class="item"> <!-- Leadership in MORDOR -->
+                            <img src="img/diversity/slide27.jpg" alt="Leadership in MORDOR"> 
+                            <h3>Leadership in MORDOR</h3>
+                            <p>
+                                Some years later Sarah comes to another crossroads in her career. She gets her first executive opportunity. She takes the opportunity but she knows it will - again - not be easy. After all there must be something wrong with her, she looks more like an assistant, doesn't she? <i>Hear the irony in that?</i>
+                            </p>                            
+                        </div>
+
+
+
+                        <div class="item"> <!-- Leadership in MORDOR - Facts -->
+                            <img src="img/diversity/slide28.jpg" alt="Leadership in MORDOR - Facts"> 
+                            <h3>Facts</h3>
+                            <p>
+                               According to a study from <a href="http://observer.com/2017/06/women-in-tech-statistics/" target="_blank">The Observer</a> women hold only <i>11 percent</i> of executive positions at Silicon Valley companies...
+                            </p>                            
+                        </div>
+
+                        <div class="item"> <!-- Leadership in the Unicorn World -->
+                            <img src="img/diversity/slide29.jpg" alt="Leadership in the Unicorn World"> 
+                            <h3>Leadership in the Unicorn World</h3>
+                            <p>
+                               We are getting close to the top of Sarahs career. 
+                            </p>                            
+                            <p>
+                                After years of working hard, continuous education, being a working mom, ... Sarah becomes Chief «bla bla bla I like it so much» Officer. And that's all. No questions, no pain, no weird looks... Just normal. And remember
+                            </p>
+                            <p><em>BOSSY is the new SEXY!</em></p>
+                        </div>
+
+                        <div class="item"> <!-- Leadership in the Unicorn World - Facts -->
+                            <img src="img/diversity/slide30.jpg" alt="Leadership in the Unicorn World"> 
+                            <h3>Facts</h3>
+                            <p>
+                               When asked whether being successful in a high-paying career or profession is one of the most important things or very interesting in their lives, 66 percent of young women answered YES, whereas only 59 percent of young men said yes. 
+                            </p>                            
+                            <p>
+                                SOURCE: <a href="https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf" target="_blank">NCWIT</a>
+                            </p>
+                        </div>
+
+
+                        <div class="item"> <!-- Back to reality-->
+                            <img src="img/diversity/slide31.jpg" alt="Where are we now?"> 
+                            <h3>Where are we now?</h3>
+                            <p>
+                               Back to reality... where do you think we are now? More in the MORDOR world or more in the Unicorn world?
+                            </p>                            
+                            <p>
+                                When preparing this talk we realised that it is a lot easier to remember the MORDOR moments in our lives than the UNICORN moments. But they are there as well. We think it really depends on the topic you are talking about - sometimes we are a bit more in the Unicorn world and sometimes a bit more in the MORDOR world. But we think there is still a long way to go.
+                            </p>
+                            <p>
+                                For us it is important to say, that we don't feel like victims in this world. We managed, and we still do it. We like being part of our teams and we like our peers. But what we are saying is, that it might be <i>even better</i> on a personal AND a professional basis if we had more diverse teams. 
+                            </p>
+                            <p>
+                                Furthermore it is important to notice that it is not just the gender minority we have to talk about. The same counts for ethnicity, color, religion, ... and so on.
+                            </p>
+                        </div>
+
+
+                        <div class="item"> <!-- Back to reality-->
+                            <img src="img/diversity/slide32.jpg" alt="Conclusion"> 
+                            <h3>Conclusion</h3>
+                            <p>
+                               We often hear «Diversity is not a men's problem, women are just not interested enough in tech». We disagree to a certain point - after all, we chose to be a part of the tech world ourselves and we strongly believe that it is absolutely important to include all kind of people in the development of our future, independent of gender, age, color, culture, religion, ...
+                            </p>                            
+                            <p>
+                                Altough the diversity issue has been worked on for several decades now, it is still among us. But we are all part of the problem - and the solution.
+                            </p>
+                            <p> But how can we foster diversity?</p>
+                            <p>
+                                <ul>
+                                    <li> As an individual: Be aware of the unconsious biases we all grew up with and avoid to perpetuate them.</li>
+<li>As a women in IT: Make your own work and your passion visible. Share role models and participate in initiatives about this topic.</li>
+<li>As a company: Do not only think about quotas and positive discrimination. Create a safe and suitable work environment for all your employees, giving equal opportunities. You can also support organisations and projects that foster diversity, like <a href="https://www.weshape.tech" target="_blank">We Shape Tech</a>, <a href="https://www.girlswhocode.com" target="_blank">Girls Who Code</a>, <a href="https://www.djangogirls.com" target="_blank">Django Girls</a>,... </li>
+<li>As a government: Support education initiatives to avoid biases. Develop specific programs to foster the interest of both girls and boys in technology and sciences.
+                                </ul>
+                            </p>
+                            <p>
+                                As we both said, not everything has been so bad. Actually we haven't been in Mordor in our lives. But our unicorn moments have been scarce. Let's imagine a - hopefully not so far in the future - world where everything is possible, unicorns exists and agility actually works....
+                            </p>
+                        </div>
+
+                    </div>
+
+                    <!-- Controls -->
+                    <a class="left carousel-control" href="#carousel-diversity" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#carousel-diversity" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+                <!-- ./end carousel -->
+
+
             </div>
-        </div>
-
-        <!-- Mordor - University -->
-        <div class="row">
-            <div class="col-md-6 col-xs-12">
-                <h3>University</h3>
-                <p>
-                    On the very first day of university Sarah started hearing voices: «Look, there's a girl!», «She must be in the wrong room», «I bet she won't last more than 2 weeks» and «What is <i>SHE</i> doing here?»
-                </p>
-                <p>
-                    Again: contrary to all expectations Sarah got through university <i>and</i> she even made some friends! :-D
-                </p>
-            </div>
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_university.jpg" class="diversity" alt="Mordor - University">
-            </div>
-        </div>
-
-        <!-- Mordor - 1st Job -->
-        <div class="row">
-            <div class="col-md-6 col-xs-12">
-                <h3>1st Job</h3>
-                <p>
-                    What do you do after university? - Let's find a job! (or a non-payed scholarship, or a non-payed apprenticeship or something else non-payed...)
-                </p>
-                <p>
-                    It's not that there are not plenty of open positions out there, but finding one not searching for «ninjas» or «geeks» has taken a while. After finding the desired position, getting the job was not that hard. After all, what company nowadays can afford not having a woman on a team... seufz - quotas - seufz.
-                </p>
-                <p>
-                    Sarah was aware of that fact, so she was prepared to work 150% to prove herself - and guess what? - she actually did it!
-                </p>   
-            </div>
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_1stjob.jpg" class="diversity" alt="Mordor - First Job">
-            </div>
-        </div>
-
-        <!-- Mordor - 1st Promotion -->
-        <div class="row">
-            <div class="col-md-6 col-xs-12">
-                <h3>1st Promotion</h3>
-
-                <p>
-                    After a few years being ignored in all promotion rounds, she saw herself good enough for the next level in her career. So she asked for a promotion. Be aware that - opposite to her male colleagues - she has to ASK for a promotion in order to be considered.
-                </p>  
-
-            </div>
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_1stpromotion.jpg" class="diversity" alt="Mordor - First Promotion">
-            </div>
-        </div>
-
-        <!-- Mordor - Changing Jobs with 32 -->
-        <div class="row">
-            <div class="col-md-6 col-xs-12">
-                <h3>Changing jobs with 32</h3>
-
-                <p>
-                    Changing jobs every once in a while is considered a good thing if you’re pursuing your dreams. But changing job as a 32-years old woman is close to suicide. Despite the fact that companies are not supposed to ask the «Pregnancy» question, it is usually still the elephant in the room, whereas a military career for men is still considered normal.
-                </p>
-                <p>
-                    <i>«Don't you want to start a f...ramework?»</i> or <i>«What do you think about inheritance?»</i>
-                </p>  
-                
-            </div>
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_changingjobs.jpg" class="diversity" alt="Mordor - Changing Jobs with 32">
-            </div>
-        </div>
-
-        <!-- Mordor - Returning after maternity leave -->
-        <div class="row">
-            <div class="col-md-6 col-xs-12">
-                <h3>Returning after maternity leave</h3>
-
-                <p>
-                    After working several years in cool projects and with big clients, Sarah did get pregnant, she did start a family, she did enjoy a maternity leave.
-                </p>
-                <p>
-                    And after that, guess what, she did come back after only four months, and the company was soooo considered with her situation at home that she only got easy projects without responsibility because everybody knew, she would leave again anyway. An even if not, she is a mother and has other things to do.
-                </p>
-            </div>
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_maternityleave.jpg" class="diversity" alt="Mordor - Returning after Maternity Leave">
-            </div>
-        </div>
-
-        <!-- Mordor - 1st executive position -->
-        <div class="row">
-            <div class="col-md-6 col-xs-12">
-                <h3>First executive position</h3>
-
-                <p>
-                    Some years later Sarah came to another crossroads in her career. She got her first executive opportunity. She took the opportunity but she knew it would - again - be hard to be taking seriously. Actually, the easiest way would be to become a man... Afterall there must be something wrong with her. She looks more like an assistant, doesn’t she? (hear the irony in that?)
-                </p>
-            </div>
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/mordor_1stexecposition.jpg" class="diversity" alt="Mordor - 1st executive position">
-            </div>
-        </div>
-
-        <div class="row">
-            <h2>Unicorn</h2>
-            <p>
-                But as we said, not everything has been so bad. Actually we  haven’t been in Mordor in our lives. But our unicorn moment have been scarce. Let’s imagine a - hopefully not so far in the future - world where everything is possible, unicorn exist and agility actually works.
-            </p>
-        </div>
-
-        <div class="row">
-
-            <!-- Unicorn - 1st executive position -->
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_careerchoice.jpg" class="diversity" alt="Unicorn - Career Choice">
-            </div>
-            <div class="col-md-6 col-xs-12">
-                <h3>Career Choice</h3>
-
-                <p>
-                    Let’s go back to those days when Sarah thought about the possibility of a technical career. Questions about «boys» and «girls»-jobs didn’t even came to her mind. It’s only a matter of passion without any stereotype. 
-                    <small>Are you still there? Do I see some unicorns on the back? </small>
-                </p>
-            </div>
-        </div>
-
-        <!-- Unicorn - university -->
-        <div class="row">
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_university.jpg" class="diversity" alt="Unicorn - University">
-            </div>
-            <div class="col-md-6 col-xs-12">
-                <h3>University</h3>
-
-                <p>
-                    Let’s go on. Imagine we’re back to university days. There are almost the same number of girls and boys on the class (just like in a party where everybody wants to stay). Even professors are equally divided between men and women. And the best: your absence is not immediately detected just because of your gender. You’re not longer <i>the girl of the class</i>.
-                </p>
-            </div>
-        </div>
-
-        <!-- Unicorn - 1st Job -->
-        <div class="row">
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_1stjob.jpg" class="diversity" alt="Unicorn - 1st Job">
-            </div>
-            <div class="col-md-6 col-xs-12">
-                <h3>1st job</h3>
-                <p>
-                    After enjoying a few highly interesting and rewarding years at university Sarah started her job search. There are so many appealing opportunities that she has a hard time choosing. And after womenlead interviews (not HR women but technical women) it was even harder. 
-                </p>
-                <p>
-                    Once she started in her new position finding her place in a team was not even considered a challenge, she was there because of her skill. Is that not amazing?.    
-                </p>
-            </div>
-        </div>
-
-        <!-- Unicorn - 1st promotion -->
-        <div class="row">
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_1stpromotion.jpg" class="diversity" alt="Unicorn - 1st Promotion">
-            </div>
-            <div class="col-md-6 col-xs-12">
-                <h3>1st promotion</h3>
-
-                <p>
-                    Since she fit so perfectly in her team and she had no pressure proving herself continuously, she could concentrate on her skills and duties from day one. Therefore she got considered for a promotion in the first round. Nobody asked «why?», instead everyone said «why not?». 
-                </p>
-            </div>
-        </div>
-
-        <!-- Unicorn - changing Jobs with 32 -->
-        <div class="row">
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_changingjobs.jpg" class="diversity" alt="Unicorn - Changing Jobs with 32">
-            </div>
-            <div class="col-md-6 col-xs-12">
-                <h3>Changing Jobs with 32</h3>
-
-                <p>
-                    As in Mordor, changing jobs every once in a while is still considered a good thing. But opposite to Mordor, there are only unicorns in the room - no elephants. No questions about family planning, no awkward pregnancy questions, no forecast for your next 10 years are required. Only your skills and your experiences are considered - just as for men.
-                </p>
-                <p>
-                    Furthermore, the maternity/paternity leave is equal for men and women… that means extended leaves (indifferent for the reason) are not considered a disadvantage.
-                </p>
-            </div>
-        </div>
-
-        <!-- Unicorn - Returning after maternity leave -->
-        <div class="row">
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_maternityleave.jpg" class="diversity" alt="Unicorn - Returning after maternity leave">
-            </div>
-            <div class="col-md-6 col-xs-12">
-                <h3>Returning after maternity leave</h3>
-
-                <p>
-                    After <i>more-than-just-four-months</i> maternity leave she deserves to leave her daughter... with his father. And do you know, there are already some «rainbow» countries in Europe where you can share your maternity leave with your partner. Unbelievable.  
-                </p>
-                <p>
-                    After her time-out she managed to work part time sharing job with somebody else. A different personal situation but same responsibilities. Nobody ask her if she would like to work less. Because flexibility is over presenteeism. 
-                </p>
-            </div>
-        </div>
-
-        <!-- Unicorn - 1st executive position -->
-        <div class="row">
-            <div class="col-md-6 col-xs-12">
-                <img src="img/diversity/unicorn_1stexecposition.jpg" class="diversity" alt="Unicorn - 1st executive position">
-            </div>
-            <div class="col-md-6 col-xs-12">
-                <h3>1st executive position</h3>
-
-                <p>
-                    And after years of working hard, continuous education, being a working mom, she became Chief «Bla bla bla I like it so much» Officer. And that’s all. No questions, no pain, no weird looks. Just normal. And remember, BOSSY is the new sexy.
-                </p>
-
-                <p>
-                    As you have seen Sarah’s journey has been a little bit more enjoyable. But just as fictitious as the one through Mordor. Let’s forget about evil orcs and colourful unicorns and let’s take it a little bit more serious. 
-                </p>
-
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-xs-12">
-                <h2>Conclusion</h2>
-            </div>
-            <div class="col-md-6 col-md-offset-3 col-xs-12">
-                <img src="img/diversity/conclusion.jpg" class="diversity" alt="conclusion">
-            </div>
-
-            <div class="col-xs-12">
-                <p>
-                    We often hear «Diversity is not a men's problem, women are just not interested enough in tech». We disagree to a certain point, after all, we chose the tech world ourselves and we strongly believe that it is absolutely important to include all kind of people in the development of our future - independent of gender, age, colour, culture, religion, ...
-                </p>
-                <p>
-                    Although the diversity issue has been worked on for several decades now, it is still among us. But we are all part of the problem - and the solutions. But, how can we foster diversity?
-                    <ul>
-                        <li>
-                            <strong>As an individual:</strong> Be aware of the unconsious biases we all grew up with and avoid to perpetuate them.
-                        </li>
-                        <li>
-                            <strong>As a woman in IT:</strong> Make your own work and your passion visible. Share role models and participate in intitiatives about this topic.
-                        </li>
-                        <li>
-                            <strong>As a company:</strong> Do not only think about quotas and positive discrimination. Create a safe and suitable work environment for <i>all</i> your employees giving equal opportunities. You can also support organizations and projects that foster diversity, i.e. <a href="https://girlswhocode.com" target="_blank">Girls Who Code</a>, <a href="https://djangogirls.org/" target="_blank">Django Girls</a>, <a href="http://railsgirls.com/" target="_blank">Rails Girls</a>, ...
-                        </li>
-                        <li>
-                            <strong>As a government:</strong> Support education inititatives to avoid biases. Develop specific programs sto foster the interst of both girls and bos in technology and sciences.
-                        </li>
-                    </ul>
-                </p>
-
-                <p>
-                    As we both said, not everything has been so bad. Actually we  haven’t been in Mordor in our lives. But our unicorn moment have been scarce. Let’s imagine a - hopefully not so far in the future - world where everything is possible, unicorn exist and agility actually works.
-                </p>
-            </div>
-        </div>
-
-
-        <div class="row">
-            <div class="col-xs-12">
-                <h2>Download</h2>
-                <p>Das gesamte Poster kann in der deutschen wie auch in der englischen Version hier heruntergeladen werden.</p>
-
-            </div>
-
-            <div class="col-md-6 col-xs-12 poster_thumbnail">
-                <a href="img/diversity/diversity_full_en.jpeg" target="_blank">
-                    <img src="img/diversity/diversity_full_en.jpeg" alt="Poster Englisch">
-                    <br/>Englisch
-                </a>
-
-            </div>
-            <div class="col-md-6 col-xs-12 poster_thumbnail">
-                <a href="img/diversity/diversity_full_de.jpeg" target="_blank">
-                    <img src="img/diversity/diversity_full_de.jpeg" alt="Poster Deutsch">
-                    <br/>Deutsch
-                </a>
-            </div>
-
-        </div>
-
-           <div class="row">
-            <div class="col-xs-12">
-
-            </div>
-
         </div>
     </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    
+    <!--#include virtual="/snippets/footer.shtml" -->
+    <!--#include virtual="/snippets/analytics.shtml" -->
+</body>
+          
+              
+            
+       
 
 
-</div>
-</div>
 
-<!--#include virtual="/snippets/footer.shtml" -->
-<!--#include virtual="/snippets/analytics.shtml" -->
 </body>
 </html>
