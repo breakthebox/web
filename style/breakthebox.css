@@ -655,12 +655,16 @@ div.youget-card:hover {
   -o-transform: rotateY(180deg);
   -ms-transform: rotateY(180deg);
   transform: rotateY(180deg);
-  font-family: 'HaveaGreatDay', 'LatoLatinWeb';
-  text-transform: uppercase;
-  padding: 10%;
+  padding-top: 15%;
   background: url("/img/wedo/personas/empty.svg") no-repeat;
   background-size: 100% auto;
   height: 100vh; }
+  .back h2, .back h3 {
+    font-family: 'HaveaGreatDay', 'LatoLatinWeb';
+    text-transform: uppercase;
+    padding-left: 10%; }
+  .back ul {
+    margin: 0px; }
 
 .persona-img {
   width: 100%; }

@@ -774,11 +774,17 @@ div.youget-card:hover {
   -ms-transform: rotateY(180deg);
   transform: rotateY(180deg);
 
+  padding-top: 15%;
+
+h2,h3 {
   font-family: 'HaveaGreatDay', 'LatoLatinWeb';
   text-transform: uppercase;
+  padding-left: 10%;
+}
 
-  padding: 10%;
-
+ul {
+  margin: 0px;
+}
   background: url('/img/wedo/personas/empty.svg') no-repeat;
   background-size: 100% auto;
   height: 100vh;

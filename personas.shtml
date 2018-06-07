@@ -52,25 +52,264 @@
             </div>
             <div class="row">
 
-                <!-- Tina -->
+                <!-- Anonymous -->
                 <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
                     <div class="flipper">
                         <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Tina.svg" alt="Tina">
+                            <img class="persona-img" src="img/wedo/personas/Anonymous.svg" alt="Anonymous">
                         </div>
                         <div class="back">
-                            <h2>Tina, 22</h2>
-
+                            <h2>Anonymous, ??</h2>
+                            <!-- Personenattribute -->
                             <ul>
-                                <li>Informatik-Studentin</li>
-                                <li>Ledig</li>
-                                <li>eigene Wohnung</li>
+
                             </ul>
+                            <!-- Eigenheiten -->
                             <h3>Eigenheiten</h3>
                             <ul>
-                                <li>Datenschutz-Aktivistin</li>
+                                
                             </ul>
 
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Barbara -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Barbara.svg" alt="Barbara">
+                        </div>
+                        <div class="back">
+                            <h2>Barbara, 48</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Sachbearbeiterin, angestellt</li>
+                                <li>geschieden</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                            <ul>
+                                <li>knappes Haushaltsbudget</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bruno -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Bruno.svg" alt="Bruno">
+                        </div>
+                        <div class="back">
+                            <h2>Bruno, 45</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Bau-Ingenieur, angestellt</li>
+                                <li>verheiratet, 2 Kinder</li>
+                                <li>Eigenheim</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                            <ul>
+                                <li>farbenblind</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Chantal -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Chantal.svg" alt="Chantal">
+                        </div>
+                        <div class="back">
+                            <h2>Chantal, 23</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Kosmetikern, angestellt</li>
+                                <li>ledig</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Fabienne -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Fabienne.svg" alt="Fabienne">
+                        </div>
+                        <div class="back">
+                            <h2>Fabienne, 28</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>System Engineer, angestellt</li>
+                                <li>verheiratet</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Fridolin -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Fridolin.svg" alt="Fridolin">
+                        </div>
+                        <div class="back">
+                            <h2>Fridolin, 55</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Landwirt</li>
+                                <li>geschieden</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Fritz -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Fritz.svg" alt="Fritz">
+                        </div>
+                        <div class="back">
+                            <h2>Fritz, 87</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Rentner</li>
+                                <li>eingetragene Partnerschaft</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                            <ul>
+                                <li>pflegebedürftig, im Pflegeheim</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Jacques -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Jacques.svg" alt="Jacques">
+                        </div>
+                        <div class="back">
+                            <h2>Jacques, 35</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Modeberater, angestellt</li>
+                                <li>eingetragene Partnerschaft</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Laura -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Laura.svg" alt="Laura">
+                        </div>
+                        <div class="back">
+                            <h2>Laura, 35</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Barkeeperin, angestellt</li>
+                                <li>eingetragene Partnerschaft</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                            <ul>
+                                <li>Beteiligt an einer Kollektivgesellschaft, Whiskey-Freunde</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Leo -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Leo.svg" alt="Leo">
+                        </div>
+                        <div class="back">
+                            <h2>Leo, 32</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Bierbrauer, Einzelfirma mit Buchhaltung</li>
+                                <li>ledig</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                            <ul>
+                                <li>Beteiligt an einer Kollektivgesellschaft</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Leonie -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Leonie.svg" alt="Leonie">
+                        </div>
+                        <div class="back">
+                            <h2>Leonie, 32</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Goldschmiedin, Einzelfirma mit Buchhaltung</li>
+                                <li>verheiratet</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Marlies -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Marlies.svg" alt="Marlies">
+                        </div>
+                        <div class="back">
+                            <h2>Marlies, 36</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Sozialarbeiterin, angestellt</li>
+                                <li>verheiratet</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                            <ul>
+                                <li>Linkshänderin</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -83,40 +322,215 @@
                         </div>
                         <div class="back">
                             <h2>Max, 25</h2>
-
+                            <!-- Personenattribute -->
                             <ul>
-                                <li>Profi-Gamer</li>
-                                <li>Ledig</li>
-                                <li>erste eigene Wohnung</li>
+                                <li>Profi-Gamer, Einzelfirma ohne Buchhaltung</li>
+                                <li>ledig</li>
                             </ul>
+
+                            <!-- Eigenheiten -->
                             <h3>Eigenheiten</h3>
                             <ul>
-                                <li>Extrem-Sportler</li>
+                                <li>Profisportler</li>
                             </ul>
-
                         </div>
                     </div>
                 </div>
 
-                <!-- Nicole -->
+                <!-- Monika -->
                 <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
                     <div class="flipper">
                         <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Nicole.svg" alt="Nicole">
+                            <img class="persona-img" src="img/wedo/personas/Monika.svg" alt="Monika">
                         </div>
                         <div class="back">
-                            <h2>Nicole, 36</h2>
-
+                            <h2>Monika, 36</h2>
+                            <!-- Personenattribute -->
                             <ul>
-                                <li>Sozialarbeiterin</li>
-                                <li>Verlobt</li>
-                                <li>gemeinsame Wohnung</li>
+                                <li>Innovatorin</li>
+                                <li>ledig</li>
                             </ul>
+
+                            <!-- Eigenheiten -->
                             <h3>Eigenheiten</h3>
                             <ul>
-                                <li>Linkshänderin</li>
+                                <li>Rampensau</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Noemi -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Noemi.svg" alt="Noemi">
+                        </div>
+                        <div class="back">
+                            <h2>Noemi, 25</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Angestellte Detailhandel</li>
+                                <li>ledig</li>
                             </ul>
 
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Remo -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Remo.svg" alt="Remo">
+                        </div>
+                        <div class="back">
+                            <h2>Remo, 41</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Hochbauzeichner, angestellt</li>
+                                <li>verheiratet</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Rosmarie -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Rosmarie.svg" alt="Rosmarie">
+                        </div>
+                        <div class="back">
+                            <h2>Rosmarie, 91</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Rentnerin</li>
+                                <li>ledig</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                            <ul>
+                                <li>Sitzt im Rollstuhl</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Ruedi -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Ruedi.svg" alt="Ruedi">
+                        </div>
+                        <div class="back">
+                            <h2>Ruedi, 82</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Rentner</li>
+                                <li>verheiratet</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Simon -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Simon.svg" alt="Simon">
+                        </div>
+                        <div class="back">
+                            <h2>Simon, 82</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Arbeitslos</li>
+                                <li>geschieden</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                            <ul>
+                                <li>Hooligan</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Stephane -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Stephane.svg" alt="Stephane">
+                        </div>
+                        <div class="back">
+                            <h2>Stéphane, 52</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Künstler</li>
+                                <li>verheiratet</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                            <ul>
+                                <li>Verbringt 5 Monate pro Jahr im Ausland</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Susi -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Susi.svg" alt="Susi">
+                        </div>
+                        <div class="back">
+                            <h2>Susi, 55</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Landwirtin, mit Buchhaltung</li>
+                                <li>verwitwet</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                            <ul>
+                                <li>Starke Sehschwäche</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tina -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Tina.svg" alt="Tina">
+                        </div>
+                        <div class="back">
+                            <h2>Tina, 22</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>Informatik-Studentin</li>
+                                <li>ledig</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                            <ul>
+                                <li>Datenschutzaktivistin</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -129,410 +543,63 @@
                         </div>
                         <div class="back">
                             <h2>Tom, 32</h2>
-
+                            <!-- Personenattribute -->
                             <ul>
                                 <li>Psychologie-Student</li>
-                                <li>Ledig</li>
-                                <li>eigene Wohnung</li>
+                                <li>ledig</li>
                             </ul>
+
+                            <!-- Eigenheiten -->
                             <h3>Eigenheiten</h3>
                             <ul>
                                 <li>Globetrotter</li>
                             </ul>
-
                         </div>
                     </div>
                 </div>
 
-
-                <!-- Barbara -->
+                <!-- Ueli -->
                 <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
                     <div class="flipper">
                         <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Barbara.svg" alt="Barbara">
+                            <img class="persona-img" src="img/wedo/personas/Ueli.svg" alt="Ueli">
                         </div>
                         <div class="back">
-                            <h2>Barbara, 48</h2>
-
+                            <h2>Ueli, 59</h2>
+                            <!-- Personenattribute -->
                             <ul>
-                                <li>Sachbearbeiterin</li>
-                                <li>Geschieden, 4 Kinder</li>
-                                <li>gemeinsame Wohnung</li>
+                                <li>Landwirt, mit Buchhaltung</li>
+                                <li>verheiratet</li>
                             </ul>
+
+                            <!-- Eigenheiten -->
                             <h3>Eigenheiten</h3>
                             <ul>
-                                <li>knappes Haushaltsbudget</li>
+                                <li>verbringt 4 Monate pro Jahr auf der Alp</li>
                             </ul>
-
                         </div>
                     </div>
                 </div>
 
-                <!-- Bruno -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
+                <!-- Walter -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
                     <div class="flipper">
                         <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Bruno.svg" alt="Bruno">
+                            <img class="persona-img" src="img/wedo/personas/Walter.svg" alt="Walter">
                         </div>
                         <div class="back">
-                            <h2>Bruno, 45</h2>
-
+                            <h2>Walter, 44</h2>
+                            <!-- Personenattribute -->
                             <ul>
-                                <li>Bau-Ingenieur</li>
-                                <li>Verheiratet, 2 Kinder</li>
-                                <li>Eigenheim</li>
+                                <li>Buchhalter, angestellt</li>
+                                <li>verheiratet</li>
                             </ul>
+
+                            <!-- Eigenheiten -->
                             <h3>Eigenheiten</h3>
-                            <ul>
-                                <li>Farbenblind</li>
-                            </ul>
-
                         </div>
                     </div>
                 </div>
-
-                <!-- Susi -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Susi.svg" alt="Susi">
-                        </div>
-                        <div class="back">
-                            <h2>Susi, 75</h2>
-                            <p>
-                                <ul>
-                                    <li>Rentnerin</li>
-                                    <li>Verwittwet</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                <ul>
-                                    <li>starke Sehschwäche</li>
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Fritz -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Fritz.svg" alt="Fritz">
-                        </div>
-                        <div class="back">
-                            <h2>Fritz, 68</h2>
-                            <p>
-                                <ul>
-                                    <li>Rentner, ehem. Landwirt</li>
-                                    <li>Verheiratet</li>
-                                    <li>eigener Hof</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                <ul>
-                                    <li>kein Technik-Freund</li>
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Noemi -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Noemi.svg" alt="Noemi">
-                        </div>
-                        <div class="back">
-                            <h2>Noemi, 25</h2>
-                            <p>
-                                <ul>
-                                    <li>Angestellte Detailhandel</li>
-                                    <li>ledig</li>
-                                    <li>aus Biel (f)</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                <ul>
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Leo -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Leo.svg" alt="Leo">
-                        </div>
-                        <div class="back">
-                            <h2>Leo, 32</h2>
-                            <p>
-                                <ul>
-                                    <li>Bierbrauer, hat eine Einzelfirma (ohne Buchhaltung)</li>
-                                    <li>verheiratet</li>
-                                    <li>aus Bern (d)</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                <ul>
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Fridolin -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Fridolin.svg" alt="Fridolin">
-                        </div>
-                        <div class="back">
-                            <h2>Fridolin, 55</h2>
-                            <p>
-                                <ul>
-                                    <li>Landwirt (ohne Buchhaltung)</li>
-                                    <li>verwitwet</li>
-                                    <li>aus Zweisimmen (d)</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                <ul>
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Jacques -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Jacques.svg" alt="Jacques">
-                        </div>
-                        <div class="back">
-                            <h2>Jacques, 35</h2>
-                            <p>
-                                <ul>
-                                    <li>Modeberater</li>
-                                    <li>eingetragene Partnerschft (mit Joseph)</li>
-                                    <li>aus Moosseedorf (d)</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                <ul>
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Leonie -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Leonie.svg" alt="Leonie">
-                        </div>
-                        <div class="back">
-                            <h2>Leonie, 32</h2>
-                            <p>
-                                <ul>
-                                    <li>Goldschmiedin, Einzelfirma mit Buchhaltung</li>
-                                    <li>verheiratet</li>
-                                    <li>aus Thun (d)</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                <ul>
-                                    <li>hat ein Säule 3a Vorsorge-Konto</li>
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Rosmarie -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Rosmarie.svg" alt="Rosmarie">
-                        </div>
-                        <div class="back">
-                            <h2>Rosmarie, 91</h2>
-                            <p>
-                                <ul>
-                                    <li>Rentnerin</li>
-                                    <li>ledig</li>
-                                    <li>aus Langnau (d)</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                <ul>
-
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Laura -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Laura.svg" alt="Laura">
-                        </div>
-                        <div class="back">
-                            <h2>Laura, 35</h2>
-                            <p>
-                                <ul>
-                                    <li>Barkeeperin, angestellt</li>
-                                    <li>eingetragene Partnerschaft</li>
-                                    <li>aus Burgdorf (d)</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                <ul>
-
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Fabienne -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Fabienne.svg" alt="Fabienne">
-                        </div>
-                        <div class="back">
-                            <h2>Fabienne, 28</h2>
-                            <p>
-                                <ul>
-                                    <li>System Engineer, Unternehmerin</li>
-                                    <li>verheiratet</li>
-                                    <li>aus Moutier (f)</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                <ul>
-                                    <li>massgebliche Beteiligung (50%) an GmbH, mit Lohn (angestellt, ausserkantonal)</li>
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Ruedi -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Ruedi.svg" alt="Ruedi">
-                        </div>
-                        <div class="back">
-                            <h2>Ruedi, 82</h2>
-                            <p>
-                                <ul>
-                                    <li>Rentner</li>
-                                    <li>verheiratet</li>
-                                    <li>aus Trubschachen (d)</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                <ul>
-                                    <li>massgebliche Beteiligung (50%) an GmbH, mit Lohn (angestellt, ausserkantonal)</li>
-                                </ul>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Remo -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Remo.svg" alt="Remo">
-                        </div>
-                        <div class="back">
-                            <h2>Remo, 41</h2>
-                            <p>
-                                <ul>
-                                    <li>Hochbauzeichner, angestellt</li>
-                                    <li>verheiratet</li>
-                                    <li>aus Kerzers (d)</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-
-                <!-- Simon -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Simon.svg" alt="Simon">
-                        </div>
-                        <div class="back">
-                            <h2>Simon, 38</h2>
-                            <p>
-                                <ul>
-                                    <li>arbeitslos</li>
-                                    <li>geschieden</li>
-                                    <li>aus Biel (f)</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Monika -->
-                <div class="flip-container col-md-4 col-sm-6 col-xs-12">
-                    <div class="flipper">
-                        <div class="front">
-                            <img class="persona-img" src="img/wedo/personas/Monika.svg" alt="Monika">
-                        </div>
-                        <div class="back">
-                            <h2>Monika, 36</h2>
-                            <p>
-                                <ul>
-                                    <li>Unternehmerin</li>
-                                    <li>ledig</li>
-                                    <li>aus Bern (d)</li>
-                                </ul>
-                            </p>
-                            <p>
-                                <h3>Eigenheiten</h3>
-                                
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-
-
 
             </div> <!-- ./row -->
         </div> <!-- ./container -->
