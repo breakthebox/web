@@ -61,14 +61,10 @@
                         <div class="back">
                             <h2>Anonymous, ??</h2>
                             <!-- Personenattribute -->
-                            <ul>
-
-                            </ul>
+                            
                             <!-- Eigenheiten -->
                             <h3>Eigenheiten</h3>
-                            <ul>
-                                
-                            </ul>
+                            
 
                         </div>
                     </div>
@@ -287,6 +283,27 @@
                             <!-- Eigenheiten -->
                             <h3>Eigenheiten</h3>
                             
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Marcel -->
+                <div class="flip-container col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                    <div class="flipper">
+                        <div class="front">
+                            <img class="persona-img" src="img/wedo/personas/Marcel.svg" alt="Marcel">
+                        </div>
+                        <div class="back">
+                            <h2>Marcel, 41</h2>
+                            <!-- Personenattribute -->
+                            <ul>
+                                <li>CEO, angestellt</li>
+                                <li>getrennt</li>
+                            </ul>
+
+                            <!-- Eigenheiten -->
+                            <h3>Eigenheiten</h3>
+                           
                         </div>
                     </div>
                 </div>
