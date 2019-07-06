@@ -29,13 +29,9 @@
         <meta itemprop="taxID" content="CHE-381.454.659" />
         <meta itemprop="vatID" content="CHE-381.454.659 MWST" />
         <meta itemprop="founder" itemscope itemtype="http://schema.org/Person">
-            <meta itemprop="email" content="brigitte@breakthebox.ch" />
-            <meta itemprop="gender" content="Female" />
-            <meta itemprop="familyName" content="Hulliger" />
-            <meta itemprop="givenName" content="Brigitte" />
-        </meta>
-
-    </footer>
-
-
-    </footer>
+        <meta itemprop="email" content="brigitte@breakthebox.ch" />
+        <meta itemprop="gender" content="Female" />
+        <meta itemprop="familyName" content="Hulliger" />
+        <meta itemprop="givenName" content="Brigitte" />
+    </meta>
+</footer>
