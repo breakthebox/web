@@ -4,36 +4,11 @@
     <title>Break the Box</title>
     <!--#include file="snippets/header.shtml" -->
 </head>
-<body itemscope itemtype="http://schema.org/Organization">
-<div class="blackfill bg-dark"></div>
-<nav class="navbar navbar-default navbar-fixed-top bg-dark" id="nav">
-    <div class="container-fluid">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                    data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <div class="navbar-brand"><a href="#"><img src="img/logo_landscape_bright.svg" alt=""></a></div>
-        </div>
+<body>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="#weoffer" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">we offer</a>
-                </li>
-                <li><a href="#youget" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">you get</a>
-                </li>
-                <li><a href="#weare" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">we are</a></li>
-                <li><a href="#wedo" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">we do</a></li>
-                <li><a href="#customers" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">you</a></li>
-            </ul>
-        </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->
-    <hr/>
-</nav>
+    <!--#include file="snippets/nav.shtml" -->
+
+<!--
 <div class="bg-dark">
     <div class="container">
         <div class="mainlogo">
@@ -45,49 +20,16 @@
         </div>
     </div>
 </div>
+-->
 
-
-
-
-<!-- WE BELIEVE -->
-<!-- <div class="bg-light"> -->
-    <!-- <!-- #include file="snippets/webelieve.shtml" --> 
-<!-- </div> -->
-
-<!-- WE OFFER -->
-<div class="bg-blue">
-    <!--#include file="snippets/weoffer.shtml" -->
-</div>
-
-<!-- YOU GET -->
-<div class="bg-dark">
-    <!--#include file="snippets/youget.shtml" -->
-</div>
-
-<!-- WE ARE -->
-<div class="bg-light">
-    <!--#include file="snippets/weare.shtml" -->
-</div>
-
-<!-- WE DO -->
-<div class="bg-blue">
-    <!--#include file="snippets/wedo.shtml" -->
-</div>
-
-
-<!-- EVENTS 
-<div class="bg-dark">
-    <!--#include file="snippets/events.shtml" -->
-<!-- </div> -->
-
-
-
-<div class="bg-light">
-    <!--#include file="snippets/customers.shtml" -->
-</div>
+<!-- Begin page content -->
+<main role="main" class="container">
+  <h1 class="mt-5">Sticky footer with fixed navbar</h1>
+  <p class="lead">Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code>padding-top: 60px;</code> on the <code>body &gt; .container</code>.</p>
+  <p>Back to <a href="../sticky-footer">the default sticky footer</a> minus the navbar.</p>
+</main>
 
 <!--#include file="snippets/footer.shtml" -->
-
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -95,8 +37,8 @@
 
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
-        integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
-        crossorigin="anonymous"></script>
+integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+crossorigin="anonymous"></script>
 
 <script src="beliefs.js"></script>
 <script src="offerings.js"></script>

@@ -1,44 +1,41 @@
-<footer class="footer bg-dark">
+<footer class="footer" itemscope itemtype="http://schema.org/Corporation">
     <div class="container">
         <div class="row">
-            <h2 itemprop="name">Break the Box GmbH</h2>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                    <span itemprop="streetAddress">Bernstrasse 68</span><br/>
-                    <span itemprop="postalCode">3053</span><span itemprop="addressLocality"> Münchenbuchsee</span>
-                </p>
-                <p itemprop="email">info@breakthebox.ch</p>
+            <div class="col-1">
+                <img itemprop="logo" src="/img/logo.png" alt="Logo Break the Box GmbH"/>
             </div>
-            <div class="col-md-6 phone">
-                <p>
-                    Tel. <span itemprop="telephone">+41 76 309 20 88</span><br/>
-                </p>
+            <div class="col-5">
+                <h2 itemscope="legalName">Break the Box GmbH</h2>
+                <address itemscope itemprop="address" itemtype="http://schema.org/PostalAddress">
+                    <span itemprop="streetAddress">Winkelriedstrasse 14</span><br/>
+                    <span itemprop="postalCode">3014</span>&nbsp;<span itemprop="addressLocality">Bern</span>
+                </address>
             </div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-6 col-md-offset-3">
-                <div class="footer-socialmedia light">
-                    <a href="https://github.com/breakthebox" target="_blank"><i class="fa fa-github fa-3x"></i></a>
-                    <a href="https://twitter.com/breakthebox_ch" target="_blank"><i class="fa fa-twitter fa-3x"
-                                                                                    aria-hidden="true"></i></a>
-                    <a href="https://www.youtube.com/channel/UC1b1A2dUD8zVEtwah1de2zQ" target="_blank"><i class="fa fa-youtube fa-3x"
-                                                                                                          aria-hidden="true"></i></a>
-                    <a href="https://www.instagram.com/breakthebox_ch/"><i class="fa fa-instagram fa-3x"
-                                                                           aria-hidden="true"></i></a>
-                    <a href="mailto:info@breakthebox.ch"><i class="fa fa-envelope fa-3x" aria-hidden="true"></i></a>
-
-                </div>
+            <div class="col-6" style="text-align: right">
+                <h2>&nbsp;</h2>
+                <span itemprop="telephone">+41 (0)76 309 20 88</span><br/>
+                <span><a href="mailto:info@breakthebox.ch" itemprop="email">info@breakthebox.ch</a></span>
             </div>
         </div>
 
-
-        <div class="row disclaimer">
-            &copy; 2018 Copyright Break the Box GmbH. &nbsp;&dash;&nbsp;<a href="impressum.html">Impressum</a>&nbsp;&dash;&nbsp;<a
+        <div class="disclaimer">
+            <p>&copy; 2019 Copyright Break the Box GmbH.&nbsp;&mdash;&nbsp;<a href="impressum.html">Impressum</a>&nbsp;&dash;&nbsp;<a
                 href="datenschutz.html">Datenschutz</a>&nbsp;&dash;&nbsp;<a
-                href="agb.html">AGB</a>
+                href="agb.html">AGB</a></p>
+            </div>
         </div>
-    </div>
-</footer>
+
+        <meta itemprop="url" content="https://www.breakthebox.ch" />
+        <meta itemprop="taxID" content="CHE-381.454.659" />
+        <meta itemprop="vatID" content="CHE-381.454.659 MWST" />
+        <meta itemprop="founder" itemscope itemtype="http://schema.org/Person">
+            <meta itemprop="email" content="brigitte@breakthebox.ch" />
+            <meta itemprop="gender" content="Female" />
+            <meta itemprop="familyName" content="Hulliger" />
+            <meta itemprop="givenName" content="Brigitte" />
+        </meta>
+
+    </footer>
+
+
+    </footer>
