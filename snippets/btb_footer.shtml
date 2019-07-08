@@ -1,18 +1,18 @@
 <footer class="footer" itemscope itemtype="http://schema.org/Corporation">
     <div class="container">
         <div class="row">
-            <div class="col-1">
+            <div class="col-2">
                 <img itemprop="logo" src="/img/logo.png" alt="Logo Break the Box GmbH"/>
             </div>
             <div class="col-5">
-                <h2 itemscope="legalName">Break the Box GmbH</h2>
+                <strong><p itemscope="legalName">Break the Box GmbH</p></strong>
                 <address itemscope itemprop="address" itemtype="http://schema.org/PostalAddress">
                     <span itemprop="streetAddress">Winkelriedstrasse 14</span><br/>
                     <span itemprop="postalCode">3014</span>&nbsp;<span itemprop="addressLocality">Bern</span>
                 </address>
             </div>
-            <div class="col-6" style="text-align: right">
-                <h2>&nbsp;</h2>
+            <div class="col-5" style="text-align: right">
+                <p>&nbsp;</p>
                 <span itemprop="telephone">+41 (0)76 309 20 88</span><br/>
                 <span><a href="mailto:info@breakthebox.ch" itemprop="email">info@breakthebox.ch</a></span>
             </div>

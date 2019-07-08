@@ -1,6 +1,6 @@
 /*$font-stack: "LatoLatinWeb", sans-serif;*/
-@import 'variables';
-@import 'mixins';
+@import 'btb_variables';
+@import 'btb_mixins';
 
 /* Sticky footer styles
 -------------------------------------------------- */
@@ -10,16 +10,66 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  /*margin-bottom: 150px;*/
 }
-.footer {
+
+nav {
+  border-bottom: 1px solid #e7e7e7;
+  background-color: $fg-light;
+}
+
+.brand_logo {
+  height: 40px;
+}
+
+main {
+  margin-top: 67px;
+  background-color: #e7e7e7;
+}
+
+/** 0 Intro */
+#intro {
+  min-height: 80vh;
+  background-image: url('/img/1_clouds.svg');
+  background-repeat: repeat-x;
+  background-position: bottom;
+
+  img {
+    text-align: center;
+    width: 50vw;
+    max-width: 80vw;
+    display: block;
+    margin: auto;
+    position: absolute;
+    bottom: 80px;
+    left: 25vw;
+  }
+}
+
+
+@media (max-width: 768px) {
+  #intro {
+    img {
+      width: 80vw;
+      max-width: 90vw;
+      left: 10vw;
+    }
+  } 
+}
+/*@include media-breakpoint-down(sm) { ... }
+@include media-breakpoint-down(md) { ... }
+@include media-breakpoint-down(lg) { ... }*/
+
+
+footer {
+
   color: $fg-light;
   a {
     color: $bg-medium;
   }
-  font-size: 0.9rem;
-  position: absolute;
-  bottom: 0;
+  font-size: 0.8rem;
+  /*position: absolute;*/
+  /*bottom: 0;*/
   width: 100%;
   padding-top: 1rem;
   /* Set the fixed height of the footer here */
@@ -30,7 +80,9 @@ body {
 
 
   img {
-    width: 100%;
+    /*max-width: 100%;*/
+    max-height: 100px;
+    padding:  0.5rem 0;
   }
 
   .disclaimer {

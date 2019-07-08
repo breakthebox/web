@@ -8,7 +8,7 @@
     <!--#include file="snippets/btb_nav.shtml" -->
 
     <!-- Begin page content -->
-    <main role="main" class="container">
+    <main role="main" class="container-fluid">
         <!--#include file="main.shtml" -->
     </main>
 
